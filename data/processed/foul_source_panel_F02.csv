@@ -1,0 +1,7 @@
+incident_id,minute_focus,player,victim,claim,country_family,outlet,stance,quote_or_paraphrase,archived_file
+F02,29 / 1H pattern,Nicolás Tagliafico,Lamine Yamal,under_carded,UK,Athletic / Graham Scott,under_carded,could easily have received yellow; studs on calf,data/raw/articles/athletic_eng.txt
+F02,29,Nicolás Tagliafico,Lamine Yamal,under_carded,IN,Times of India,under_carded,29th minute no card; favouritism debate; weight on leg,data/raw/articles/multicountry/IN_toi_tagliafico.txt
+F02,1H pattern,Nicolás Tagliafico,Lamine Yamal,under_carded,ES,Marca,under_carded,glue on Yamal; ref preferred not to book early,data/raw/articles/quotes_final.md
+F02,37 / 1H pattern,Nicolás Tagliafico,Lamine Yamal,under_carded,FR,RMC Sport BFMTV,under_carded_named,Yamal chahuté; plaqué 37e; crampons; first Y only later,data/raw/articles/multicountry/FR_rmc_bfm.txt
+F02,28,Nicolás Tagliafico,Lamine Yamal,under_carded,FR_VN,Vietnam.vn FR / Zing relay,under_carded,28e tacle violent; crampons mollet; aucune sanction; cites BBC Lang,data/raw/articles/multicountry/VN_fr_tagliafico.txt
+F02,1H,Nicolás Tagliafico,Lamine Yamal,under_carded,AR,Clarín/Olé,silent,No AR outlet archived calling for Tagliafico yellow,

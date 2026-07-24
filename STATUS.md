@@ -9,48 +9,38 @@ Last updated: 2026-07-25
 
 ## Stage
 
-**Foul-level unit live** — `foul_level.csv` is the primary analysis table
-(217 called fouls). L2 claims attach to foul rows where minute+player known;
-aggregates (E01) stay tagged separately.
+**Foul-level + multi-country panels for F01/F02; Egypt E01 multi-country aggregate.**  
+Primary unit remains the foul; country-family scoring in `SOURCE_PANEL.md`.
 
 ## Live artefacts
 
 | Path | What |
 |------|------|
-| **`data/processed/foul_level.csv`** | **Primary: one row per called foul** |
-| `data/processed/foul_mbm_alignment_final.csv` | Foul × minute × journalist (final) |
-| `output/foul_mbm_alignment_summary.md` | Consensus coverage of uncarded fouls |
-| `coding/SOURCE_PANEL.md` | Multi-country family rules |
-| `data/processed/foul_source_panel_F01.csv` | F01 outlet×country panel |
-| `data/processed/country_consensus_F01.csv` | F01 country-family rollup |
-| `output/multicountry_consensus_summary.md` | International consensus write-up |
-| `data/raw/articles/multicountry/` | FR/DE/UK/IN archives |
-| `data/processed/foul_level_l2_matched.csv` | Fouls with L2 claim attached |
-| `output/foul_level_summary.md` | Card rates + L2-matched list |
-| `docs/reference/EXHAUSTIVENESS.md` | L1/L2/L3 protocol |
-| `data/processed/l1_match_summary.csv` | Match aggregates (secondary) |
-| `data/processed/master_incident_registry.csv` | Claim clusters |
-| `data/processed/final_incident_source_matrix.csv` | Final L2 |
-| `data/processed/egypt_incident_source_matrix.csv` | Egypt L2 |
-| `data/processed/england_incident_source_matrix.csv` | England L2 |
-| `output/agreement_stats.md` | Summary tables |
+| `data/processed/foul_level.csv` | One row per called foul |
+| `data/processed/foul_mbm_alignment_final.csv` | Foul × journalist (final) |
+| `coding/SOURCE_PANEL.md` | Multi-country rules |
+| `data/processed/foul_source_panel_F01.csv` | F01 outlet panel |
+| `data/processed/foul_source_panel_F02.csv` | F02 outlet panel |
+| `data/processed/country_consensus_F01.csv` | F01 families |
+| `data/processed/country_consensus_F02.csv` | F02 families |
+| `data/processed/country_consensus_E01.csv` | Egypt aggregate families |
+| `data/raw/articles/multicountry/` | FR/DE/UK/IN/AR/VN archives |
+| `output/multicountry_consensus_summary.md` | Debate-ready scorecard |
 
-## Key findings (stable)
+## Key findings
 
-1. **F01** Mac Allister–Olmo final: **multi-country** under-carding (UK+ES+FR+DE+IN);
-   **AR oppose/silent**.
-2. **E01** Egypt: strongest L1 soft notebook + multi-source EN/FA protest.
-3. Card rates **path-dependent** — soft mid-path (JOR, EGY); not free pass late.
-4. Clarín: Vincic *permisivo*, but Enzo first Y “exagerada” (reverse of EN F04).
+1. **F01** Mac Allister–Olmo: under_carded in **UK+ES+FR+DE+IN**; **AR oppose/silent**.
+2. **F02** Tagliafico–Yamal: under_carded in **UK+ES+FR+IN**; AR silent.
+3. **E01** Egypt: EN + **Arabic MENA** (Alyaum soft on ARG cards) + EG FA; still **aggregate**, not 13 foul-level consensus rows.
+4. Path-dependent card rates: soft JOR/EGY; not free pass late KO.
 
 ## Outstanding TODOs
 
-1. Same country panel for **F02** Tagliafico + **E01** Egypt aggregate
-2. Arabic / Egyptian press on Egypt R16
-3. IT full archive (Tribuna 403) + L’Équipe if paywall allows
-4. L3 video on F01
-5. Expand foul×MbM script to ingest `multicountry/` automatically
+1. ES/FR/DE press specifically on Egypt card counts
+2. L3 video on F01 (+ F02 29′)
+3. Optional Italy full archive
+4. Auto-ingest multicountry into `06_foul_mbm_alignment.py`
 
 ## Next action
 
-Multi-country panel for F02 and Egypt E01 (same SOURCE_PANEL rules).
+Video L3 on F01, or short public note / thread from multicountry scorecard.

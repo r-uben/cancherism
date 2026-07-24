@@ -1,44 +1,60 @@
-# Multi-country consensus — pilot foul F01
+# Multi-country consensus — F01 + F02 + E01
 
-## Question
+Protocol: `coding/SOURCE_PANEL.md` (score by **country family**, not UK clone count).
 
-For the **Mac Allister–Olmo foul (~14–15′ final)**, free kick given, no yellow:
-do independent media **across countries** agree it should have been a booking?
+---
 
-## Country-family scorecard
+## F01 — Mac Allister–Olmo ~14′ (foul-level)
 
-| Family | Stance | Outlets (examples) |
-|--------|--------|-------------------|
-| **UK** | under_carded | BBC, Sun/Richards, Liverpool.com/Scott, Mail, ESPN ratings |
-| **ES** | under_carded | AS, Marca |
-| **FR** | under_carded (named 15′) | RMC/BFMTV |
-| **DE** | under_carded (named 14′) | Die Welt |
-| **IN** | under_carded (named 15′) | Times Now |
-| **AR** | **oppose / silent** | Clarín (no yellow call); Olé (reverse “robbery”) |
+| Family | Stance |
+|--------|--------|
+| UK | under_carded |
+| ES | under_carded |
+| FR | under_carded (named 15′) |
+| DE | under_carded (named 14′) |
+| IN | under_carded (named 15′) |
+| AR | **oppose / silent** |
 
-**Families asserting under-carding: 5** (UK, ES, FR, DE, IN)  
-**Non-English families: 3** (ES, FR, DE)  
-**Opposing family: AR**
+**International multi-country under-carding: YES** (5 families, 3 non-English).  
+AR does not join.
 
-→ Meets protocol for **international multi-country consensus** on under-carding  
-  (`≥3` families, `≥1` non-English), **with Argentine media not joining**.
+---
 
-## What this is not
+## F02 — Tagliafico–Yamal 1H pattern (foul-level / pattern)
 
-- Not 12 independent countries if we double-count UK tabloids.
-- Not consensus that *Argentina was favoured all tournament*.
-- Not foul-level multi-country coverage for Egypt’s 13 uncarded fouls (still aggregate).
+| Family | Stance |
+|--------|--------|
+| UK | under_carded (Athletic/Scott) |
+| ES | under_carded (Marca) |
+| FR | under_carded named (RMC; VN-FR relay) |
+| IN | under_carded (TOI **29′**) |
+| AR | silent |
 
-## Files
+**International multi-country under-carding: YES** (UK+ES+FR+IN; ≥1 non-English).  
+Maps to Opta uncarded Tagliafico rows 18′/29′/36′ (pattern, not three independent dossiers).
 
-- `coding/SOURCE_PANEL.md` — rules  
-- `data/processed/foul_source_panel_F01.csv` — outlet rows  
-- `data/processed/country_consensus_F01.csv` — family rollup  
-- `data/raw/articles/multicountry/*` — archives  
-- `data/raw/articles/quotes_multicountry_F01.md` — quotes  
+---
 
-## Next fouls for the same panel
+## E01 — Egypt R16 (match aggregate only)
 
-1. Tagliafico–Yamal pattern (F02) — already FR (RMC) + ES + UK/Athletic  
-2. Egypt E01 aggregate — need FR/DE/AR/EGY Arabic press  
-3. Spain 0 cards control — multi-country silence check
+| Family | Stance |
+|--------|--------|
+| UK/EN | under_carded aggregate (New Arab, ESPN) |
+| MENA_AR | soft on ARG fouls (Alyaum explicit) |
+| EG_FA | formal protest |
+| Al Jazeera / FIFA | reports protest; Collina defends |
+| ES/FR/DE/AR-Argentina | not archived this pass |
+
+**Multi-country soft-card narrative: YES at match level** (EN + Arabic MENA + EG FA).  
+**Not** 13 foul-level multi-source events.
+
+---
+
+## Stack for debate use
+
+1. **F01** — best foul-level international panel  
+2. **F02** — second foul-pattern international panel  
+3. **E01** — strongest notebook asymmetry + MENA/EN protest frame  
+
+Files: `foul_source_panel_F0*.csv`, `country_consensus_*.csv`,  
+`quotes_multicountry_*.md`, `data/raw/articles/multicountry/`.

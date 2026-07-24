@@ -3,7 +3,7 @@ GS01,ARG-ALG GS,760433,2026-06-17,match,spoiling_style,Argentina,,,Both teams 0 
 GS02,ARG-AUT GS,760456,2026-06-22,76,under_carded,Argentina,Facundo Medina,,Symmetric cards ARG 2 AUT 2,yes,76',0,0,0,0,n/a,n/a,L1,closed,Cards given
 GS03,JOR-ARG GS,760483,2026-06-28,match,under_carded,Argentina,,,ARG 7F 0C vs JOR 13F 3C L1 soft; no media campaign,yes,aggregate,0,0,0,0,no,weak,L1,closed_nohit,L2 search no-hit
 R3201,ARG-CPV R32,760500,2026-07-03,115,under_carded,Argentina,Gonzalo Montiel,,Only 1 ARG YC in ET,yes,115',0,0,0,0,no,weak,L1,closed_nohit,No multi-source campaign
-E01,ARG-EGY R16,760509,2026-07-07,match,under_carded,Argentina,,,ARG 13F 0YC; Egypt 11F 4YC + protest,yes,aggregate,4,0,0,5,yes_en_plus_protest,strong,L2,closed_provisional,Best mid-path aggregate
+E01,ARG-EGY R16,760509,2026-07-07,match,under_carded,Argentina,,,ARG 13F 0YC; Egypt 11F 4YC + protest; multi-country EN+MENA,yes,aggregate,4,0,0,5,yes_multicountry_EN_MENA_EG_FA,strong,L2,closed_provisional,Aggregate only; Alyaum+AA+FA; see country_consensus_E01.csv
 E02,ARG-EGY R16,760509,2026-07-07,58,other,Egypt,Marwan Attia,Lisandro Martínez,Egypt goal VAR overturned; Collina defends,yes,58',3,0,0,5,yes_documented_disputed,strong,L2,closed_provisional,Disputed not pure under_card
 E03,ARG-EGY R16,760509,2026-07-07,90+,uncalled_foul,Argentina,Mac Allister / unclear,Salah area,No VAR check before ARG winner,partial,90+,3,0,0,4,yes_protest_side,medium,L2,closed_provisional,Outlet wording differs
 E04,ARG-EGY R16,760509,2026-07-07,90+,over_carded,Egypt,,,Egypt bench/player cards after winner,yes,90+,3,0,0,4,yes_en,strong,L2,closed_provisional,
@@ -13,7 +13,7 @@ SF01,ENG-ARG SF,760515,2026-07-15,3,under_carded,Argentina,Enzo Fernández,Ellio
 SF02,ENG-ARG SF,760515,2026-07-15,42-51,under_carded,Argentina,Lisandro / Romero,,CBs booked,yes,42/51,0,0,0,0,n/a,n/a,L1,closed,Cards given
 SF03,ENG-ARG SF,760515,2026-07-15,match,spoiling_style,Argentina,,,Feisty/prod-poke; BBC 19 fouls 1H,yes,match,2,0,0,2,no,narrative,L2,closed_provisional,Weak
 F01,ESP-ARG Final,760517,2026-07-19,14-15,under_carded,Argentina,Alexis Mac Allister,Dani Olmo,Late reckless; FK yes yellow no; multi-country panel,yes,14',5,2,0,7,yes_multicountry_UK_ES_FR_DE_IN_not_AR,strong,L2,closed_provisional,Country families UK ES FR DE IN under_carded; AR oppose/silent; see foul_source_panel_F01.csv
-F02,ESP-ARG Final,760517,2026-07-19,1H,under_carded,Argentina,Nicolás Tagliafico,Lamine Yamal,Studs/bring-downs no early booking,partial,multiple,2,1,0,3,yes_en_es_not_ar,strong,L2,closed_provisional,
+F02,ESP-ARG Final,760517,2026-07-19,1H,under_carded,Argentina,Nicolás Tagliafico,Lamine Yamal,Studs/bring-downs no early booking; multi-country UK ES FR IN,partial,multiple,2,1,0,4,yes_multicountry_UK_ES_FR_IN_not_AR,strong,L2,closed_provisional,Pattern-level; TOI 29'; RMC; see country_consensus_F02.csv
 F03,ESP-ARG Final,760517,2026-07-19,52+,spoiling_style,Argentina,Leandro Paredes,,Provocateur,partial,52',4,1,2,7,yes_cross_lang,mixed,L2,closed_provisional,
 F04,ESP-ARG Final,760517,2026-07-19,82,under_carded,Argentina,Enzo Fernández,,Dissent Y; Clarín says first Y exaggerated,yes,82',1,0,0,1,no,weak,L2,closed_provisional,AR over_card frame
 F05,ESP-ARG Final,760517,2026-07-19,match,spoiling_style,Argentina,,,Spoiling + early leniency,n/a,,4,2,1,7,yes_cross_lang,narrative,L2,closed_provisional,Clarin permisivo

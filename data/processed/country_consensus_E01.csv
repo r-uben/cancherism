@@ -1,0 +1,11 @@
+incident_id,level,country_family,stance,n_outlets,notes
+E01,match_aggregate,UK_EN,under_carded_aggregate,2,New Arab; ESPN Africa/social stats frame
+E01,match_aggregate,US_EN,under_carded_or_protest,1,ESPN story FA complaint
+E01,match_aggregate,MENA_AR,under_carded_soft_on_ARG,2,Alyaum explicit no cards despite roughness; AA global criticism
+E01,match_aggregate,EG_FA,protest_package,1,Official complaint VAR + bias
+E01,match_aggregate,INT_QATAR_ALJ,reports_both,1,Al Jazeera Collina defence + FA claims
+E01,match_aggregate,FIFA,defends_integrity,1,Collina
+E01,match_aggregate,ES,not_archived,0,TODO
+E01,match_aggregate,FR,not_archived,0,TODO
+E01,match_aggregate,DE,not_archived,0,TODO
+E01,match_aggregate,AR_Argentina,not_archived,0,TODO thin
