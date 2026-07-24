@@ -9,38 +9,34 @@ Last updated: 2026-07-25
 
 ## Stage
 
-**Foul-level + multi-country panels for F01/F02; Egypt E01 multi-country aggregate.**  
-Primary unit remains the foul; country-family scoring in `SOURCE_PANEL.md`.
+**Multi-country panels complete for F01/F02/E01; L3 sheet ready (uncoded).**  
+IT Corriere adds Italy to F01+F02; DE Sportschau fills Egypt DE family.
 
-## Live artefacts
+## Headline scorecard
 
-| Path | What |
+| Incident | Level | Families under_carded | AR stance |
+|----------|-------|----------------------:|-----------|
+| F01 Mac Allister 14′ | foul | UK ES FR DE IN **IT** (6) | oppose/silent |
+| F02 Tagliafico–Yamal | foul pattern | UK ES FR IN **IT** (5) | silent |
+| E01 Egypt | match aggregate | EN + MENA_AR + DE + EG_FA | n/a |
+
+## Key paths
+
+| Path | Role |
 |------|------|
-| `data/processed/foul_level.csv` | One row per called foul |
-| `data/processed/foul_mbm_alignment_final.csv` | Foul × journalist (final) |
-| `coding/SOURCE_PANEL.md` | Multi-country rules |
-| `data/processed/foul_source_panel_F01.csv` | F01 outlet panel |
-| `data/processed/foul_source_panel_F02.csv` | F02 outlet panel |
-| `data/processed/country_consensus_F01.csv` | F01 families |
-| `data/processed/country_consensus_F02.csv` | F02 families |
-| `data/processed/country_consensus_E01.csv` | Egypt aggregate families |
-| `data/raw/articles/multicountry/` | FR/DE/UK/IN/AR/VN archives |
-| `output/multicountry_consensus_summary.md` | Debate-ready scorecard |
+| `coding/SOURCE_PANEL.md` | Country-family rules |
+| `coding/L3_VIDEO_SHEET.md` | Video coding protocol |
+| `data/processed/foul_level.csv` | Primary unit |
+| `data/processed/country_consensus_F0*.csv` | Family rollups |
+| `data/raw/articles/multicountry/` | Archives |
+| `output/multicountry_consensus_summary.md` | Debate card |
 
-## Key findings
+## Outstanding
 
-1. **F01** Mac Allister–Olmo: under_carded in **UK+ES+FR+DE+IN**; **AR oppose/silent**.
-2. **F02** Tagliafico–Yamal: under_carded in **UK+ES+FR+IN**; AR silent.
-3. **E01** Egypt: EN + **Arabic MENA** (Alyaum soft on ARG cards) + EG FA; still **aggregate**, not 13 foul-level consensus rows.
-4. Path-dependent card rates: soft JOR/EGY; not free pass late KO.
-
-## Outstanding TODOs
-
-1. ES/FR/DE press specifically on Egypt card counts
-2. L3 video on F01 (+ F02 29′)
-3. Optional Italy full archive
-4. Auto-ingest multicountry into `06_foul_mbm_alignment.py`
+1. Human L3 codes for F01 / F02 29′
+2. FR Egypt card-count piece if found
+3. Optional public write-up / thread
 
 ## Next action
 
-Video L3 on F01, or short public note / thread from multicountry scorecard.
+L3 video coding of F01 (and F02 29′) using `L3_VIDEO_SHEET.md`, **or** short write-up from scorecard.

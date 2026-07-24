@@ -5,7 +5,7 @@ E01,match_aggregate,MENA_AR,under_carded_soft_on_ARG,2,Alyaum explicit no cards 
 E01,match_aggregate,EG_FA,protest_package,1,Official complaint VAR + bias
 E01,match_aggregate,INT_QATAR_ALJ,reports_both,1,Al Jazeera Collina defence + FA claims
 E01,match_aggregate,FIFA,defends_integrity,1,Collina
-E01,match_aggregate,ES,not_archived,0,TODO
-E01,match_aggregate,FR,not_archived,0,TODO
-E01,match_aggregate,DE,not_archived,0,TODO
-E01,match_aggregate,AR_Argentina,not_archived,0,TODO thin
+E01,match_aggregate,ES,protest_reported,1,AS cited by Blick: Egypt denuncia FIFA (page 403; secondary)
+E01,match_aggregate,FR,not_archived,0,SoFoot 404 this pass
+E01,match_aggregate,DE,protest_bias_frame,1,Sportschau: FA complaint; Hassan; Collina rebuttal; shirt pull before winner
+E01,match_aggregate,AR_Argentina,not_archived,0,thin

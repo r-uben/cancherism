@@ -29,10 +29,20 @@ This is **match-level**, not 13 foul-level multi-source events.
 > الاتحاد المصري يحتج… قرارات تحكيمية + VAR  
 > no-card freedom less explicit than Alyaum; protest package
 
-## ES / FR / DE / AR (Argentina)
+## DE — Germany
 
-Spanish/French/German dedicated “13 fouls 0 cards” write-ups **not archived this pass**.  
-Argentine press on Egypt soft-carding: thin (final absorbed attention).
+**Sportschau**  
+> Official Egyptian FA complaint vs Letexier; Hassan: Argentines pressured ref.  
+> Pre-winner: Mac Allister shirt pull on Fathy in box (Egypt claim).  
+> Collina rejects Messi-favouritism claims.
+
+## ES — Spain (secondary)
+
+AS reported Egypt FIFA complaint (cited by Swiss Blick); primary AS page 403 this pass.
+
+## FR / AR-Argentina
+
+FR dedicated card-count piece not archived (SoFoot 404). Argentine press thin on Egypt.
 
 ## Coding note
 
@@ -40,5 +50,6 @@ Argentine press on Egypt soft-carding: thin (final absorbed attention).
 |--------|------------------------------|
 | UK/EN | under_carded aggregate (New Arab, ESPN) |
 | MENA_AR | under_carded / soft on ARG fouls (Alyaum explicit) |
+| DE | protest/bias frame (Sportschau); not foul-count table |
 | EG_FA | protest package (VAR + bias) |
-| FIFA/Collina | integrity defence (not under_card admit) |
+| FIFA/Collina | integrity defence |

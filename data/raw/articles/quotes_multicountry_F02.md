@@ -39,7 +39,11 @@ TOI pinpoints **29′**; RMC cites 37′ plaqué + crampons; Athletic/Scott gene
 No mainstream Clarín/Olé line found calling for Tagliafico yellow on Yamal.  
 → `AR silent/oppose` (not coded under_carded)
 
+## IT — Italy
+
+**Corriere**  
+> Mac Allister su Olmo e **Tagliafico su Yamal meritano il giallo**, ma Vincic lascia fare.
+
 ## DE
 
-No dedicated Welt-style archive for Tagliafico alone this pass (Welt covered Mac Allister).  
-→ DE not scored for F02 yet.
+No dedicated Tagliafico-only DE piece this pass (Welt covered Mac Allister).

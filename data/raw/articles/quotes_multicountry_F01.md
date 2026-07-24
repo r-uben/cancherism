@@ -55,7 +55,9 @@ Opta: free kick given, **no yellow**. `foul_id` in `foul_level.csv` event 760517
 
 ## IT — Italy
 
-Tribuna IT page 403 at archive time; secondary reports cite Italian blogs (“travolge Olmo… niente giallo”). Treat as **unverified** until archived.
+**Corriere della Sera (live final)**  
+> …l’Argentina usa le maniere spicce… **Mac Allister su Olmo e Tagliafico su Yamal meritano il giallo, ma Vincic lascia fare.**  
+> 14′: Mac Allister stende Dani Olmo… panchina spagnola… ammonizione.
 
 ## US
 
