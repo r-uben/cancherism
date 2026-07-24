@@ -18,6 +18,8 @@ aggregates (E01) stay tagged separately.
 | Path | What |
 |------|------|
 | **`data/processed/foul_level.csv`** | **Primary: one row per called foul** |
+| `data/processed/foul_mbm_alignment_final.csv` | Foul × minute × journalist (final) |
+| `output/foul_mbm_alignment_summary.md` | Consensus coverage of uncarded fouls |
 | `data/processed/foul_level_l2_matched.csv` | Fouls with L2 claim attached |
 | `output/foul_level_summary.md` | Card rates + L2-matched list |
 | `docs/reference/EXHAUSTIVENESS.md` | L1/L2/L3 protocol |

@@ -1,0 +1,18 @@
+foul_id,minute_raw,minute_num,foul_player,carded,fk_zone,l2_prior,n_sources,sources,severity_discussion,consensus_ge2,consensus_ge3,n_claim_snips,claim_snippets
+760517_49879055,14',14.0,Alexis Mac Allister,0,,F01,4,athletic|bbc|guardian|marca_as,1,1,1,5,"[athletic] Top referees always want their first yellow to be for an offence that no one can dispute, which sometimes leads to borderline tackles being excused early in the match. But Mac Allister crossed the lin || [bbc_report] Mac Allister was late on Dani Olmo; Spain complained about Vincic's leniency || [guardian_report] Mac Allister could have been booked for an early foul on Dani Olmo || [athletic_scott] clear yellow card for reckless play; crossed the line in the 15th minute || [as_marca] Mereció la amarilla / cleats first on Olmo"
+760517_49879092,18',18.0,Nicolás Tagliafico,0,,F02,2,athletic|marca_as,1,1,0,2,[athletic_scott] Tagliafico could easily have received a yellow for deliberately bringing down Yamal / studs || [marca] Tagliafico glue on Yamal; ref preferred not to book early
+760517_49879205,29',29.0,Nicolás Tagliafico,0,,F02,2,athletic|marca_as,1,1,0,2,[athletic_scott] Tagliafico could easily have received a yellow for deliberately bringing down Yamal / studs || [marca] Tagliafico glue on Yamal; ref preferred not to book early
+760517_49879313,36',36.0,Nicolás Tagliafico,0,,F02,2,athletic|marca_as,1,1,0,2,[athletic_scott] Tagliafico could easily have received a yellow for deliberately bringing down Yamal / studs || [marca] Tagliafico glue on Yamal; ref preferred not to book early
+760517_49879650,52',52.0,Leandro Paredes,1,,,2,athletic|guardian,1,1,0,2,[athletic] Paredes booked for cynical elbow into Rodri's back || [guardian] Paredes could have been sent off several times; post-whistle red
+760517_49879759,60',60.0,Leandro Paredes,0,,,1,guardian,1,0,0,1,[guardian] Paredes could have been sent off several times; post-whistle red
+760517_49879939,76',76.0,Leandro Paredes,0,,,1,guardian,1,0,0,1,[guardian] Paredes could have been sent off several times; post-whistle red
+760517_49880237,90'+6',90.06,Leandro Paredes,1,,,1,guardian,1,0,0,1,[guardian] Paredes could have been sent off several times; post-whistle red
+760517_49880588,111',111.0,Alexis Mac Allister,1,,,1,guardian,1,0,0,1,"[guardian] 
+11.49pm
+CEST
+23:49
+111 min
+Mac Allister is booked for a foul on somebody or other.
+Argentina
+look semi-resigned to their fate.
+"
