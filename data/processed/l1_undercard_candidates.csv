@@ -1,0 +1,188 @@
+event_id,match,minute_raw,minute_num,foul_team,is_argentina,foul_player,fk_zone,x,y,nearby_card_pm3,player_booked_in_match,text,play_id,priority_review
+760433,ARG-ALG GS,34',34.0,Algeria,0,Amine Gouiri,defensive half,56.2,25.9,0,0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,49536166,0
+760433,ARG-ALG GS,36',36.0,Algeria,0,Rafik Belghali,,37.0,26.6,0,0,Foul by Rafik Belghali (Algeria).,49536190,0
+760433,ARG-ALG GS,45'+4',45.04,Algeria,0,Rafik Belghali,,38.4,9.4,0,0,Foul by Rafik Belghali (Algeria).,49536402,0
+760433,ARG-ALG GS,48',48.0,Algeria,0,Hicham Boudaoui,defensive half,33.8,38.3,0,0,Lionel Messi (Argentina) wins a free kick in the defensive half.,49536473,0
+760433,ARG-ALG GS,63',63.0,Algeria,0,Hicham Boudaoui,,42.8,22.6,0,0,Foul by Hicham Boudaoui (Algeria).,49536725,0
+760433,ARG-ALG GS,64',64.0,Algeria,0,Mohammed Amoura,attacking half,45.0,60.4,0,0,Cristian Romero (Argentina) wins a free kick in the attacking half.,49536737,0
+760433,ARG-ALG GS,75',75.0,Algeria,0,Farès Chaïbi,,73.2,93.8,0,0,Foul by Farès Chaïbi (Algeria).,49536901,0
+760433,ARG-ALG GS,1',1.0,Argentina,1,Enzo Fernández,,58.6,74.5,0,0,Foul by Enzo Fernández (Argentina).,49535632,1
+760433,ARG-ALG GS,10',10.0,Argentina,1,Lautaro Martínez,defensive half,26.1,30.8,0,0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.,49535793,1
+760433,ARG-ALG GS,11',11.0,Argentina,1,Gonzalo Montiel,left wing,26.6,8.9,0,0,Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.,49535801,1
+760433,ARG-ALG GS,31',31.0,Argentina,1,Lionel Messi,,68.8,76.8,0,0,Foul by Lionel Messi (Argentina).,49536125,1
+760433,ARG-ALG GS,37',37.0,Argentina,1,Facundo Medina,defensive half,23.9,65.2,0,0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.,49536204,1
+760433,ARG-ALG GS,43',43.0,Argentina,1,Alexis Mac Allister,,38.7,11.5,0,0,Foul by Alexis Mac Allister (Argentina).,49536289,1
+760433,ARG-ALG GS,45',45.0,Argentina,1,Lautaro Martínez,,63.2,51.4,0,0,Foul by Lautaro Martínez (Argentina).,49536330,1
+760433,ARG-ALG GS,51',51.0,Argentina,1,Cristian Romero,,68.0,21.0,0,0,Foul by Cristian Romero (Argentina).,49536536,1
+760433,ARG-ALG GS,55',55.0,Argentina,1,Cristian Romero,left wing,44.8,4.6,0,0,Amine Gouiri (Algeria) wins a free kick on the left wing.,49536592,1
+760433,ARG-ALG GS,83',83.0,Argentina,1,Facundo Medina,,43.3,93.6,0,0,Foul by Facundo Medina (Argentina).,49536985,1
+760433,ARG-ALG GS,83',83.0,Argentina,1,Julián Alvarez,,66.0,75.0,0,0,Foul by Julián Alvarez (Argentina).,49536994,1
+760433,ARG-ALG GS,85',85.0,Argentina,1,Alexis Mac Allister,attacking half,24.3,59.6,0,0,Houssem Aouar (Algeria) wins a free kick in the attacking half.,49537027,1
+760433,ARG-ALG GS,90'+5',90.05,Argentina,1,Nico Paz,attacking half,48.0,41.7,0,0,Ramy Bensebaini (Algeria) wins a free kick in the attacking half.,49537245,1
+760456,ARG-AUT GS,11',11.0,Argentina,1,Lisandro Martínez,attacking half,42.7,56.6,0,0,Michael Gregoritsch (Austria) wins a free kick in the attacking half.,49583016,1
+760456,ARG-AUT GS,14',14.0,Argentina,1,Alexis Mac Allister,,11.8,17.3,0,0,Foul by Alexis Mac Allister (Argentina).,49583051,1
+760456,ARG-AUT GS,21',21.0,Argentina,1,Lautaro Martínez,,63.6,9.6,0,0,Foul by Lautaro Martínez (Argentina).,49583185,1
+760456,ARG-AUT GS,32',32.0,Argentina,1,Facundo Medina,defensive half,27.6,9.6,0,1,Romano Schmid (Austria) wins a free kick in the defensive half.,49583319,0
+760456,ARG-AUT GS,35',35.0,Argentina,1,Nahuel Molina,attacking half,42.2,38.8,0,0,Marcel Sabitzer (Austria) wins a free kick in the attacking half.,49583392,1
+760456,ARG-AUT GS,44',44.0,Argentina,1,Alexis Mac Allister,attacking half,35.0,61.4,0,0,Romano Schmid (Austria) wins a free kick in the attacking half.,49583488,1
+760456,ARG-AUT GS,45',45.0,Argentina,1,Enzo Fernández,attacking half,38.2,57.8,0,0,Romano Schmid (Austria) wins a free kick in the attacking half.,49583505,1
+760456,ARG-AUT GS,45'+2',45.02,Argentina,1,Lautaro Martínez,left wing,25.0,3.4,0,0,Konrad Laimer (Austria) wins a free kick on the left wing.,49583538,1
+760456,ARG-AUT GS,53',53.0,Argentina,1,Enzo Fernández,defensive half,24.6,16.8,0,0,Romano Schmid (Austria) wins a free kick in the defensive half.,49583806,1
+760456,ARG-AUT GS,54',54.0,Argentina,1,Cristian Romero,attacking half,21.2,24.0,0,0,Konrad Laimer (Austria) wins a free kick in the attacking half.,49583823,1
+760456,ARG-AUT GS,4',4.0,Austria,0,,,13.2,56.4,0,0,Penalty conceded by Stefan Posch (Austria) after a foul in the penalty area.,49582963,0
+760456,ARG-AUT GS,10',10.0,Austria,0,Romano Schmid,,84.5,4.8,0,0,Foul by Romano Schmid (Austria).,49583013,0
+760456,ARG-AUT GS,18',18.0,Austria,0,Paul Wanner,,53.6,44.3,0,0,Foul by Paul Wanner (Austria).,49583113,0
+760456,ARG-AUT GS,48',48.0,Austria,0,Xaver Schlager,,57.0,63.4,0,0,Foul by Xaver Schlager (Austria).,49583724,0
+760456,ARG-AUT GS,52',52.0,Austria,0,Xaver Schlager,,31.1,55.6,0,0,Foul by Xaver Schlager (Austria).,49583796,0
+760456,ARG-AUT GS,57',57.0,Austria,0,Paul Wanner,,73.2,35.6,0,0,Foul by Paul Wanner (Austria).,49583862,0
+760456,ARG-AUT GS,88',88.0,Austria,0,Patrick Wimmer,,76.4,9.8,0,0,Foul by Patrick Wimmer (Austria).,49584379,0
+760456,ARG-AUT GS,90'+1',90.01,Austria,0,Patrick Wimmer,,9.4,15.9,0,0,Foul by Patrick Wimmer (Austria).,49584427,0
+760456,ARG-AUT GS,90'+7',90.07,Austria,0,Patrick Wimmer,,29.8,65.9,0,0,Foul by Patrick Wimmer (Austria).,49584501,0
+760456,ARG-AUT GS,90'+7',90.07,Austria,0,,attacking half,70.6,33.8,0,0,Lionel Messi (Argentina) wins a free kick in the attacking half.,49584502,0
+760483,JOR-ARG GS,1',1.0,Argentina,1,Giuliano Simeone,,40.6,14.6,0,0,Foul by Giuliano Simeone (Argentina).,49645164,1
+760483,JOR-ARG GS,32',32.0,Argentina,1,Giovani Lo Celso,right wing,49.8,88.6,0,0,Ali Olwan (Jordan) wins a free kick on the right wing.,49646087,1
+760483,JOR-ARG GS,33',33.0,Argentina,1,Exequiel Palacios,attacking half,45.4,23.8,0,0,Odeh Fakhoury (Jordan) wins a free kick in the attacking half.,49646100,1
+760483,JOR-ARG GS,34',34.0,Argentina,1,Nico Paz,defensive half,69.7,76.0,0,0,Nizar Al Rashdan (Jordan) wins a free kick in the defensive half.,49646135,1
+760483,JOR-ARG GS,42',42.0,Argentina,1,Lautaro Martínez,defensive half,72.2,77.0,0,0,Ali Azaizeh (Jordan) wins a free kick in the defensive half.,49646454,1
+760483,JOR-ARG GS,49',49.0,Argentina,1,Nicolás Tagliafico,defensive half,63.0,89.0,0,0,Mousa Al Tamari (Jordan) wins a free kick in the defensive half.,49646875,1
+760483,JOR-ARG GS,75',75.0,Argentina,1,Nicolás Otamendi,left wing,19.8,13.5,0,0,Mahmoud Al Mardi (Jordan) wins a free kick on the left wing.,49647666,1
+760483,JOR-ARG GS,28',28.0,Jordan,0,,,6.0,49.2,0,0,Penalty conceded by Nizar Al Rashdan (Jordan) after a foul in the penalty area.,49646031,0
+760483,JOR-ARG GS,41',41.0,Jordan,0,Yazan Al Arab,,93.4,91.6,0,1,Foul by Yazan Al Arab (Jordan).,49646409,0
+760483,JOR-ARG GS,45'+2',45.02,Jordan,0,Odeh Fakhoury,,68.8,45.6,0,0,Foul by Odeh Fakhoury (Jordan).,49646614,0
+760483,JOR-ARG GS,45'+3',45.03,Jordan,0,Yazan Al Arab,,32.8,75.6,0,1,Foul by Yazan Al Arab (Jordan).,49646644,0
+760483,JOR-ARG GS,45'+3',45.03,Jordan,0,,attacking half,66.8,25.6,0,0,Nico Paz (Argentina) wins a free kick in the attacking half.,49646646,0
+760483,JOR-ARG GS,49',49.0,Jordan,0,Ali Olwan,,83.2,13.4,0,0,Foul by Ali Olwan (Jordan).,49646888,0
+760483,JOR-ARG GS,79',79.0,Jordan,0,Amer Jamous,,27.8,51.0,0,0,Foul by Amer Jamous (Jordan).,49647773,0
+760483,JOR-ARG GS,85',85.0,Jordan,0,Ehsan Haddad,,96.8,20.8,0,0,Foul by Ehsan Haddad (Jordan).,49647931,0
+760500,ARG-CPV R32,4',4.0,Argentina,1,Rodrigo De Paul,,37.8,4.4,0,0,Foul by Rodrigo De Paul (Argentina).,49687202,1
+760500,ARG-CPV R32,10',10.0,Argentina,1,Cristian Romero,attacking half,47.0,47.0,0,0,Jovane Cabral (Cabo Verde) wins a free kick in the attacking half.,49687303,1
+760500,ARG-CPV R32,32',32.0,Argentina,1,Nahuel Molina,defensive half,58.6,27.0,0,0,Jovane Cabral (Cabo Verde) wins a free kick in the defensive half.,49687602,1
+760500,ARG-CPV R32,43',43.0,Argentina,1,Lautaro Martínez,defensive half,94.2,25.6,0,0,Vozinha (Cabo Verde) wins a free kick in the defensive half.,49687791,1
+760500,ARG-CPV R32,45'+2',45.02,Argentina,1,Lionel Messi,defensive half,69.8,33.8,0,0,Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.,49687872,1
+760500,ARG-CPV R32,50',50.0,Argentina,1,Lautaro Martínez,defensive half,59.8,77.2,0,0,Pico Lopes (Cabo Verde) wins a free kick in the defensive half.,49687979,1
+760500,ARG-CPV R32,53',53.0,Argentina,1,Thiago Almada,defensive half,69.9,90.2,0,0,Steven Moreira (Cabo Verde) wins a free kick in the defensive half.,49688032,1
+760500,ARG-CPV R32,58',58.0,Argentina,1,Cristian Romero,defensive half,55.4,25.1,0,0,Laros Duarte (Cabo Verde) wins a free kick in the defensive half.,49688127,1
+760500,ARG-CPV R32,77',77.0,Argentina,1,Alexis Mac Allister,attacking half,32.6,38.4,0,0,Jamiro Monteiro (Cabo Verde) wins a free kick in the attacking half.,49688345,1
+760500,ARG-CPV R32,90'+5',90.05,Argentina,1,Julián Alvarez,defensive half,4.6,50.2,0,0,Vozinha (Cabo Verde) wins a free kick in the defensive half.,49688599,1
+760500,ARG-CPV R32,90'+6',90.06,Argentina,1,Nico González,attacking half,40.4,74.0,0,0,Steven Moreira (Cabo Verde) wins a free kick in the attacking half.,49688604,1
+760500,ARG-CPV R32,17',17.0,Cape Verde,0,Jovane Cabral,,24.3,39.1,0,0,Foul by Jovane Cabral (Cabo Verde).,49687420,0
+760500,ARG-CPV R32,17',17.0,Cape Verde,0,,attacking half,78.6,61.3,0,0,Lionel Messi (Argentina) wins a free kick in the attacking half.,49687422,0
+760500,ARG-CPV R32,40',40.0,Cape Verde,0,Deroy Duarte,,64.3,23.9,0,0,Foul by Deroy Duarte (Cabo Verde).,49687737,0
+760500,ARG-CPV R32,42',42.0,Cape Verde,0,Deroy Duarte,,67.8,75.4,0,0,Foul by Deroy Duarte (Cabo Verde).,49687776,0
+760500,ARG-CPV R32,43',43.0,Cape Verde,0,Diney Borges,,59.4,92.4,0,0,Foul by Diney Borges (Cabo Verde).,49687787,0
+760500,ARG-CPV R32,68',68.0,Cape Verde,0,,attacking half,73.0,39.4,0,0,Lionel Messi (Argentina) wins a free kick in the attacking half.,49688265,0
+760500,ARG-CPV R32,71',71.0,Cape Verde,0,Deroy Duarte,,20.4,35.6,0,0,Foul by Deroy Duarte (Cabo Verde).,49688326,0
+760500,ARG-CPV R32,78',78.0,Cape Verde,0,Dailon Livramento,,87.0,83.0,0,0,Foul by Dailon Livramento (Cabo Verde).,49688350,0
+760500,ARG-CPV R32,79',79.0,Cape Verde,0,Kevin Pina,,58.0,12.3,0,0,Foul by Kevin Pina (Cabo Verde).,49688366,0
+760500,ARG-CPV R32,90'+4',90.04,Cape Verde,0,Jamiro Monteiro,,75.8,37.0,0,0,Foul by Jamiro Monteiro (Cabo Verde).,49688594,0
+760500,ARG-CPV R32,90'+8',90.08,Cape Verde,0,Willy Semedo,,23.8,96.7,0,0,Foul by Willy Semedo (Cabo Verde).,49688637,0
+760500,ARG-CPV R32,107',107.0,Cape Verde,0,Jamiro Monteiro,,26.2,71.6,0,0,Foul by Jamiro Monteiro (Cabo Verde).,49689253,0
+760500,ARG-CPV R32,110',110.0,Cape Verde,0,Willy Semedo,,68.0,8.0,0,0,Foul by Willy Semedo (Cabo Verde).,49689336,0
+760509,ARG-EGY R16,5',5.0,Argentina,1,Enzo Fernández,defensive half,60.3,83.6,0,0,Mohamed Salah (Egypt) wins a free kick in the defensive half.,49730788,1
+760509,ARG-EGY R16,7',7.0,Argentina,1,Nicolás Tagliafico,,77.6,5.2,0,0,Foul by Nicolás Tagliafico (Argentina).,49730840,1
+760509,ARG-EGY R16,11',11.0,Argentina,1,Enzo Fernández,defensive half,57.8,30.1,0,0,Karim Hafez (Egypt) wins a free kick in the defensive half.,49730907,1
+760509,ARG-EGY R16,13',13.0,Argentina,1,Rodrigo De Paul,attacking half,39.2,48.7,0,0,Emam Ashour (Egypt) wins a free kick in the attacking half.,49730954,1
+760509,ARG-EGY R16,21',21.0,Argentina,1,Cristian Romero,defensive half,60.4,6.6,0,0,Emam Ashour (Egypt) wins a free kick in the defensive half.,49731044,1
+760509,ARG-EGY R16,23',23.0,Argentina,1,Lisandro Martínez,defensive half,41.4,22.0,0,0,Mohamed Salah (Egypt) wins a free kick in the defensive half.,49731075,1
+760509,ARG-EGY R16,45',45.0,Argentina,1,Julián Alvarez,attacking half,55.8,74.2,0,0,Mohamed Salah (Egypt) wins a free kick in the attacking half.,49731396,1
+760509,ARG-EGY R16,45'+2',45.02,Argentina,1,Julián Alvarez,defensive half,60.6,26.0,0,0,Ramy Rabia (Egypt) wins a free kick in the defensive half.,49731436,1
+760509,ARG-EGY R16,46',46.0,Argentina,1,Lisandro Martínez,defensive half,56.3,16.4,0,0,Mohamed Salah (Egypt) wins a free kick in the defensive half.,49731511,1
+760509,ARG-EGY R16,48',48.0,Argentina,1,Julián Alvarez,defensive half,96.6,47.0,0,0,Mostafa Shobeir (Egypt) wins a free kick in the defensive half.,49731548,1
+760509,ARG-EGY R16,48',48.0,Argentina,1,Nicolás Tagliafico,defensive half,60.3,83.2,0,0,Haissem Hassan (Egypt) wins a free kick in the defensive half.,49731551,1
+760509,ARG-EGY R16,87',87.0,Argentina,1,Nico González,defensive half,63.6,91.6,0,0,Omar Marmoush (Egypt) wins a free kick in the defensive half.,49732163,1
+760509,ARG-EGY R16,90'+7',90.07,Argentina,1,Nico González,defensive half,72.0,93.6,0,0,Zizo (Egypt) wins a free kick in the defensive half.,49732287,1
+760509,ARG-EGY R16,18',18.0,Egypt,0,Yasser Ibrahim,,60.2,14.2,0,0,Foul by Yasser Ibrahim (Egypt).,49731025,0
+760509,ARG-EGY R16,19',19.0,Egypt,0,,,14.0,30.8,0,0,Penalty conceded by Haissem Hassan (Egypt) after a foul in the penalty area.,49731036,0
+760509,ARG-EGY R16,30',30.0,Egypt,0,Marwan Attia,,32.2,43.4,0,1,Foul by Marwan Attia (Egypt).,49731162,0
+760509,ARG-EGY R16,33',33.0,Egypt,0,Mohanad Lasheen,,74.8,20.3,0,0,Foul by Mohanad Lasheen (Egypt).,49731195,0
+760509,ARG-EGY R16,44',44.0,Egypt,0,Marwan Attia,,38.2,78.9,0,1,Foul by Marwan Attia (Egypt).,49731385,0
+760509,ARG-EGY R16,52',52.0,Egypt,0,Mohamed Salah,,29.6,31.6,0,0,Foul by Mohamed Salah (Egypt).,49731628,0
+760509,ARG-EGY R16,55',55.0,Egypt,0,Hamdi Fathy,,28.6,75.2,0,1,Foul by Hamdi Fathy (Egypt).,49731691,0
+760509,ARG-EGY R16,58',58.0,Egypt,0,Marwan Attia,,11.4,13.5,0,1,Foul by Marwan Attia (Egypt).,49731757,0
+760509,ARG-EGY R16,64',64.0,Egypt,0,Mohamed Salah,,43.0,15.8,0,0,Foul by Mohamed Salah (Egypt).,49731820,0
+760513,ARG-SUI QF,3',3.0,Argentina,1,Julián Alvarez,,73.0,3.4,0,0,Foul by Julián Alvarez (Argentina).,49769543,1
+760513,ARG-SUI QF,13',13.0,Argentina,1,Cristian Romero,,52.8,15.1,0,0,Foul by Cristian Romero (Argentina).,49769859,1
+760513,ARG-SUI QF,35',35.0,Argentina,1,Julián Alvarez,,22.8,4.6,0,0,Foul by Julián Alvarez (Argentina).,49770527,1
+760513,ARG-SUI QF,36',36.0,Argentina,1,Leandro Paredes,,59.3,67.2,0,0,Foul by Leandro Paredes (Argentina).,49770564,1
+760513,ARG-SUI QF,40',40.0,Argentina,1,Lisandro Martínez,,40.8,86.8,0,0,Foul by Lisandro Martínez (Argentina).,49770665,1
+760513,ARG-SUI QF,42',42.0,Argentina,1,Leandro Paredes,,6.4,17.0,0,0,Foul by Leandro Paredes (Argentina).,49770693,1
+760513,ARG-SUI QF,45',45.0,Argentina,1,Lisandro Martínez,,44.8,26.4,0,0,Foul by Lisandro Martínez (Argentina).,49770723,1
+760513,ARG-SUI QF,48',48.0,Argentina,1,Nicolás Tagliafico,,30.6,92.1,0,0,Foul by Nicolás Tagliafico (Argentina).,49771073,1
+760513,ARG-SUI QF,79',79.0,Argentina,1,Julián Alvarez,,53.0,7.9,0,0,Foul by Julián Alvarez (Argentina).,49771856,1
+760513,ARG-SUI QF,90'+9',90.09,Argentina,1,Gonzalo Montiel,defensive half,12.1,67.0,0,0,Miro Muheim (Switzerland) wins a free kick in the defensive half.,49772249,1
+760513,ARG-SUI QF,107',107.0,Argentina,1,Alexis Mac Allister,left wing,30.7,2.4,0,0,Miro Muheim (Switzerland) wins a free kick on the left wing.,49772582,1
+760513,ARG-SUI QF,118',118.0,Argentina,1,José Manuel López,left wing,34.2,9.2,0,1,Ardon Jashari (Switzerland) wins a free kick on the left wing.,49772722,0
+760513,ARG-SUI QF,1',1.0,Switzerland,0,Denis Zakaria,defensive half,93.2,5.1,0,0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,49769481,0
+760513,ARG-SUI QF,17',17.0,Switzerland,0,,defensive half,19.0,12.1,0,0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,49770014,0
+760513,ARG-SUI QF,17',17.0,Switzerland,0,Ricardo Rodríguez,,81.4,88.4,0,0,Foul by Ricardo Rodríguez (Switzerland).,49770012,0
+760513,ARG-SUI QF,22',22.0,Switzerland,0,Fabian Rieder,defensive half,32.3,97.8,0,0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,49770160,0
+760513,ARG-SUI QF,23',23.0,Switzerland,0,Djibril Sow,left wing,43.2,6.5,0,0,Lisandro Martínez (Argentina) wins a free kick on the left wing.,49770170,0
+760513,ARG-SUI QF,28',28.0,Switzerland,0,Granit Xhaka,defensive half,68.8,81.2,0,0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,49770296,0
+760513,ARG-SUI QF,32',32.0,Switzerland,0,Dan Ndoye,defensive half,82.8,76.2,0,0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,49770429,0
+760513,ARG-SUI QF,39',39.0,Switzerland,0,Denis Zakaria,defensive half,89.7,24.8,0,0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,49770655,0
+760513,ARG-SUI QF,59',59.0,Switzerland,0,Remo Freuler,defensive half,41.4,76.9,0,0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,49771361,0
+760513,ARG-SUI QF,62',62.0,Switzerland,0,Djibril Sow,attacking half,37.4,23.7,0,0,Nicolás Tagliafico (Argentina) wins a free kick in the attacking half.,49771472,0
+760513,ARG-SUI QF,98',98.0,Switzerland,0,Manuel Akanji,,90.3,63.5,0,0,Foul by Manuel Akanji (Switzerland).,49772407,0
+760513,ARG-SUI QF,102',102.0,Switzerland,0,Zeki Amdouni,,27.2,63.7,0,0,Foul by Zeki Amdouni (Switzerland).,49772476,0
+760513,ARG-SUI QF,102',102.0,Switzerland,0,,attacking half,72.6,36.3,0,0,Lionel Messi (Argentina) wins a free kick in the attacking half.,49772478,0
+760513,ARG-SUI QF,110',110.0,Switzerland,0,Manuel Akanji,,52.2,27.4,0,0,Foul by Manuel Akanji (Switzerland).,49772632,0
+760515,ENG-ARG SF,2',2.0,Argentina,1,Leandro Paredes,,58.0,21.0,0,0,Foul by Leandro Paredes (Argentina).,49796217,1
+760515,ENG-ARG SF,3',3.0,Argentina,1,Enzo Fernández,,45.4,66.2,0,0,Foul by Enzo Fernández (Argentina).,49796242,1
+760515,ENG-ARG SF,6',6.0,Argentina,1,Giuliano Simeone,,65.6,9.2,0,0,Foul by Giuliano Simeone (Argentina).,49796298,1
+760515,ENG-ARG SF,9',9.0,Argentina,1,Giuliano Simeone,defensive half,59.3,35.2,0,0,Elliot Anderson (England) wins a free kick in the defensive half.,49796334,1
+760515,ENG-ARG SF,16',16.0,Argentina,1,Giuliano Simeone,defensive half,59.0,4.6,0,0,Anthony Gordon (England) wins a free kick in the defensive half.,49796448,1
+760515,ENG-ARG SF,25',25.0,Argentina,1,Giuliano Simeone,defensive half,97.0,49.6,0,0,Jordan Pickford (England) wins a free kick in the defensive half.,49796570,1
+760515,ENG-ARG SF,32',32.0,Argentina,1,Enzo Fernández,attacking half,26.4,23.3,0,0,Jude Bellingham (England) wins a free kick in the attacking half.,49796657,1
+760515,ENG-ARG SF,34',34.0,Argentina,1,Giuliano Simeone,defensive half,59.8,20.2,0,0,Marc Guéhi (England) wins a free kick in the defensive half.,49796672,1
+760515,ENG-ARG SF,35',35.0,Argentina,1,Nahuel Molina,left wing,16.4,14.2,0,0,Jude Bellingham (England) wins a free kick on the left wing.,49796694,1
+760515,ENG-ARG SF,45'+3',45.03,Argentina,1,,right wing,44.8,86.7,0,0,Reece James (England) wins a free kick on the right wing.,49796908,1
+760515,ENG-ARG SF,69',69.0,Argentina,1,Cristian Romero,defensive half,95.2,76.8,0,1,Djed Spence (England) wins a free kick in the defensive half.,49797368,0
+760515,ENG-ARG SF,81',81.0,Argentina,1,Nico González,defensive half,23.4,27.4,0,0,Harry Kane (England) wins a free kick in the defensive half.,49797543,1
+760515,ENG-ARG SF,8',8.0,England,0,,defensive half,30.2,53.7,0,0,Julián Alvarez (Argentina) wins a free kick in the defensive half.,49796310,0
+760515,ENG-ARG SF,9',9.0,England,0,Reece James,defensive half,69.9,32.0,0,0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,49796323,0
+760515,ENG-ARG SF,10',10.0,England,0,Elliot Anderson,,66.8,52.8,0,1,Foul by Elliot Anderson (England).,49796343,0
+760515,ENG-ARG SF,21',21.0,England,0,Morgan Rogers,,76.7,44.3,0,0,Foul by Morgan Rogers (England).,49796537,0
+760515,ENG-ARG SF,23',23.0,England,0,Jude Bellingham,,41.8,70.4,0,0,Foul by Jude Bellingham (England).,49796562,0
+760515,ENG-ARG SF,23',23.0,England,0,,attacking half,60.1,29.7,0,0,Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,49796564,0
+760515,ENG-ARG SF,30',30.0,England,0,Anthony Gordon,,63.6,70.5,0,0,Foul by Anthony Gordon (England).,49796628,0
+760515,ENG-ARG SF,53',53.0,England,0,Jude Bellingham,,51.3,21.6,0,0,Foul by Jude Bellingham (England).,49797086,0
+760515,ENG-ARG SF,67',67.0,England,0,Morgan Rogers,,61.2,4.8,0,0,Foul by Morgan Rogers (England).,49797339,0
+760515,ENG-ARG SF,90'+9',90.09,England,0,Jude Bellingham,,63.3,68.2,0,0,Foul by Jude Bellingham (England).,49797746,0
+760515,ENG-ARG SF,90'+12',90.12,England,0,Dan Burn,,90.8,45.1,0,0,Foul by Dan Burn (England).,49797778,0
+760517,ESP-ARG Final,4',4.0,Argentina,1,Gonzalo Montiel,defensive half,53.3,12.2,0,0,Álex Baena (Spain) wins a free kick in the defensive half.,49878856,1
+760517,ESP-ARG Final,14',14.0,Argentina,1,Alexis Mac Allister,,56.7,87.8,0,1,Foul by Alexis Mac Allister (Argentina).,49879055,0
+760517,ESP-ARG Final,18',18.0,Argentina,1,Nicolás Tagliafico,,58.7,91.1,0,0,Foul by Nicolás Tagliafico (Argentina).,49879092,1
+760517,ESP-ARG Final,29',29.0,Argentina,1,Nicolás Tagliafico,,64.3,93.3,0,0,Foul by Nicolás Tagliafico (Argentina).,49879205,1
+760517,ESP-ARG Final,34',34.0,Argentina,1,Julián Alvarez,,25.3,19.4,0,0,Foul by Julián Alvarez (Argentina).,49879285,1
+760517,ESP-ARG Final,36',36.0,Argentina,1,Nicolás Tagliafico,,70.2,94.4,0,0,Foul by Nicolás Tagliafico (Argentina).,49879313,1
+760517,ESP-ARG Final,56',56.0,Argentina,1,Julián Alvarez,,52.8,36.2,0,0,Foul by Julián Alvarez (Argentina).,49879710,1
+760517,ESP-ARG Final,56',56.0,Argentina,1,,defensive half,47.2,62.6,0,0,Aymeric Laporte (Spain) wins a free kick in the defensive half.,49879711,1
+760517,ESP-ARG Final,60',60.0,Argentina,1,Leandro Paredes,,24.2,73.3,0,1,Foul by Leandro Paredes (Argentina).,49879759,0
+760517,ESP-ARG Final,62',62.0,Argentina,1,Nicolás Otamendi,,23.0,90.6,0,0,Foul by Nicolás Otamendi (Argentina).,49879773,1
+760517,ESP-ARG Final,76',76.0,Argentina,1,Leandro Paredes,,33.8,34.0,0,1,Foul by Leandro Paredes (Argentina).,49879939,0
+760517,ESP-ARG Final,94',94.0,Argentina,1,Giuliano Simeone,,65.4,29.2,0,0,Foul by Giuliano Simeone (Argentina).,49880311,1
+760517,ESP-ARG Final,100',100.0,Argentina,1,Lionel Messi,,56.6,77.1,0,0,Foul by Lionel Messi (Argentina).,49880377,1
+760517,ESP-ARG Final,105'+3',105.03,Argentina,1,Giuliano Simeone,,82.2,92.2,0,0,Foul by Giuliano Simeone (Argentina).,49880504,1
+760517,ESP-ARG Final,105'+3',105.03,Argentina,1,,defensive half,16.4,7.6,0,0,Pedro Porro (Spain) wins a free kick in the defensive half.,49880506,1
+760517,ESP-ARG Final,120'+3',120.03,Argentina,1,Nicolás Tagliafico,,81.6,59.0,0,0,Foul by Nicolás Tagliafico (Argentina).,49880735,1
+760517,ESP-ARG Final,2',2.0,Spain,0,Pedro Porro,defensive half,65.4,31.2,0,0,Nico González (Argentina) wins a free kick in the defensive half.,49878814,0
+760517,ESP-ARG Final,8',8.0,Spain,0,Lamine Yamal,defensive half,17.4,93.4,0,0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,49878952,0
+760517,ESP-ARG Final,16',16.0,Spain,0,Álex Baena,attacking half,35.0,45.8,0,0,Lionel Messi (Argentina) wins a free kick in the attacking half.,49879065,0
+760517,ESP-ARG Final,20',20.0,Spain,0,Dani Olmo,defensive half,87.6,93.1,0,0,Enzo Fernández (Argentina) wins a free kick in the defensive half.,49879106,0
+760517,ESP-ARG Final,24',24.0,Spain,0,Rodri,defensive half,61.0,38.2,0,0,Lionel Messi (Argentina) wins a free kick in the defensive half.,49879176,0
+760517,ESP-ARG Final,33',33.0,Spain,0,Rodri,left wing,66.2,95.2,0,0,Alexis Mac Allister (Argentina) wins a free kick on the left wing.,49879277,0
+760517,ESP-ARG Final,45'+3',45.03,Spain,0,Mikel Oyarzabal,defensive half,31.2,34.6,0,0,Lionel Messi (Argentina) wins a free kick in the defensive half.,49879526,0
+760517,ESP-ARG Final,50',50.0,Spain,0,Álex Baena,defensive half,76.6,92.5,0,0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,49879630,0
+760517,ESP-ARG Final,51',51.0,Spain,0,Álex Baena,right wing,39.8,93.8,0,0,Gonzalo Montiel (Argentina) wins a free kick on the right wing.,49879640,0
+760517,ESP-ARG Final,54',54.0,Spain,0,Pedro Porro,defensive half,59.0,10.1,0,0,Julián Alvarez (Argentina) wins a free kick in the defensive half.,49879672,0
+760517,ESP-ARG Final,54',54.0,Spain,0,Álex Baena,defensive half,78.1,94.8,0,0,Gonzalo Montiel (Argentina) wins a free kick in the defensive half.,49879678,0
+760517,ESP-ARG Final,90'+1',90.01,Spain,0,Ferran Torres,defensive half,41.7,17.7,0,0,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,49880179,0
+760517,ESP-ARG Final,90'+1',90.01,Spain,0,Aymeric Laporte,attacking half,35.4,76.6,0,0,Lionel Messi (Argentina) wins a free kick in the attacking half.,49880188,0
+760517,ESP-ARG Final,92',92.0,Spain,0,Pedro Porro,defensive half,27.4,76.4,0,0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,49880277,0
+760517,ESP-ARG Final,93',93.0,Spain,0,Pedri,defensive half,70.4,44.0,0,0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,49880298,0
+760517,ESP-ARG Final,96',96.0,Spain,0,Mikel Merino,defensive half,87.8,47.3,0,0,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,49880352,0
+760517,ESP-ARG Final,108',108.0,Spain,0,Lamine Yamal,attacking half,43.6,36.0,0,0,Nicolás Tagliafico (Argentina) wins a free kick in the attacking half.,49880534,0
+760517,ESP-ARG Final,114',114.0,Spain,0,Nico Williams,right wing,42.8,88.9,0,0,Leandro Paredes (Argentina) wins a free kick on the right wing.,49880643,0
+760517,ESP-ARG Final,119',119.0,Spain,0,Nico Williams,right wing,39.2,81.0,0,0,Marcos Senesi (Argentina) wins a free kick on the right wing.,49880697,0
+760517,ESP-ARG Final,120'+4',120.04,Spain,0,Eric García,defensive half,45.6,58.7,0,0,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,49880744,0
+760517,ESP-ARG Final,120'+5',120.05,Spain,0,Marc Cucurella,defensive half,62.8,74.0,0,0,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,49880758,0

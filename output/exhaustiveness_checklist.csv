@@ -1,0 +1,13 @@
+layer,match,event_id,opta_fouls,opta_cards,l1_complete,l2_en,l2_es,l2_ar,l2_stop_rule,notes
+L1,ARG-ALG GS,760433,yes,yes,yes,no,no,no,open,0-0 cards both; low media
+L1,ARG-AUT GS,760456,yes,yes,yes,no,no,no,open,Symmetric cards
+L1,JOR-ARG GS,760483,yes,yes,yes,no,no,no,open,ARG softer on L1 rates
+L1,ARG-CPV R32,760500,yes,yes,yes,no,no,no,open,ARG 1 late YC only
+L1,ARG-EGY R16,760509,yes,yes,yes,partial,no,no,open,Best mid-path asymmetry; Egypt FA protest
+L1,ARG-SUI QF,760513,yes,yes,yes,no,no,no,open,Opp red; ARG late cards
+L1,ENG-ARG SF,760515,yes,yes,yes,partial,no,no,open,Athletic narrative; Enzo early foul claim
+L1,ESP-ARG Final,760517,yes,yes,yes,yes,yes,partial,partial,F01-F07 matrix; TyC/Clarin gap
+L2,ESP-ARG Final,760517,n/a,n/a,n/a,yes,yes,partial,partial,Strongest L2 case
+L2,ARG-EGY R16,760509,n/a,n/a,n/a,partial,no,no,open,Need Marca/AS/Olé
+L2,ENG-ARG SF,760515,n/a,n/a,n/a,partial,no,no,open,Need BBC/Guardian full
+L3,multi-agreed only,,,n/a,n/a,n/a,n/a,n/a,not_started,Video intensity/recadito

@@ -1,0 +1,21 @@
+incident_id,match,event_id,date,minute_approx,claim_class,offender_team,offender_player,victim_player,description,opta_match,opta_minute,n_sources_en,n_sources_es,n_sources_ar,n_sources_total,consensus_provisional,evidence_strength,layer,status,notes
+GS01,ARG-ALG GS,760433,2026-06-17,match,spoiling_style,Argentina,,,Group-stage foul volume (13 fouls ARG 0 cards both teams),yes,aggregate,0,0,0,0,no,weak,L1_only,open,Both teams 0 cards — no media claim layer yet
+GS02,ARG-AUT GS,760456,2026-06-22,76,under_carded,Argentina,Facundo Medina,,Medina yellow exists — control that ARG did get cards,yes,76',0,0,0,0,n/a,n/a,L1_only,closed,ARG got 2 YC this match
+GS03,JOR-ARG GS,760483,2026-06-28,match,under_carded,Argentina,,,ARG 7 fouls 0 cards; Jordan 13 fouls 3 cards,yes,aggregate,0,0,0,0,no,weak,L1_only,open,Soft path game; low media attention
+R3201,ARG-CPV R32,760500,2026-07-03,115,under_carded,Argentina,Gonzalo Montiel,,Montiel late yellow for bad foul in ET only card for ARG,yes,115',0,0,0,0,no,weak,L1_only,open,1 ARG yellow all match (ET)
+E01,ARG-EGY R16,760509,2026-07-07,match,under_carded,Argentina,,,ARG 13 fouls 0 YC; Egypt 11 fouls 4 YC (stoppage pile-on),yes,aggregate,3,0,0,3,yes_en,strong,L2_partial,open,ESPN/NPR/Al Jazeera on Egypt protest; cards after FT goal chaos
+E02,ARG-EGY R16,760509,2026-07-07,58,other,Egypt,Marwan Attia,Lisandro Martínez,Egypt goal disallowed VAR foul Attia on Martínez,yes,58' VAR,3,0,0,3,yes_en,strong,L2_partial,open,Egypt claim non-foul; Collina defends VAR
+E03,ARG-EGY R16,760509,2026-07-07,90+,under_carded,Argentina,Alexis Mac Allister,,Alleged foul by Mac Allister in buildup to ARG winner; no VAR check,partial,90+,2,0,0,2,no,medium,L2_partial,open,Egypt protest per ESPN
+E04,ARG-EGY R16,760509,2026-07-07,90+,over_carded,Egypt,,,Six cards to Egypt side incl staff red after winner,yes,90+,3,0,0,3,yes_en,strong,L2_partial,open,Cards for dissent not open-play fouls mostly
+Q01,ARG-SUI QF,760513,2026-07-12,72,other,Switzerland,Breel Embolo,,Embolo red — not ARG favoritism claim,yes,72',0,0,0,0,n/a,n/a,L1_only,closed,Opp red
+Q02,ARG-SUI QF,760513,2026-07-12,97-114,under_carded,Argentina,,,ARG 3 late yellows in ET after physical QF,yes,ET,0,0,0,0,no,weak,L1_only,open,ARG eventually carded heavily late
+SF01,ENG-ARG SF,760515,2026-07-15,early,under_carded,Argentina,Enzo Fernández,Elliot Anderson,Alleged early Enzo contact on Anderson head; soft/no card,partial,early,2,0,0,2,no,medium,L2_partial,open,Athletic narrative; needs multi-source confirm
+SF02,ENG-ARG SF,760515,2026-07-15,42-51,under_carded,Argentina,Lisandro Martínez / Cristian Romero,,Two centre-back yellows for bad fouls (did get booked),yes,42/51,0,0,0,0,n/a,n/a,L1_only,closed,Cards given — not under-carded
+SF03,ENG-ARG SF,760515,2026-07-15,match,spoiling_style,Argentina,,,Prod/poke/provoke semi narrative (Athletic),yes,match,1,0,0,1,no,narrative,L2_partial,open,Need BBC/Guardian
+F01,ESP-ARG Final,760517,2026-07-19,14-15,under_carded,Argentina,Alexis Mac Allister,Dani Olmo,Late reckless challenge; FK yes yellow no,yes,14',5,2,0,7,yes_en_es,strong,L2,closed_provisional,Strongest case; AR media reverse narrative
+F02,ESP-ARG Final,760517,2026-07-19,1H,under_carded,Argentina,Nicolás Tagliafico,Lamine Yamal,Studs/bring-downs without early booking,partial,multiple,2,1,0,3,yes_en_es,strong,L2,closed_provisional,
+F03,ESP-ARG Final,760517,2026-07-19,52+,spoiling_style,Argentina,Leandro Paredes,,Provocateur role; shoves barracking,partial,52',4,1,1,6,yes_cross_lang,mixed,L2,closed_provisional,
+F04,ESP-ARG Final,760517,2026-07-19,82,under_carded,Argentina,Enzo Fernández,,First Y dissent; lucky not worse,yes,82',1,0,0,1,no,weak,L2,open,
+F05,ESP-ARG Final,760517,2026-07-19,match,spoiling_style,Argentina,,,Team spoiling + early ref leniency narrative,n/a,,4,2,0,6,yes_en_es_not_ar,narrative,L2,closed_provisional,
+F06,ESP-ARG Final,760517,2026-07-19,match,under_carded,Spain,,,CONTROL Spain 21 fouls 0 cards,yes,aggregate,0,0,0,0,no,control,L2,closed_provisional,No multi-source campaign
+F07,ESP-ARG Final,760517,2026-07-19,FT+,off_ball,Argentina,Leandro Paredes,Eric García / Gavi,Post-whistle throat grab/shove; red; FIFA case,no,after FT,3,2,1,6,yes_cross_lang,strong,L2,closed_provisional,

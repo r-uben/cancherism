@@ -1,0 +1,16 @@
+# Regenerable ESPN full dumps (re-fetch with scripts/01_fetch_opta_path.py)
+data/raw/opta/summary_*.json
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local secrets if any ever appear
+.env
+secrets.yaml

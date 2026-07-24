@@ -1,0 +1,5 @@
+incident_id,match,event_id,minute_approx,claim_class,offender_team,offender_player,description,opta_match,espn,npr_aljazeera,egyptian_fa,collina_fifa,bbc,guardian,marca,as,ole,n_sources_total,consensus_provisional,evidence_strength
+E01,ARG-EGY R16,760509,match,under_carded,Argentina,,ARG 13 fouls 0 cards until post-winner chaos; Egypt carded in stoppage,yes,1,1,1,0,0,0,,, ,3,yes_en_plus_protest,strong
+E02,ARG-EGY R16,760509,58,other,Egypt,Marwan Attia,Egypt goal overturned VAR foul on Martínez,yes,1,1,1,1,0,0,,, ,4,yes_documented,strong
+E03,ARG-EGY R16,760509,90+,uncalled_foul,Argentina,Alexis Mac Allister,Alleged foul in buildup to winner; no VAR check,partial,1,1,1,0,0,0,,, ,3,yes_protest_side,medium
+E04,ARG-EGY R16,760509,90+,over_carded,Egypt,,Staff red + multiple YC for dissent after winner,yes,1,1,1,0,0,0,,, ,3,yes_en,strong

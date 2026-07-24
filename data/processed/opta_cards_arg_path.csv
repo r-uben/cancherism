@@ -1,0 +1,29 @@
+event_id,match,date,minute_raw,card_type,player,team,text
+760456,ARG-AUT GS,2026-06-22,40',yellow-card,Stefan Posch,Austria,Stefan Posch (Austria) is shown the yellow card.
+760456,ARG-AUT GS,2026-06-22,76',yellow-card,Facundo Medina,Argentina,Facundo Medina (Argentina) is shown the yellow card.
+760456,ARG-AUT GS,2026-06-22,76',yellow-card,Konrad Laimer,Austria,Konrad Laimer (Austria) is shown the yellow card.
+760456,ARG-AUT GS,2026-06-22,90'+2',yellow-card,Leandro Paredes,Argentina,Leandro Paredes (Argentina) is shown the yellow card for a bad foul.
+760483,JOR-ARG GS,2026-06-28,17',yellow-card,Mohannad Abu Taha,Jordan,Mohannad Abu Taha (Jordan) is shown the yellow card for a bad foul.
+760483,JOR-ARG GS,2026-06-28,64',yellow-card,Yazan Al Arab,Jordan,Yazan Al Arab (Jordan) is shown the yellow card for a bad foul.
+760483,JOR-ARG GS,2026-06-28,90'+4',yellow-card,Mohammad Abu Zraiq,Jordan,Mohammad Abu Zraiq (Jordan) is shown the yellow card for a bad foul.
+760500,ARG-CPV R32,2026-07-03,68',yellow-card,Kevin Pina,Cabo Verde,Kevin Pina (Cabo Verde) is shown the yellow card for a bad foul.
+760500,ARG-CPV R32,2026-07-03,115',yellow-card,Gonzalo Montiel,Argentina,Gonzalo Montiel (Argentina) is shown the yellow card for a bad foul.
+760509,ARG-EGY R16,2026-07-07,90'+3',yellow-card,Mostafa Shobeir,Egypt,Mostafa Shobeir (Egypt) is shown the yellow card.
+760509,ARG-EGY R16,2026-07-07,90'+4',yellow-card,Hamdi Fathy,Egypt,Hamdi Fathy (Egypt) is shown the yellow card.
+760509,ARG-EGY R16,2026-07-07,90'+8',yellow-card,Marwan Attia,Egypt,Marwan Attia (Egypt) is shown the yellow card for a bad foul.
+760509,ARG-EGY R16,2026-07-07,90'+12',yellow-card,Haissem Hassan,Egypt,Haissem Hassan (Egypt) is shown the yellow card.
+760513,ARG-SUI QF,2026-07-12,44',yellow-card,Breel Embolo,Switzerland,Breel Embolo (Switzerland) is shown the yellow card for a bad foul.
+760513,ARG-SUI QF,2026-07-12,72',red-card,Breel Embolo,Switzerland,Second yellow card to Breel Embolo (Switzerland).
+760513,ARG-SUI QF,2026-07-12,97',yellow-card,Thiago Almada,Argentina,Thiago Almada (Argentina) is shown the yellow card for a bad foul.
+760513,ARG-SUI QF,2026-07-12,98',yellow-card,Lautaro Martínez,Argentina,Lautaro Martínez (Argentina) is shown the yellow card for a bad foul.
+760513,ARG-SUI QF,2026-07-12,114',yellow-card,José Manuel López,Argentina,José Manuel López (Argentina) is shown the yellow card.
+760515,ENG-ARG SF,2026-07-15,37',yellow-card,Elliot Anderson,England,Elliot Anderson (England) is shown the yellow card for a bad foul.
+760515,ENG-ARG SF,2026-07-15,42',yellow-card,Lisandro Martínez,Argentina,Lisandro Martínez (Argentina) is shown the yellow card for a bad foul.
+760515,ENG-ARG SF,2026-07-15,51',yellow-card,Cristian Romero,Argentina,Cristian Romero (Argentina) is shown the yellow card for a bad foul.
+760515,ENG-ARG SF,2026-07-15,90'+4',yellow-card,Rodrigo De Paul,Argentina,Rodrigo De Paul (Argentina) is shown the yellow card.
+760517,ESP-ARG Final,2026-07-19,41',yellow-card,Lisandro Martínez,Argentina,Lisandro Martínez (Argentina) is shown the yellow card for a bad foul.
+760517,ESP-ARG Final,2026-07-19,52',yellow-card,Leandro Paredes,Argentina,Leandro Paredes (Argentina) is shown the yellow card.
+760517,ESP-ARG Final,2026-07-19,82',yellow-card,Enzo Fernández,Argentina,Enzo Fernández (Argentina) is shown the yellow card.
+760517,ESP-ARG Final,2026-07-19,90'+2',yellow-card,Cristian Romero,Argentina,Cristian Romero (Argentina) is shown the yellow card.
+760517,ESP-ARG Final,2026-07-19,90'+3',red-card,Enzo Fernández,Argentina,Second yellow card to Enzo Fernández (Argentina) for a bad foul.
+760517,ESP-ARG Final,2026-07-19,111',yellow-card,Alexis Mac Allister,Argentina,Alexis Mac Allister (Argentina) is shown the yellow card for a bad foul.
