@@ -1,13 +1,22 @@
 # Codebook — foul / card claims
 
-## Units
+## Units (priority order)
 
-- **Called foul (Opta row):** one free-kick award in ESPN `type=foul` stream
-  (deduped by `play_id`).
-- **Journalist claim:** one sentence or short post asserting a refereeing miss
-  or a dirty-play characterisation of a specific action.
-- **Incident:** a match event at approximately one minute, possibly linking
-  one Opta foul to zero or more claims.
+1. **Foul (primary unit of analysis)** — one called free-kick foul in the Opta
+   stream (`data/processed/foul_level.csv`, key `foul_id` = `event_id_play_id`).
+   Everything else aggregates or tags these rows.
+2. **Card link** — yellow/red matched to a foul (same player ±3′, or close
+   same-team “bad foul” card). Field: `carded`, `card_link_type`.
+3. **Journalist claim** — sentence/post asserting under-carding / uncalled /
+   spoiling for a **specific** action (minute + player preferred).
+4. **L2 incident** — claim cluster matched onto one or more foul rows
+   (`l2_incident_ids` on `foul_level.csv`). Do **not** inflate one aggregate
+   claim (e.g. Egypt “0 cards”) into N independent foul-level consensus events.
+5. **Match aggregate** — secondary only (rates, path dependence).
+
+### Canonical foul-level file
+
+`data/processed/foul_level.csv` — build with `scripts/05_foul_level_table.py`.
 
 ## Claim classes
 

@@ -6,9 +6,14 @@ What “exhaustive” means in this project — and what it cannot mean.
 
 | Layer | Population | Exhaustive when |
 |-------|------------|-----------------|
-| **L1 Opta called** | Every free-kick foul + card in ESPN stream, ARG’s 8 matches | Full path scraped; both teams; ratios computed |
-| **L2 Media claims** | Every *published* claim of under-carding / uncalled / spoiling we can find for those matches | Search protocol run for each match; EN+ES+AR; archived quotes |
-| **L3 Video truth** | Human-coded uncalled fouls on broadcast | Dual-coded sample of multi-agreed incidents (optional phase) |
+| **L1 Opta called** | Every free-kick foul + card in ESPN stream, ARG’s 8 matches — **unit = foul** (`foul_level.csv`) | Full path scraped; both teams; card linked per foul |
+| **L2 Media claims** | Claims matched **onto foul rows** (minute+player) when possible; aggregates tagged separately | Search protocol; EN+ES+AR; foul_id links where possible |
+| **L3 Video truth** | Uncalled fouls + intensity on broadcast for candidate foul_ids | Dual-coded sample |
+
+**Primary unit of analysis is the foul**, not the match. Match rates are
+summaries of `foul_level.csv`. An aggregate claim (e.g. Egypt 0 cards) does
+not count as N multi-source under_carded events unless each foul is sourced.
+
 
 L1 can be exhaustive with free data.  
 L2 is exhaustive **relative to a search protocol**, not relative to “everything anyone thought.”  

@@ -1,0 +1,218 @@
+foul_id,event_id,match,date,play_id,minute_raw,minute_num,period,foul_team,is_argentina,foul_player,fk_winner_player,fk_winner_team,fk_zone,x,y,text,carded,card_link_type,card_type,card_minute,card_player,l2_matched,l2_incident_ids,l2_claim_class,l2_n_sources,l2_consensus,l2_note,arg_uncarded_candidate
+760433_49535632,760433,ARG-ALG GS,2026-06-17,49535632,1',1.0,1,Argentina,1,Enzo Fernández,,,,58.6,74.5,Foul by Enzo Fernández (Argentina).,0,,,,,0,,,,,,1
+760433_49535793,760433,ARG-ALG GS,2026-06-17,49535793,10',10.0,1,Argentina,1,Lautaro Martínez,Aïssa Mandi,Algeria,defensive half,26.1,30.8,Aïssa Mandi (Algeria) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760433_49535801,760433,ARG-ALG GS,2026-06-17,49535801,11',11.0,1,Argentina,1,Gonzalo Montiel,Rayan Aït-Nouri,Algeria,left wing,26.6,8.9,Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.,0,,,,,0,,,,,,1
+760433_49536125,760433,ARG-ALG GS,2026-06-17,49536125,31',31.0,1,Argentina,1,Lionel Messi,,,,68.8,76.8,Foul by Lionel Messi (Argentina).,0,,,,,0,,,,,,1
+760433_49536166,760433,ARG-ALG GS,2026-06-17,49536166,34',34.0,1,Algeria,0,Amine Gouiri,Alexis Mac Allister,Argentina,defensive half,56.2,25.9,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760433_49536190,760433,ARG-ALG GS,2026-06-17,49536190,36',36.0,1,Algeria,0,Rafik Belghali,,,,37.0,26.6,Foul by Rafik Belghali (Algeria).,0,,,,,0,,,,,,0
+760433_49536204,760433,ARG-ALG GS,2026-06-17,49536204,37',37.0,1,Argentina,1,Facundo Medina,Aïssa Mandi,Algeria,defensive half,23.9,65.2,Aïssa Mandi (Algeria) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760433_49536289,760433,ARG-ALG GS,2026-06-17,49536289,43',43.0,1,Argentina,1,Alexis Mac Allister,,,,38.7,11.5,Foul by Alexis Mac Allister (Argentina).,0,,,,,0,,,,,,1
+760433_49536330,760433,ARG-ALG GS,2026-06-17,49536330,45',45.0,1,Argentina,1,Lautaro Martínez,,,,63.2,51.4,Foul by Lautaro Martínez (Argentina).,0,,,,,0,,,,,,1
+760433_49536402,760433,ARG-ALG GS,2026-06-17,49536402,45'+4',45.04,1,Algeria,0,Rafik Belghali,,,,38.4,9.4,Foul by Rafik Belghali (Algeria).,0,,,,,0,,,,,,0
+760433_49536473,760433,ARG-ALG GS,2026-06-17,49536473,48',48.0,2,Algeria,0,Hicham Boudaoui,Lionel Messi,Argentina,defensive half,33.8,38.3,Lionel Messi (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760433_49536536,760433,ARG-ALG GS,2026-06-17,49536536,51',51.0,2,Argentina,1,Cristian Romero,,,,68.0,21.0,Foul by Cristian Romero (Argentina).,0,,,,,0,,,,,,1
+760433_49536592,760433,ARG-ALG GS,2026-06-17,49536592,55',55.0,2,Argentina,1,Cristian Romero,Amine Gouiri,Algeria,left wing,44.8,4.6,Amine Gouiri (Algeria) wins a free kick on the left wing.,0,,,,,0,,,,,,1
+760433_49536725,760433,ARG-ALG GS,2026-06-17,49536725,63',63.0,2,Algeria,0,Hicham Boudaoui,,,,42.8,22.6,Foul by Hicham Boudaoui (Algeria).,0,,,,,0,,,,,,0
+760433_49536737,760433,ARG-ALG GS,2026-06-17,49536737,64',64.0,2,Algeria,0,Mohammed Amoura,Cristian Romero,Argentina,attacking half,45.0,60.4,Cristian Romero (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760433_49536901,760433,ARG-ALG GS,2026-06-17,49536901,75',75.0,2,Algeria,0,Farès Chaïbi,,,,73.2,93.8,Foul by Farès Chaïbi (Algeria).,0,,,,,0,,,,,,0
+760433_49536985,760433,ARG-ALG GS,2026-06-17,49536985,83',83.0,2,Argentina,1,Facundo Medina,,,,43.3,93.6,Foul by Facundo Medina (Argentina).,0,,,,,0,,,,,,1
+760433_49536994,760433,ARG-ALG GS,2026-06-17,49536994,83',83.0,2,Argentina,1,Julián Alvarez,,,,66.0,75.0,Foul by Julián Alvarez (Argentina).,0,,,,,0,,,,,,1
+760433_49537027,760433,ARG-ALG GS,2026-06-17,49537027,85',85.0,2,Argentina,1,Alexis Mac Allister,Houssem Aouar,Algeria,attacking half,24.3,59.6,Houssem Aouar (Algeria) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760433_49537245,760433,ARG-ALG GS,2026-06-17,49537245,90'+5',90.05,2,Argentina,1,Nico Paz,Ramy Bensebaini,Algeria,attacking half,48.0,41.7,Ramy Bensebaini (Algeria) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760456_49582963,760456,ARG-AUT GS,2026-06-22,49582963,4',4.0,1,Austria,0,,,,,13.2,56.4,Penalty conceded by Stefan Posch (Austria) after a foul in the penalty area.,0,,,,,0,,,,,,0
+760456_49583013,760456,ARG-AUT GS,2026-06-22,49583013,10',10.0,1,Austria,0,Romano Schmid,,,,84.5,4.8,Foul by Romano Schmid (Austria).,0,,,,,0,,,,,,0
+760456_49583016,760456,ARG-AUT GS,2026-06-22,49583016,11',11.0,1,Argentina,1,Lisandro Martínez,Michael Gregoritsch,Austria,attacking half,42.7,56.6,Michael Gregoritsch (Austria) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760456_49583051,760456,ARG-AUT GS,2026-06-22,49583051,14',14.0,1,Argentina,1,Alexis Mac Allister,,,,11.8,17.3,Foul by Alexis Mac Allister (Argentina).,0,,,,,0,,,,,,1
+760456_49583113,760456,ARG-AUT GS,2026-06-22,49583113,18',18.0,1,Austria,0,Paul Wanner,,,,53.6,44.3,Foul by Paul Wanner (Austria).,0,,,,,0,,,,,,0
+760456_49583185,760456,ARG-AUT GS,2026-06-22,49583185,21',21.0,1,Argentina,1,Lautaro Martínez,,,,63.6,9.6,Foul by Lautaro Martínez (Argentina).,0,,,,,0,,,,,,1
+760456_49583319,760456,ARG-AUT GS,2026-06-22,49583319,32',32.0,1,Argentina,1,Facundo Medina,Romano Schmid,Austria,defensive half,27.6,9.6,Romano Schmid (Austria) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760456_49583392,760456,ARG-AUT GS,2026-06-22,49583392,35',35.0,1,Argentina,1,Nahuel Molina,Marcel Sabitzer,Austria,attacking half,42.2,38.8,Marcel Sabitzer (Austria) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760456_49583480,760456,ARG-AUT GS,2026-06-22,49583480,43',43.0,1,Austria,0,Kevin Danso,,,,58.0,4.5,Foul by Kevin Danso (Austria).,0,,,,,0,,,,,,0
+760456_49583488,760456,ARG-AUT GS,2026-06-22,49583488,44',44.0,1,Argentina,1,Alexis Mac Allister,Romano Schmid,Austria,attacking half,35.0,61.4,Romano Schmid (Austria) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760456_49583505,760456,ARG-AUT GS,2026-06-22,49583505,45',45.0,1,Argentina,1,Enzo Fernández,Romano Schmid,Austria,attacking half,38.2,57.8,Romano Schmid (Austria) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760456_49583538,760456,ARG-AUT GS,2026-06-22,49583538,45'+2',45.02,1,Argentina,1,Lautaro Martínez,Konrad Laimer,Austria,left wing,25.0,3.4,Konrad Laimer (Austria) wins a free kick on the left wing.,0,,,,,0,,,,,,1
+760456_49583724,760456,ARG-AUT GS,2026-06-22,49583724,48',48.0,2,Austria,0,Xaver Schlager,,,,57.0,63.4,Foul by Xaver Schlager (Austria).,0,,,,,0,,,,,,0
+760456_49583796,760456,ARG-AUT GS,2026-06-22,49583796,52',52.0,2,Austria,0,Xaver Schlager,,,,31.1,55.6,Foul by Xaver Schlager (Austria).,0,,,,,0,,,,,,0
+760456_49583806,760456,ARG-AUT GS,2026-06-22,49583806,53',53.0,2,Argentina,1,Enzo Fernández,Romano Schmid,Austria,defensive half,24.6,16.8,Romano Schmid (Austria) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760456_49583823,760456,ARG-AUT GS,2026-06-22,49583823,54',54.0,2,Argentina,1,Cristian Romero,Konrad Laimer,Austria,attacking half,21.2,24.0,Konrad Laimer (Austria) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760456_49583862,760456,ARG-AUT GS,2026-06-22,49583862,57',57.0,2,Austria,0,Paul Wanner,,,,73.2,35.6,Foul by Paul Wanner (Austria).,0,,,,,0,,,,,,0
+760456_49584162,760456,ARG-AUT GS,2026-06-22,49584162,75',75.0,2,Austria,0,Xaver Schlager,,,,83.6,9.6,Foul by Xaver Schlager (Austria).,1,team_close,yellow-card,76',Konrad Laimer,0,,,,,,0
+760456_49584173,760456,ARG-AUT GS,2026-06-22,49584173,76',76.0,2,Austria,0,Konrad Laimer,,,,65.3,7.8,Foul by Konrad Laimer (Austria).,1,player_pm3,yellow-card,76',Konrad Laimer,0,,,,,,0
+760456_49584379,760456,ARG-AUT GS,2026-06-22,49584379,88',88.0,2,Austria,0,Patrick Wimmer,,,,76.4,9.8,Foul by Patrick Wimmer (Austria).,0,,,,,0,,,,,,0
+760456_49584399,760456,ARG-AUT GS,2026-06-22,49584399,89',89.0,2,Argentina,1,Nicolás Otamendi,Patrick Wimmer,Austria,left wing,40.2,20.8,Patrick Wimmer (Austria) wins a free kick on the left wing.,1,team_close,yellow-card,90'+2',Leandro Paredes,0,,,,,,0
+760456_49584427,760456,ARG-AUT GS,2026-06-22,49584427,90'+1',90.01,2,Austria,0,Patrick Wimmer,,,,9.4,15.9,Foul by Patrick Wimmer (Austria).,0,,,,,0,,,,,,0
+760456_49584444,760456,ARG-AUT GS,2026-06-22,49584444,90'+2',90.02,2,Argentina,1,Leandro Paredes,Carney Chukwuemeka,Austria,attacking half,59.2,54.0,Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,1,player_pm3,yellow-card,90'+2',Leandro Paredes,0,,,,,,0
+760456_49584501,760456,ARG-AUT GS,2026-06-22,49584501,90'+7',90.07,2,Austria,0,Patrick Wimmer,,,,29.8,65.9,Foul by Patrick Wimmer (Austria).,0,,,,,0,,,,,,0
+760456_49584502,760456,ARG-AUT GS,2026-06-22,49584502,90'+7',90.07,2,Austria,0,,Lionel Messi,Argentina,attacking half,70.6,33.8,Lionel Messi (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760483_49645164,760483,JOR-ARG GS,2026-06-28,49645164,1',1.0,1,Argentina,1,Giuliano Simeone,,,,40.6,14.6,Foul by Giuliano Simeone (Argentina).,0,,,,,0,,,,,,1
+760483_49645753,760483,JOR-ARG GS,2026-06-28,49645753,17',17.0,1,Jordan,0,Mohannad Abu Taha,,,,18.4,63.6,Foul by Mohannad Abu Taha (Jordan).,1,player_pm3,yellow-card,17',Mohannad Abu Taha,0,,,,,,0
+760483_49646031,760483,JOR-ARG GS,2026-06-28,49646031,28',28.0,1,Jordan,0,,,,,6.0,49.2,Penalty conceded by Nizar Al Rashdan (Jordan) after a foul in the penalty area.,0,,,,,0,,,,,,0
+760483_49646087,760483,JOR-ARG GS,2026-06-28,49646087,32',32.0,1,Argentina,1,Giovani Lo Celso,Ali Olwan,Jordan,right wing,49.8,88.6,Ali Olwan (Jordan) wins a free kick on the right wing.,0,,,,,0,,,,,,1
+760483_49646100,760483,JOR-ARG GS,2026-06-28,49646100,33',33.0,1,Argentina,1,Exequiel Palacios,Odeh Fakhoury,Jordan,attacking half,45.4,23.8,Odeh Fakhoury (Jordan) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760483_49646135,760483,JOR-ARG GS,2026-06-28,49646135,34',34.0,1,Argentina,1,Nico Paz,Nizar Al Rashdan,Jordan,defensive half,69.7,76.0,Nizar Al Rashdan (Jordan) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760483_49646409,760483,JOR-ARG GS,2026-06-28,49646409,41',41.0,1,Jordan,0,Yazan Al Arab,,,,93.4,91.6,Foul by Yazan Al Arab (Jordan).,0,,,,,0,,,,,,0
+760483_49646454,760483,JOR-ARG GS,2026-06-28,49646454,42',42.0,1,Argentina,1,Lautaro Martínez,Ali Azaizeh,Jordan,defensive half,72.2,77.0,Ali Azaizeh (Jordan) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760483_49646614,760483,JOR-ARG GS,2026-06-28,49646614,45'+2',45.02,1,Jordan,0,Odeh Fakhoury,,,,68.8,45.6,Foul by Odeh Fakhoury (Jordan).,0,,,,,0,,,,,,0
+760483_49646644,760483,JOR-ARG GS,2026-06-28,49646644,45'+3',45.03,1,Jordan,0,Yazan Al Arab,,,,32.8,75.6,Foul by Yazan Al Arab (Jordan).,0,,,,,0,,,,,,0
+760483_49646646,760483,JOR-ARG GS,2026-06-28,49646646,45'+3',45.03,1,Jordan,0,,Nico Paz,Argentina,attacking half,66.8,25.6,Nico Paz (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760483_49646875,760483,JOR-ARG GS,2026-06-28,49646875,49',49.0,2,Argentina,1,Nicolás Tagliafico,Mousa Al Tamari,Jordan,defensive half,63.0,89.0,Mousa Al Tamari (Jordan) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760483_49646888,760483,JOR-ARG GS,2026-06-28,49646888,49',49.0,2,Jordan,0,Ali Olwan,,,,83.2,13.4,Foul by Ali Olwan (Jordan).,0,,,,,0,,,,,,0
+760483_49647364,760483,JOR-ARG GS,2026-06-28,49647364,64',64.0,2,Jordan,0,Yazan Al Arab,,,,29.7,46.5,Foul by Yazan Al Arab (Jordan).,1,player_pm3,yellow-card,64',Yazan Al Arab,0,,,,,,0
+760483_49647445,760483,JOR-ARG GS,2026-06-28,49647445,67',67.0,2,Jordan,0,Mahmoud Al Mardi,,,,47.2,65.3,Foul by Mahmoud Al Mardi (Jordan).,0,,,,,0,,,,,,0
+760483_49647666,760483,JOR-ARG GS,2026-06-28,49647666,75',75.0,2,Argentina,1,Nicolás Otamendi,Mahmoud Al Mardi,Jordan,left wing,19.8,13.5,Mahmoud Al Mardi (Jordan) wins a free kick on the left wing.,0,,,,,0,,,,,,1
+760483_49647773,760483,JOR-ARG GS,2026-06-28,49647773,79',79.0,2,Jordan,0,Amer Jamous,,,,27.8,51.0,Foul by Amer Jamous (Jordan).,0,,,,,0,,,,,,0
+760483_49647931,760483,JOR-ARG GS,2026-06-28,49647931,85',85.0,2,Jordan,0,Ehsan Haddad,,,,96.8,20.8,Foul by Ehsan Haddad (Jordan).,0,,,,,0,,,,,,0
+760483_49648053,760483,JOR-ARG GS,2026-06-28,49648053,88',88.0,2,Jordan,0,Husam Abu Dahab,,,,7.9,86.2,Foul by Husam Abu Dahab (Jordan).,0,,,,,0,,,,,,0
+760483_49648233,760483,JOR-ARG GS,2026-06-28,49648233,90'+4',90.04,2,Jordan,0,Mohammad Abu Zraiq,,,,28.8,52.0,Foul by Mohammad Abu Zraiq (Jordan).,1,player_pm3,yellow-card,90'+4',Mohammad Abu Zraiq,0,,,,,,0
+760500_49687202,760500,ARG-CPV R32,2026-07-03,49687202,4',4.0,1,Argentina,1,Rodrigo De Paul,,,,37.8,4.4,Foul by Rodrigo De Paul (Argentina).,0,,,,,0,,,,,,1
+760500_49687303,760500,ARG-CPV R32,2026-07-03,49687303,10',10.0,1,Argentina,1,Cristian Romero,Jovane Cabral,Cabo Verde,attacking half,47.0,47.0,Jovane Cabral (Cabo Verde) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760500_49687420,760500,ARG-CPV R32,2026-07-03,49687420,17',17.0,1,Cape Verde,0,Jovane Cabral,,,,24.3,39.1,Foul by Jovane Cabral (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49687422,760500,ARG-CPV R32,2026-07-03,49687422,17',17.0,1,Cape Verde,0,,Lionel Messi,Argentina,attacking half,78.6,61.3,Lionel Messi (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760500_49687602,760500,ARG-CPV R32,2026-07-03,49687602,32',32.0,1,Argentina,1,Nahuel Molina,Jovane Cabral,Cabo Verde,defensive half,58.6,27.0,Jovane Cabral (Cabo Verde) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760500_49687737,760500,ARG-CPV R32,2026-07-03,49687737,40',40.0,1,Cape Verde,0,Deroy Duarte,,,,64.3,23.9,Foul by Deroy Duarte (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49687776,760500,ARG-CPV R32,2026-07-03,49687776,42',42.0,1,Cape Verde,0,Deroy Duarte,,,,67.8,75.4,Foul by Deroy Duarte (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49687787,760500,ARG-CPV R32,2026-07-03,49687787,43',43.0,1,Cape Verde,0,Diney Borges,,,,59.4,92.4,Foul by Diney Borges (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49687791,760500,ARG-CPV R32,2026-07-03,49687791,43',43.0,1,Argentina,1,Lautaro Martínez,Vozinha,Cabo Verde,defensive half,94.2,25.6,Vozinha (Cabo Verde) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760500_49687872,760500,ARG-CPV R32,2026-07-03,49687872,45'+2',45.02,1,Argentina,1,Lionel Messi,Sidny Cabral,Cabo Verde,defensive half,69.8,33.8,Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760500_49687979,760500,ARG-CPV R32,2026-07-03,49687979,50',50.0,2,Argentina,1,Lautaro Martínez,Pico Lopes,Cabo Verde,defensive half,59.8,77.2,Pico Lopes (Cabo Verde) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760500_49688032,760500,ARG-CPV R32,2026-07-03,49688032,53',53.0,2,Argentina,1,Thiago Almada,Steven Moreira,Cabo Verde,defensive half,69.9,90.2,Steven Moreira (Cabo Verde) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760500_49688127,760500,ARG-CPV R32,2026-07-03,49688127,58',58.0,2,Argentina,1,Cristian Romero,Laros Duarte,Cabo Verde,defensive half,55.4,25.1,Laros Duarte (Cabo Verde) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760500_49688265,760500,ARG-CPV R32,2026-07-03,49688265,68',68.0,2,Cape Verde,0,,Lionel Messi,Argentina,attacking half,73.0,39.4,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,team_close,yellow-card,68',Kevin Pina,0,,,,,,0
+760500_49688326,760500,ARG-CPV R32,2026-07-03,49688326,71',71.0,2,Cape Verde,0,Deroy Duarte,,,,20.4,35.6,Foul by Deroy Duarte (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49688345,760500,ARG-CPV R32,2026-07-03,49688345,77',77.0,2,Argentina,1,Alexis Mac Allister,Jamiro Monteiro,Cabo Verde,attacking half,32.6,38.4,Jamiro Monteiro (Cabo Verde) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760500_49688350,760500,ARG-CPV R32,2026-07-03,49688350,78',78.0,2,Cape Verde,0,Dailon Livramento,,,,87.0,83.0,Foul by Dailon Livramento (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49688366,760500,ARG-CPV R32,2026-07-03,49688366,79',79.0,2,Cape Verde,0,Kevin Pina,,,,58.0,12.3,Foul by Kevin Pina (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49688594,760500,ARG-CPV R32,2026-07-03,49688594,90'+4',90.04,2,Cape Verde,0,Jamiro Monteiro,,,,75.8,37.0,Foul by Jamiro Monteiro (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49688599,760500,ARG-CPV R32,2026-07-03,49688599,90'+5',90.05,2,Argentina,1,Julián Alvarez,Vozinha,Cabo Verde,defensive half,4.6,50.2,Vozinha (Cabo Verde) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760500_49688604,760500,ARG-CPV R32,2026-07-03,49688604,90'+6',90.06,2,Argentina,1,Nico González,Steven Moreira,Cabo Verde,attacking half,40.4,74.0,Steven Moreira (Cabo Verde) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760500_49688637,760500,ARG-CPV R32,2026-07-03,49688637,90'+8',90.08,2,Cape Verde,0,Willy Semedo,,,,23.8,96.7,Foul by Willy Semedo (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49689253,760500,ARG-CPV R32,2026-07-03,49689253,107',107.0,4,Cape Verde,0,Jamiro Monteiro,,,,26.2,71.6,Foul by Jamiro Monteiro (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49689336,760500,ARG-CPV R32,2026-07-03,49689336,110',110.0,4,Cape Verde,0,Willy Semedo,,,,68.0,8.0,Foul by Willy Semedo (Cabo Verde).,0,,,,,0,,,,,,0
+760500_49689475,760500,ARG-CPV R32,2026-07-03,49689475,115',115.0,4,Argentina,1,Gonzalo Montiel,Hélio Varela,Cabo Verde,left wing,12.4,18.4,Hélio Varela (Cabo Verde) wins a free kick on the left wing.,1,player_pm3,yellow-card,115',Gonzalo Montiel,0,,,,,,0
+760509_49730788,760509,ARG-EGY R16,2026-07-07,49730788,5',5.0,1,Argentina,1,Enzo Fernández,Mohamed Salah,Egypt,defensive half,60.3,83.6,Mohamed Salah (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49730840,760509,ARG-EGY R16,2026-07-07,49730840,7',7.0,1,Argentina,1,Nicolás Tagliafico,,,,77.6,5.2,Foul by Nicolás Tagliafico (Argentina).,0,,,,,0,,,,,,1
+760509_49730907,760509,ARG-EGY R16,2026-07-07,49730907,11',11.0,1,Argentina,1,Enzo Fernández,Karim Hafez,Egypt,defensive half,57.8,30.1,Karim Hafez (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49730954,760509,ARG-EGY R16,2026-07-07,49730954,13',13.0,1,Argentina,1,Rodrigo De Paul,Emam Ashour,Egypt,attacking half,39.2,48.7,Emam Ashour (Egypt) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760509_49731025,760509,ARG-EGY R16,2026-07-07,49731025,18',18.0,1,Egypt,0,Yasser Ibrahim,,,,60.2,14.2,Foul by Yasser Ibrahim (Egypt).,0,,,,,0,,,,,,0
+760509_49731036,760509,ARG-EGY R16,2026-07-07,49731036,19',19.0,1,Egypt,0,,,,,14.0,30.8,Penalty conceded by Haissem Hassan (Egypt) after a foul in the penalty area.,0,,,,,0,,,,,,0
+760509_49731044,760509,ARG-EGY R16,2026-07-07,49731044,21',21.0,1,Argentina,1,Cristian Romero,Emam Ashour,Egypt,defensive half,60.4,6.6,Emam Ashour (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49731075,760509,ARG-EGY R16,2026-07-07,49731075,23',23.0,1,Argentina,1,Lisandro Martínez,Mohamed Salah,Egypt,defensive half,41.4,22.0,Mohamed Salah (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49731162,760509,ARG-EGY R16,2026-07-07,49731162,30',30.0,1,Egypt,0,Marwan Attia,,,,32.2,43.4,Foul by Marwan Attia (Egypt).,0,,,,,0,,,,,,0
+760509_49731195,760509,ARG-EGY R16,2026-07-07,49731195,33',33.0,1,Egypt,0,Mohanad Lasheen,,,,74.8,20.3,Foul by Mohanad Lasheen (Egypt).,0,,,,,0,,,,,,0
+760509_49731385,760509,ARG-EGY R16,2026-07-07,49731385,44',44.0,1,Egypt,0,Marwan Attia,,,,38.2,78.9,Foul by Marwan Attia (Egypt).,0,,,,,0,,,,,,0
+760509_49731396,760509,ARG-EGY R16,2026-07-07,49731396,45',45.0,1,Argentina,1,Julián Alvarez,Mohamed Salah,Egypt,attacking half,55.8,74.2,Mohamed Salah (Egypt) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760509_49731436,760509,ARG-EGY R16,2026-07-07,49731436,45'+2',45.02,1,Argentina,1,Julián Alvarez,Ramy Rabia,Egypt,defensive half,60.6,26.0,Ramy Rabia (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49731511,760509,ARG-EGY R16,2026-07-07,49731511,46',46.0,2,Argentina,1,Lisandro Martínez,Mohamed Salah,Egypt,defensive half,56.3,16.4,Mohamed Salah (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49731548,760509,ARG-EGY R16,2026-07-07,49731548,48',48.0,2,Argentina,1,Julián Alvarez,Mostafa Shobeir,Egypt,defensive half,96.6,47.0,Mostafa Shobeir (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49731551,760509,ARG-EGY R16,2026-07-07,49731551,48',48.0,2,Argentina,1,Nicolás Tagliafico,Haissem Hassan,Egypt,defensive half,60.3,83.2,Haissem Hassan (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49731628,760509,ARG-EGY R16,2026-07-07,49731628,52',52.0,2,Egypt,0,Mohamed Salah,,,,29.6,31.6,Foul by Mohamed Salah (Egypt).,0,,,,,0,,,,,,0
+760509_49731691,760509,ARG-EGY R16,2026-07-07,49731691,55',55.0,2,Egypt,0,Hamdi Fathy,,,,28.6,75.2,Foul by Hamdi Fathy (Egypt).,0,,,,,0,,,,,,0
+760509_49731757,760509,ARG-EGY R16,2026-07-07,49731757,58',58.0,2,Egypt,0,Marwan Attia,,,,11.4,13.5,Foul by Marwan Attia (Egypt).,0,,,,,0,,,,,,0
+760509_49731820,760509,ARG-EGY R16,2026-07-07,49731820,64',64.0,2,Egypt,0,Mohamed Salah,,,,43.0,15.8,Foul by Mohamed Salah (Egypt).,0,,,,,0,,,,,,0
+760509_49732163,760509,ARG-EGY R16,2026-07-07,49732163,87',87.0,2,Argentina,1,Nico González,Omar Marmoush,Egypt,defensive half,63.6,91.6,Omar Marmoush (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49732199,760509,ARG-EGY R16,2026-07-07,49732199,89',89.0,2,Egypt,0,Karim Hafez,,,,26.2,92.2,Foul by Karim Hafez (Egypt).,1,team_close,yellow-card,90'+3',Mostafa Shobeir,0,,,,,,0
+760509_49732287,760509,ARG-EGY R16,2026-07-07,49732287,90'+7',90.07,2,Argentina,1,Nico González,Zizo,Egypt,defensive half,72.0,93.6,Zizo (Egypt) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760509_49732296,760509,ARG-EGY R16,2026-07-07,49732296,90'+8',90.08,2,Egypt,0,Marwan Attia,,,,46.7,65.8,Foul by Marwan Attia (Egypt).,1,player_pm3,yellow-card,90'+8',Marwan Attia,0,,,,,,0
+760513_49769481,760513,ARG-SUI QF,2026-07-12,49769481,1',1.0,1,Switzerland,0,Denis Zakaria,Alexis Mac Allister,Argentina,defensive half,93.2,5.1,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760513_49769543,760513,ARG-SUI QF,2026-07-12,49769543,3',3.0,1,Argentina,1,Julián Alvarez,,,,73.0,3.4,Foul by Julián Alvarez (Argentina).,0,,,,,0,,,,,,1
+760513_49769859,760513,ARG-SUI QF,2026-07-12,49769859,13',13.0,1,Argentina,1,Cristian Romero,,,,52.8,15.1,Foul by Cristian Romero (Argentina).,0,,,,,0,,,,,,1
+760513_49770014,760513,ARG-SUI QF,2026-07-12,49770014,17',17.0,1,Switzerland,0,,Rodrigo De Paul,Argentina,defensive half,19.0,12.1,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760513_49770012,760513,ARG-SUI QF,2026-07-12,49770012,17',17.0,1,Switzerland,0,Ricardo Rodríguez,,,,81.4,88.4,Foul by Ricardo Rodríguez (Switzerland).,0,,,,,0,,,,,,0
+760513_49770160,760513,ARG-SUI QF,2026-07-12,49770160,22',22.0,1,Switzerland,0,Fabian Rieder,Nicolás Tagliafico,Argentina,defensive half,32.3,97.8,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760513_49770170,760513,ARG-SUI QF,2026-07-12,49770170,23',23.0,1,Switzerland,0,Djibril Sow,Lisandro Martínez,Argentina,left wing,43.2,6.5,Lisandro Martínez (Argentina) wins a free kick on the left wing.,0,,,,,0,,,,,,0
+760513_49770296,760513,ARG-SUI QF,2026-07-12,49770296,28',28.0,1,Switzerland,0,Granit Xhaka,Rodrigo De Paul,Argentina,defensive half,68.8,81.2,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760513_49770429,760513,ARG-SUI QF,2026-07-12,49770429,32',32.0,1,Switzerland,0,Dan Ndoye,Rodrigo De Paul,Argentina,defensive half,82.8,76.2,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760513_49770527,760513,ARG-SUI QF,2026-07-12,49770527,35',35.0,1,Argentina,1,Julián Alvarez,,,,22.8,4.6,Foul by Julián Alvarez (Argentina).,0,,,,,0,,,,,,1
+760513_49770564,760513,ARG-SUI QF,2026-07-12,49770564,36',36.0,1,Argentina,1,Leandro Paredes,,,,59.3,67.2,Foul by Leandro Paredes (Argentina).,0,,,,,0,,,,,,1
+760513_49770655,760513,ARG-SUI QF,2026-07-12,49770655,39',39.0,1,Switzerland,0,Denis Zakaria,Nicolás Tagliafico,Argentina,defensive half,89.7,24.8,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760513_49770665,760513,ARG-SUI QF,2026-07-12,49770665,40',40.0,1,Argentina,1,Lisandro Martínez,,,,40.8,86.8,Foul by Lisandro Martínez (Argentina).,0,,,,,0,,,,,,1
+760513_49770693,760513,ARG-SUI QF,2026-07-12,49770693,42',42.0,1,Argentina,1,Leandro Paredes,,,,6.4,17.0,Foul by Leandro Paredes (Argentina).,0,,,,,0,,,,,,1
+760513_49770709,760513,ARG-SUI QF,2026-07-12,49770709,44',44.0,1,Switzerland,0,Breel Embolo,Leandro Paredes,Argentina,defensive half,51.0,63.4,Leandro Paredes (Argentina) wins a free kick in the defensive half.,1,player_pm3,yellow-card,44',Breel Embolo,0,,,,,,0
+760513_49770723,760513,ARG-SUI QF,2026-07-12,49770723,45',45.0,1,Argentina,1,Lisandro Martínez,,,,44.8,26.4,Foul by Lisandro Martínez (Argentina).,0,,,,,0,,,,,,1
+760513_49770745,760513,ARG-SUI QF,2026-07-12,49770745,45'+3',45.03,1,Switzerland,0,Djibril Sow,Nicolás Tagliafico,Argentina,left wing,32.7,3.8,Nicolás Tagliafico (Argentina) wins a free kick on the left wing.,1,team_close,yellow-card,44',Breel Embolo,0,,,,,,0
+760513_49771073,760513,ARG-SUI QF,2026-07-12,49771073,48',48.0,2,Argentina,1,Nicolás Tagliafico,,,,30.6,92.1,Foul by Nicolás Tagliafico (Argentina).,0,,,,,0,,,,,,1
+760513_49771361,760513,ARG-SUI QF,2026-07-12,49771361,59',59.0,2,Switzerland,0,Remo Freuler,Alexis Mac Allister,Argentina,defensive half,41.4,76.9,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760513_49771472,760513,ARG-SUI QF,2026-07-12,49771472,62',62.0,2,Switzerland,0,Djibril Sow,Nicolás Tagliafico,Argentina,attacking half,37.4,23.7,Nicolás Tagliafico (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760513_49771856,760513,ARG-SUI QF,2026-07-12,49771856,79',79.0,2,Argentina,1,Julián Alvarez,,,,53.0,7.9,Foul by Julián Alvarez (Argentina).,0,,,,,0,,,,,,1
+760513_49772249,760513,ARG-SUI QF,2026-07-12,49772249,90'+9',90.09,2,Argentina,1,Gonzalo Montiel,Miro Muheim,Switzerland,defensive half,12.1,67.0,Miro Muheim (Switzerland) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760513_49772401,760513,ARG-SUI QF,2026-07-12,49772401,97',97.0,3,Argentina,1,Thiago Almada,Remo Freuler,Switzerland,right wing,37.2,82.8,Remo Freuler (Switzerland) wins a free kick on the right wing.,1,player_pm3,yellow-card,97',Thiago Almada,0,,,,,,0
+760513_49772407,760513,ARG-SUI QF,2026-07-12,49772407,98',98.0,3,Switzerland,0,Manuel Akanji,,,,90.3,63.5,Foul by Manuel Akanji (Switzerland).,0,,,,,0,,,,,,0
+760513_49772413,760513,ARG-SUI QF,2026-07-12,49772413,98',98.0,3,Argentina,1,Lautaro Martínez,Manuel Akanji,Switzerland,defensive half,97.4,25.6,Manuel Akanji (Switzerland) wins a free kick in the defensive half.,1,player_pm3,yellow-card,98',Lautaro Martínez,0,,,,,,0
+760513_49772476,760513,ARG-SUI QF,2026-07-12,49772476,102',102.0,3,Switzerland,0,Zeki Amdouni,,,,27.2,63.7,Foul by Zeki Amdouni (Switzerland).,0,,,,,0,,,,,,0
+760513_49772478,760513,ARG-SUI QF,2026-07-12,49772478,102',102.0,3,Switzerland,0,,Lionel Messi,Argentina,attacking half,72.6,36.3,Lionel Messi (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760513_49772582,760513,ARG-SUI QF,2026-07-12,49772582,107',107.0,4,Argentina,1,Alexis Mac Allister,Miro Muheim,Switzerland,left wing,30.7,2.4,Miro Muheim (Switzerland) wins a free kick on the left wing.,0,,,,,0,,,,,,1
+760513_49772632,760513,ARG-SUI QF,2026-07-12,49772632,110',110.0,4,Switzerland,0,Manuel Akanji,,,,52.2,27.4,Foul by Manuel Akanji (Switzerland).,0,,,,,0,,,,,,0
+760513_49772722,760513,ARG-SUI QF,2026-07-12,49772722,118',118.0,4,Argentina,1,José Manuel López,Ardon Jashari,Switzerland,left wing,34.2,9.2,Ardon Jashari (Switzerland) wins a free kick on the left wing.,0,,,,,0,,,,,,1
+760515_49796217,760515,ENG-ARG SF,2026-07-15,49796217,2',2.0,1,Argentina,1,Leandro Paredes,,,,58.0,21.0,Foul by Leandro Paredes (Argentina).,0,,,,,0,,,,,,1
+760515_49796242,760515,ENG-ARG SF,2026-07-15,49796242,3',3.0,1,Argentina,1,Enzo Fernández,,,,45.4,66.2,Foul by Enzo Fernández (Argentina).,0,,,,,1,SF01,under_carded,1,no,Enzo early foul Anderson; Athletic only,1
+760515_49796298,760515,ENG-ARG SF,2026-07-15,49796298,6',6.0,1,Argentina,1,Giuliano Simeone,,,,65.6,9.2,Foul by Giuliano Simeone (Argentina).,0,,,,,0,,,,,,1
+760515_49796310,760515,ENG-ARG SF,2026-07-15,49796310,8',8.0,1,England,0,,Julián Alvarez,Argentina,defensive half,30.2,53.7,Julián Alvarez (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760515_49796323,760515,ENG-ARG SF,2026-07-15,49796323,9',9.0,1,England,0,Reece James,Nicolás Tagliafico,Argentina,defensive half,69.9,32.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760515_49796334,760515,ENG-ARG SF,2026-07-15,49796334,9',9.0,1,Argentina,1,Giuliano Simeone,Elliot Anderson,England,defensive half,59.3,35.2,Elliot Anderson (England) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760515_49796343,760515,ENG-ARG SF,2026-07-15,49796343,10',10.0,1,England,0,Elliot Anderson,,,,66.8,52.8,Foul by Elliot Anderson (England).,0,,,,,0,,,,,,0
+760515_49796448,760515,ENG-ARG SF,2026-07-15,49796448,16',16.0,1,Argentina,1,Giuliano Simeone,Anthony Gordon,England,defensive half,59.0,4.6,Anthony Gordon (England) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760515_49796537,760515,ENG-ARG SF,2026-07-15,49796537,21',21.0,1,England,0,Morgan Rogers,,,,76.7,44.3,Foul by Morgan Rogers (England).,0,,,,,0,,,,,,0
+760515_49796562,760515,ENG-ARG SF,2026-07-15,49796562,23',23.0,1,England,0,Jude Bellingham,,,,41.8,70.4,Foul by Jude Bellingham (England).,0,,,,,0,,,,,,0
+760515_49796564,760515,ENG-ARG SF,2026-07-15,49796564,23',23.0,1,England,0,,Alexis Mac Allister,Argentina,attacking half,60.1,29.7,Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760515_49796570,760515,ENG-ARG SF,2026-07-15,49796570,25',25.0,1,Argentina,1,Giuliano Simeone,Jordan Pickford,England,defensive half,97.0,49.6,Jordan Pickford (England) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760515_49796628,760515,ENG-ARG SF,2026-07-15,49796628,30',30.0,1,England,0,Anthony Gordon,,,,63.6,70.5,Foul by Anthony Gordon (England).,0,,,,,0,,,,,,0
+760515_49796657,760515,ENG-ARG SF,2026-07-15,49796657,32',32.0,1,Argentina,1,Enzo Fernández,Jude Bellingham,England,attacking half,26.4,23.3,Jude Bellingham (England) wins a free kick in the attacking half.,0,,,,,0,,,,,,1
+760515_49796672,760515,ENG-ARG SF,2026-07-15,49796672,34',34.0,1,Argentina,1,Giuliano Simeone,Marc Guéhi,England,defensive half,59.8,20.2,Marc Guéhi (England) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760515_49796694,760515,ENG-ARG SF,2026-07-15,49796694,35',35.0,1,Argentina,1,Nahuel Molina,Jude Bellingham,England,left wing,16.4,14.2,Jude Bellingham (England) wins a free kick on the left wing.,0,,,,,0,,,,,,1
+760515_49796709,760515,ENG-ARG SF,2026-07-15,49796709,37',37.0,1,England,0,Elliot Anderson,,,,36.6,69.4,Foul by Elliot Anderson (England).,1,player_pm3,yellow-card,37',Elliot Anderson,0,,,,,,0
+760515_49796782,760515,ENG-ARG SF,2026-07-15,49796782,42',42.0,1,Argentina,1,Lisandro Martínez,Morgan Rogers,England,defensive half,61.8,52.2,Morgan Rogers (England) wins a free kick in the defensive half.,1,player_pm3,yellow-card,42',Lisandro Martínez,0,,,,,,0
+760515_49796805,760515,ENG-ARG SF,2026-07-15,49796805,43',43.0,1,Argentina,1,Enzo Fernández,Elliot Anderson,England,defensive half,61.3,24.2,Elliot Anderson (England) wins a free kick in the defensive half.,1,team_close,yellow-card,42',Lisandro Martínez,0,,,,,,0
+760515_49796908,760515,ENG-ARG SF,2026-07-15,49796908,45'+3',45.03,1,Argentina,1,,Reece James,England,right wing,44.8,86.7,Reece James (England) wins a free kick on the right wing.,0,,,,,0,,,,,,1
+760515_49797059,760515,ENG-ARG SF,2026-07-15,49797059,51',51.0,2,Argentina,1,Cristian Romero,Jude Bellingham,England,defensive half,44.2,69.2,Jude Bellingham (England) wins a free kick in the defensive half.,1,player_pm3,yellow-card,51',Cristian Romero,0,,,,,,0
+760515_49797086,760515,ENG-ARG SF,2026-07-15,49797086,53',53.0,2,England,0,Jude Bellingham,,,,51.3,21.6,Foul by Jude Bellingham (England).,0,,,,,0,,,,,,0
+760515_49797339,760515,ENG-ARG SF,2026-07-15,49797339,67',67.0,2,England,0,Morgan Rogers,,,,61.2,4.8,Foul by Morgan Rogers (England).,0,,,,,0,,,,,,0
+760515_49797368,760515,ENG-ARG SF,2026-07-15,49797368,69',69.0,2,Argentina,1,Cristian Romero,Djed Spence,England,defensive half,95.2,76.8,Djed Spence (England) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760515_49797543,760515,ENG-ARG SF,2026-07-15,49797543,81',81.0,2,Argentina,1,Nico González,Harry Kane,England,defensive half,23.4,27.4,Harry Kane (England) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760515_49797746,760515,ENG-ARG SF,2026-07-15,49797746,90'+9',90.09,2,England,0,Jude Bellingham,,,,63.3,68.2,Foul by Jude Bellingham (England).,0,,,,,0,,,,,,0
+760515_49797778,760515,ENG-ARG SF,2026-07-15,49797778,90'+12',90.12,2,England,0,Dan Burn,,,,90.8,45.1,Foul by Dan Burn (England).,0,,,,,0,,,,,,0
+760517_49878814,760517,ESP-ARG Final,2026-07-19,49878814,2',2.0,1,Spain,0,Pedro Porro,Nico González,Argentina,defensive half,65.4,31.2,Nico González (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49878856,760517,ESP-ARG Final,2026-07-19,49878856,4',4.0,1,Argentina,1,Gonzalo Montiel,Álex Baena,Spain,defensive half,53.3,12.2,Álex Baena (Spain) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760517_49878952,760517,ESP-ARG Final,2026-07-19,49878952,8',8.0,1,Spain,0,Lamine Yamal,Nicolás Tagliafico,Argentina,defensive half,17.4,93.4,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49879055,760517,ESP-ARG Final,2026-07-19,49879055,14',14.0,1,Argentina,1,Alexis Mac Allister,,,,56.7,87.8,Foul by Alexis Mac Allister (Argentina).,0,,,,,1,F01,under_carded,7,yes_en_es_not_ar,Mac Allister on Olmo; FK yes card no,1
+760517_49879065,760517,ESP-ARG Final,2026-07-19,49879065,16',16.0,1,Spain,0,Álex Baena,Lionel Messi,Argentina,attacking half,35.0,45.8,Lionel Messi (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760517_49879092,760517,ESP-ARG Final,2026-07-19,49879092,18',18.0,1,Argentina,1,Nicolás Tagliafico,,,,58.7,91.1,Foul by Nicolás Tagliafico (Argentina).,0,,,,,1,F02,under_carded,3,yes_en_es_not_ar,Tagliafico on Yamal pattern 1H,1
+760517_49879106,760517,ESP-ARG Final,2026-07-19,49879106,20',20.0,1,Spain,0,Dani Olmo,Enzo Fernández,Argentina,defensive half,87.6,93.1,Enzo Fernández (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49879176,760517,ESP-ARG Final,2026-07-19,49879176,24',24.0,1,Spain,0,Rodri,Lionel Messi,Argentina,defensive half,61.0,38.2,Lionel Messi (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49879205,760517,ESP-ARG Final,2026-07-19,49879205,29',29.0,1,Argentina,1,Nicolás Tagliafico,,,,64.3,93.3,Foul by Nicolás Tagliafico (Argentina).,0,,,,,1,F02,under_carded,3,yes_en_es_not_ar,Tagliafico on Yamal pattern 1H,1
+760517_49879277,760517,ESP-ARG Final,2026-07-19,49879277,33',33.0,1,Spain,0,Rodri,Alexis Mac Allister,Argentina,left wing,66.2,95.2,Alexis Mac Allister (Argentina) wins a free kick on the left wing.,0,,,,,0,,,,,,0
+760517_49879285,760517,ESP-ARG Final,2026-07-19,49879285,34',34.0,1,Argentina,1,Julián Alvarez,,,,25.3,19.4,Foul by Julián Alvarez (Argentina).,0,,,,,0,,,,,,1
+760517_49879313,760517,ESP-ARG Final,2026-07-19,49879313,36',36.0,1,Argentina,1,Nicolás Tagliafico,,,,70.2,94.4,Foul by Nicolás Tagliafico (Argentina).,0,,,,,1,F02,under_carded,3,yes_en_es_not_ar,Tagliafico on Yamal pattern 1H,1
+760517_49879353,760517,ESP-ARG Final,2026-07-19,49879353,38',38.0,1,Argentina,1,Julián Alvarez,,,,47.4,86.3,Foul by Julián Alvarez (Argentina).,0,,,,,0,,,,,,1
+760517_49879409,760517,ESP-ARG Final,2026-07-19,49879409,41',41.0,1,Argentina,1,Lisandro Martínez,,,,31.0,60.3,Foul by Lisandro Martínez (Argentina).,1,player_pm3,yellow-card,41',Lisandro Martínez,0,,,,,,0
+760517_49879526,760517,ESP-ARG Final,2026-07-19,49879526,45'+3',45.03,1,Spain,0,Mikel Oyarzabal,Lionel Messi,Argentina,defensive half,31.2,34.6,Lionel Messi (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49879630,760517,ESP-ARG Final,2026-07-19,49879630,50',50.0,2,Spain,0,Álex Baena,Rodrigo De Paul,Argentina,defensive half,76.6,92.5,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49879640,760517,ESP-ARG Final,2026-07-19,49879640,51',51.0,2,Spain,0,Álex Baena,Gonzalo Montiel,Argentina,right wing,39.8,93.8,Gonzalo Montiel (Argentina) wins a free kick on the right wing.,0,,,,,0,,,,,,0
+760517_49879650,760517,ESP-ARG Final,2026-07-19,49879650,52',52.0,2,Argentina,1,Leandro Paredes,,,,56.8,46.0,Foul by Leandro Paredes (Argentina).,1,player_pm3,yellow-card,52',Leandro Paredes,0,,,,,,0
+760517_49879672,760517,ESP-ARG Final,2026-07-19,49879672,54',54.0,2,Spain,0,Pedro Porro,Julián Alvarez,Argentina,defensive half,59.0,10.1,Julián Alvarez (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49879678,760517,ESP-ARG Final,2026-07-19,49879678,54',54.0,2,Spain,0,Álex Baena,Gonzalo Montiel,Argentina,defensive half,78.1,94.8,Gonzalo Montiel (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49879710,760517,ESP-ARG Final,2026-07-19,49879710,56',56.0,2,Argentina,1,Julián Alvarez,,,,52.8,36.2,Foul by Julián Alvarez (Argentina).,0,,,,,0,,,,,,1
+760517_49879711,760517,ESP-ARG Final,2026-07-19,49879711,56',56.0,2,Argentina,1,,Aymeric Laporte,Spain,defensive half,47.2,62.6,Aymeric Laporte (Spain) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760517_49879759,760517,ESP-ARG Final,2026-07-19,49879759,60',60.0,2,Argentina,1,Leandro Paredes,,,,24.2,73.3,Foul by Leandro Paredes (Argentina).,0,,,,,0,,,,,,1
+760517_49879773,760517,ESP-ARG Final,2026-07-19,49879773,62',62.0,2,Argentina,1,Nicolás Otamendi,,,,23.0,90.6,Foul by Nicolás Otamendi (Argentina).,0,,,,,0,,,,,,1
+760517_49879939,760517,ESP-ARG Final,2026-07-19,49879939,76',76.0,2,Argentina,1,Leandro Paredes,,,,33.8,34.0,Foul by Leandro Paredes (Argentina).,0,,,,,0,,,,,,1
+760517_49880030,760517,ESP-ARG Final,2026-07-19,49880030,81',81.0,2,Argentina,1,Giuliano Simeone,,,,73.2,38.3,Foul by Giuliano Simeone (Argentina).,1,team_close,yellow-card,82',Enzo Fernández,0,,,,,,0
+760517_49880083,760517,ESP-ARG Final,2026-07-19,49880083,84',84.0,2,Argentina,1,Enzo Fernández,,,,63.4,33.8,Foul by Enzo Fernández (Argentina).,1,player_pm3,yellow-card,82',Enzo Fernández,0,,,,,,0
+760517_49880179,760517,ESP-ARG Final,2026-07-19,49880179,90'+1',90.01,2,Spain,0,Ferran Torres,Nicolás Otamendi,Argentina,defensive half,41.7,17.7,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49880188,760517,ESP-ARG Final,2026-07-19,49880188,90'+1',90.01,2,Spain,0,Aymeric Laporte,Lionel Messi,Argentina,attacking half,35.4,76.6,Lionel Messi (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760517_49880212,760517,ESP-ARG Final,2026-07-19,49880212,90'+3',90.03,2,Argentina,1,Enzo Fernández,,,,54.0,29.3,Foul by Enzo Fernández (Argentina).,1,player_pm3,red-card,90'+3',Enzo Fernández,0,,,,,,0
+760517_49880237,760517,ESP-ARG Final,2026-07-19,49880237,90'+6',90.06,2,Argentina,1,Leandro Paredes,,,,23.0,45.2,Foul by Leandro Paredes (Argentina).,1,team_close,yellow-card,90'+2',Cristian Romero,0,,,,,,0
+760517_49880277,760517,ESP-ARG Final,2026-07-19,49880277,92',92.0,3,Spain,0,Pedro Porro,Nicolás Tagliafico,Argentina,defensive half,27.4,76.4,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49880298,760517,ESP-ARG Final,2026-07-19,49880298,93',93.0,3,Spain,0,Pedri,Alexis Mac Allister,Argentina,defensive half,70.4,44.0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49880311,760517,ESP-ARG Final,2026-07-19,49880311,94',94.0,3,Argentina,1,Giuliano Simeone,,,,65.4,29.2,Foul by Giuliano Simeone (Argentina).,0,,,,,0,,,,,,1
+760517_49880352,760517,ESP-ARG Final,2026-07-19,49880352,96',96.0,3,Spain,0,Mikel Merino,Nicolás Otamendi,Argentina,defensive half,87.8,47.3,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49880377,760517,ESP-ARG Final,2026-07-19,49880377,100',100.0,3,Argentina,1,Lionel Messi,,,,56.6,77.1,Foul by Lionel Messi (Argentina).,0,,,,,0,,,,,,1
+760517_49880504,760517,ESP-ARG Final,2026-07-19,49880504,105'+3',105.03,3,Argentina,1,Giuliano Simeone,,,,82.2,92.2,Foul by Giuliano Simeone (Argentina).,0,,,,,0,,,,,,1
+760517_49880506,760517,ESP-ARG Final,2026-07-19,49880506,105'+3',105.03,3,Argentina,1,,Pedro Porro,Spain,defensive half,16.4,7.6,Pedro Porro (Spain) wins a free kick in the defensive half.,0,,,,,0,,,,,,1
+760517_49880534,760517,ESP-ARG Final,2026-07-19,49880534,108',108.0,4,Spain,0,Lamine Yamal,Nicolás Tagliafico,Argentina,attacking half,43.6,36.0,Nicolás Tagliafico (Argentina) wins a free kick in the attacking half.,0,,,,,0,,,,,,0
+760517_49880588,760517,ESP-ARG Final,2026-07-19,49880588,111',111.0,4,Argentina,1,Alexis Mac Allister,,,,73.6,7.4,Foul by Alexis Mac Allister (Argentina).,1,player_pm3,yellow-card,111',Alexis Mac Allister,0,,,,,,0
+760517_49880598,760517,ESP-ARG Final,2026-07-19,49880598,111',111.0,4,Argentina,1,Nicolás Tagliafico,,,,59.2,85.6,Foul by Nicolás Tagliafico (Argentina).,1,team_close,yellow-card,111',Alexis Mac Allister,0,,,,,,0
+760517_49880643,760517,ESP-ARG Final,2026-07-19,49880643,114',114.0,4,Spain,0,Nico Williams,Leandro Paredes,Argentina,right wing,42.8,88.9,Leandro Paredes (Argentina) wins a free kick on the right wing.,0,,,,,0,,,,,,0
+760517_49880697,760517,ESP-ARG Final,2026-07-19,49880697,119',119.0,4,Spain,0,Nico Williams,Marcos Senesi,Argentina,right wing,39.2,81.0,Marcos Senesi (Argentina) wins a free kick on the right wing.,0,,,,,0,,,,,,0
+760517_49880735,760517,ESP-ARG Final,2026-07-19,49880735,120'+3',120.03,4,Argentina,1,Nicolás Tagliafico,,,,81.6,59.0,Foul by Nicolás Tagliafico (Argentina).,0,,,,,0,,,,,,1
+760517_49880744,760517,ESP-ARG Final,2026-07-19,49880744,120'+4',120.04,4,Spain,0,Eric García,Nicolás Otamendi,Argentina,defensive half,45.6,58.7,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0
+760517_49880758,760517,ESP-ARG Final,2026-07-19,49880758,120'+5',120.05,4,Spain,0,Marc Cucurella,Nicolás Otamendi,Argentina,defensive half,62.8,74.0,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,0,,,,,0,,,,,,0

@@ -9,21 +9,23 @@ Last updated: 2026-07-25
 
 ## Stage
 
-**L1 complete; L2 sequential pass done (provisional)** — Egypt archived;
-final AR (Clarín) coded; England partial; group-stage no-hit logs closed.
+**Foul-level unit live** — `foul_level.csv` is the primary analysis table
+(217 called fouls). L2 claims attach to foul rows where minute+player known;
+aggregates (E01) stay tagged separately.
 
 ## Live artefacts
 
 | Path | What |
 |------|------|
+| **`data/processed/foul_level.csv`** | **Primary: one row per called foul** |
+| `data/processed/foul_level_l2_matched.csv` | Fouls with L2 claim attached |
+| `output/foul_level_summary.md` | Card rates + L2-matched list |
 | `docs/reference/EXHAUSTIVENESS.md` | L1/L2/L3 protocol |
-| `data/processed/l1_match_summary.csv` | Both teams F/YC/RC |
-| `data/processed/master_incident_registry.csv` | GS→Final incidents |
-| `data/processed/final_incident_source_matrix.csv` | Final (+ Clarín) |
-| `data/processed/egypt_incident_source_matrix.csv` | Egypt E01–E04 |
-| `data/processed/england_incident_source_matrix.csv` | SF01–SF03 |
-| `data/raw/search_logs/2026-07-25_group_stage.md` | GS no-hit log |
-| `data/raw/articles/` | Archived quote sources |
+| `data/processed/l1_match_summary.csv` | Match aggregates (secondary) |
+| `data/processed/master_incident_registry.csv` | Claim clusters |
+| `data/processed/final_incident_source_matrix.csv` | Final L2 |
+| `data/processed/egypt_incident_source_matrix.csv` | Egypt L2 |
+| `data/processed/england_incident_source_matrix.csv` | England L2 |
 | `output/agreement_stats.md` | Summary tables |
 
 ## Key findings (stable)
@@ -35,12 +37,12 @@ final AR (Clarín) coded; England partial; group-stage no-hit logs closed.
 
 ## Outstanding TODOs
 
-1. TyC final column (optional; Clarín already AR voice)
-2. SF01 second source or L3 video
-3. L3 video on F01 / F02 / E01
-4. Optional: Spain full-path L1 control
+1. Expand L2→foul maps (more incidents with minute+player → `L2_FOUL_MAP`)
+2. Egypt: foul-by-foul video/panel for 13 uncarded ARG rows (E01 is aggregate only)
+3. SF01 second source or video
+4. L3 intensity/recadito on L2-matched foul_ids
+5. Optional: Spain path same foul-level pipeline
 
 ## Next action
 
-Optional L3 video coding of F01, or short write-up note for debate use.
-Either is fine; L2 is good enough for the main claim.
+Video/panel pass on L2-matched foul_ids (F01, F02×3, SF01) + Egypt uncarded list.
