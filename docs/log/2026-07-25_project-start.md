@@ -2,7 +2,7 @@
 
 ## What
 
-Scaffolded `~/repos/research/cancherism` after X debate on
+Scaffolded `~/repos/other/cancherism` after X debate on
 Argentina “dirty” play and Werning-style foul Poisson.
 
 ## Why

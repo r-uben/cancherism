@@ -19,7 +19,7 @@ residue of that style — without treating official free-kick counts as ground t
 ## Quick start
 
 ```bash
-cd ~/repos/research/cancherism
+cd ~/repos/other/cancherism
 python3 scripts/01_fetch_opta_path.py   # ESPN commentary → data/
 python3 scripts/03_opta_match_tables.py
 python3 scripts/04_agreement_stats.py
