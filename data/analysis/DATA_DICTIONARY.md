@@ -150,8 +150,9 @@ Built by `python3 scripts/08_path_minute_narration.py`.
 
 Narration flags: `flag_foul`, `flag_card`, `flag_goal`, `flag_var`, `flag_penalty`, `flag_severity`.
 
-**BBC lives wired:** Egypt R16, Switzerland QF, England SF, Final.  
-**Not yet:** group stage + CPV R32 (need liveblog URLs).
+**BBC lives:** all 8 ARG path matches.  
+**Guardian:** Austria + Final.  
+**ES/AR final:** Marca EN, Marca ES, Olé, Clarín (local archives).
 
 ---
 

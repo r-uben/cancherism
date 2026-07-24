@@ -54,6 +54,15 @@ GUARDIAN_LIVES = {
     "760517": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates",
 }
 
+# Pre-archived ES/AR live text (files under data/raw/liveblogs/path/)
+# (name, event_id, source, country_family)
+LOCAL_MEDIA = [
+    ("marca_en_final.txt", "760517", "marca", "ES"),
+    ("marca_final.txt", "760517", "marca_es", "ES"),
+    ("ole_final.txt", "760517", "ole", "AR"),
+    ("clarin_final.txt", "760517", "clarin", "AR"),
+]
+
 MATCHES = {
     "760433": ("ARG-ALG GS", "2026-06-17"),
     "760456": ("ARG-AUT GS", "2026-06-22"),
@@ -145,6 +154,115 @@ def parse_opta_commentary(event_id: str) -> list[dict]:
                 **flags,
             }
         )
+    return rows
+
+
+def parse_local_media_file(
+    path: Path, event_id: str, source: str, country_family: str
+) -> list[dict]:
+    """Parse archived ES/AR (or other) live text into timed narration rows."""
+    if not path.exists():
+        return []
+    match, date = MATCHES[event_id]
+    text = path.read_text(encoding="utf-8", errors="replace")
+    rows = []
+    seq = 0
+    for line in re.split(r"\n+", text):
+        line = line.strip()
+        if len(line) < 25:
+            continue
+        mins: list[float | None] = []
+        # English: 14'  or 90'+3
+        for m in re.finditer(r"(\d{1,3})\s*'\s*\+\s*(\d{1,2})", line):
+            mins.append(int(m.group(1)) + int(m.group(2)) / 100.0)
+        for m in re.finditer(r"(?:^|[^\d])(\d{1,3})\s*'", line):
+            v = int(m.group(1))
+            if 0 <= v <= 130:
+                mins.append(float(v))
+        # Spanish: 41' PT |  7' ST | 45+3' ST | Minuto 14
+        for m in re.finditer(
+            r"(\d{1,3})\+(\d{1,2})'\s*(?:PT|ST)?", line, re.I
+        ):
+            base, add = int(m.group(1)), int(m.group(2))
+            # 2H ST: add 45 for rough continuous clock if ST and base<=45
+            if re.search(r"\bST\b", line) and base <= 45:
+                mins.append(45 + base + add / 100.0)
+            else:
+                mins.append(base + add / 100.0)
+        for m in re.finditer(r"(\d{1,3})'\s*(PT|ST)\b", line, re.I):
+            base = int(m.group(1))
+            half = m.group(2).upper()
+            if half == "ST" and base <= 45:
+                mins.append(45.0 + base)
+            else:
+                mins.append(float(base))
+        for m in re.finditer(r"Minuto\s+(\d{1,3})", line, re.I):
+            mins.append(float(m.group(1)))
+
+        flags = flag_text(line)
+        # Spanish foul/card keywords
+        if re.search(
+            r"\bfalta\b|amarilla|tarjeta|roja|expuls|plancha|zancadilla",
+            line,
+            re.I,
+        ):
+            flags["flag_foul"] = 1 if re.search(r"falta|zancadilla|plancha", line, re.I) else flags["flag_foul"]
+            flags["flag_card"] = 1 if re.search(
+                r"amarilla|tarjeta|roja|expuls", line, re.I
+            ) else flags["flag_card"]
+            flags["flag_severity"] = 1 if re.search(
+                r"clara|podría|merec|zafó|sin amarilla|could have|yellow",
+                line,
+                re.I,
+            ) else flags["flag_severity"]
+
+        interesting = (
+            flags["flag_foul"]
+            or flags["flag_card"]
+            or flags["flag_severity"]
+            or flags["flag_goal"]
+            or flags["flag_var"]
+            or bool(mins)
+        )
+        if not interesting:
+            continue
+        if not mins:
+            # keep undated severity / key disciplinary lines
+            if flags["flag_card"] or flags["flag_severity"] or flags["flag_foul"]:
+                mins = [None]
+            else:
+                continue
+
+        # de-dupe mins
+        uniq: list[float | None] = []
+        for mn in mins:
+            if mn is None:
+                if None not in uniq:
+                    uniq.append(None)
+            elif not any(
+                isinstance(u, float) and abs(u - mn) < 0.01 for u in uniq if u is not None
+            ):
+                uniq.append(mn)
+
+        for mn in uniq:
+            rows.append(
+                {
+                    "narration_id": f"{source}_{event_id}_{seq}",
+                    "source_type": "media_mbm",
+                    "source": source,
+                    "country_family": country_family,
+                    "event_id": event_id,
+                    "match": match,
+                    "date": date,
+                    "seq": seq,
+                    "minute_raw": "" if mn is None else str(mn),
+                    "minute_num": mn if mn is not None else "",
+                    "text": line[:500],
+                    **flags,
+                }
+            )
+            seq += 1
+    print(f"  Local {source} {event_id}: {len(rows)} lines from {path.name}")
     return rows
 
 
@@ -444,6 +562,11 @@ def main() -> None:
     print("Fetching Guardian lives…")
     for eid, url in GUARDIAN_LIVES.items():
         media_all.extend(fetch_guardian(eid, url))
+    print("Parsing local ES/AR live archives…")
+    for fname, eid, source, fam in LOCAL_MEDIA:
+        media_all.extend(
+            parse_local_media_file(RAW_LB / fname, eid, source, fam)
+        )
     write_csv(OUT / "hf_narration_media.csv", media_all)
 
     # stacked long
@@ -483,11 +606,35 @@ def main() -> None:
                 "media_lines": sum(1 for r in media_all if r["event_id"] == eid),
                 "has_bbc": int(eid in BBC_LIVES),
                 "has_guardian": int(eid in GUARDIAN_LIVES),
-                "notes": (
-                    "BBC+Guardian"
-                    if eid in BBC_LIVES and eid in GUARDIAN_LIVES
-                    else ("BBC live" if eid in BBC_LIVES else "Opta only")
+                "es_lines": sum(
+                    1
+                    for r in media_all
+                    if r["event_id"] == eid and r.get("country_family") == "ES"
                 ),
+                "ar_lines": sum(
+                    1
+                    for r in media_all
+                    if r["event_id"] == eid and r.get("country_family") == "AR"
+                ),
+                "notes": ";".join(
+                    x
+                    for x in [
+                        "BBC" if eid in BBC_LIVES else "",
+                        "Guardian" if eid in GUARDIAN_LIVES else "",
+                        "ES" if any(
+                            r["event_id"] == eid and r.get("country_family") == "ES"
+                            for r in media_all
+                        )
+                        else "",
+                        "AR" if any(
+                            r["event_id"] == eid and r.get("country_family") == "AR"
+                            for r in media_all
+                        )
+                        else "",
+                    ]
+                    if x
+                )
+                or "Opta only",
             }
         )
     write_csv(OUT / "hf_narration_inventory.csv", inv)
@@ -542,28 +689,29 @@ def main() -> None:
         "",
         "## Inventory",
         "",
-        "| Match | Opta lines | BBC | Guardian |",
-        "|-------|----------:|:---:|:--------:|",
+        "| Match | Opta | BBC | Guardian | ES | AR |",
+        "|-------|-----:|:---:|:--------:|---:|---:|",
     ]
     for r in inv:
         lines.append(
             f"| {r['match']} | {r['opta_lines']} | "
-            f"{'yes' if r['has_bbc'] else '**no**'} | "
-            f"{'yes' if r['has_guardian'] else 'no'} |"
+            f"{'yes' if r['has_bbc'] else 'no'} | "
+            f"{'yes' if r['has_guardian'] else 'no'} | "
+            f"{r.get('es_lines', 0)} | {r.get('ar_lines', 0)} |"
         )
     lines += [
         "",
         f"- Opta total lines: **{len(opta_all)}**",
-        f"- Media (BBC+Guardian) lines: **{len(media_all)}**",
+        f"- Media lines (BBC+Guardian+ES+AR): **{len(media_all)}**",
         f"- ARG uncarded fouls with nearby media text: **{arg_unc_media}/{len(arg_unc)}**",
         "",
         "## Gaps",
         "",
-        "- Guardian: only Austria + Final wired (other live URLs 404 or unknown)",
-        "- ES/AR liveblogs: not yet wired",
-        "- BBC now covers **all 8** ARG path matches",
+        "- Guardian: Austria + Final only",
+        "- ES/AR live: **final** (Marca EN, Olé, Clarín) — not full path",
+        "- BBC: **all 8** matches",
         "",
-        "Opta = dense foul clocks. BBC = UK journalist density path-wide.",
+        "Opta = dense foul clocks path-wide. Media = UK path-wide + ES/AR final.",
         "",
     ]
     note.write_text("\n".join(lines) + "\n", encoding="utf-8")
