@@ -22,6 +22,19 @@ L3 video still empty (needs human + tape).
 | E01 Egypt | match aggregate | EN + MENA_AR + DE + EG_FA | n/a |
 | FIFA Collina | institutional | defends VAR/integrity | not independent |
 
+## High-frequency data pack
+
+`data/analysis/` — rebuild with `python3 scripts/07_prepare_hf_data.py`
+
+| File | Unit |
+|------|------|
+| `hf_fouls.csv` | Foul event |
+| `hf_cards.csv` | Card event |
+| `hf_coverage_long.csv` | Media hit (country × outlet) |
+| `hf_coverage_by_foul.csv` | Media intensity per foul |
+| `hf_minute_grid_final.csv` | Minute 0–120 final |
+| `DATA_DICTIONARY.md` | Schema |
+
 ## Key paths
 
 | Path | Role |
