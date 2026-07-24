@@ -12,7 +12,7 @@ Q02,ARG-SUI QF,760513,2026-07-12,97-114,under_carded,Argentina,,,ARG 3 late ET y
 SF01,ENG-ARG SF,760515,2026-07-15,3,under_carded,Argentina,Enzo Fernández,Elliot Anderson,Early Enzo foul; Athletic head-contact claim,yes,3',1,0,0,1,no,medium,L2,open,Needs 2nd source or video
 SF02,ENG-ARG SF,760515,2026-07-15,42-51,under_carded,Argentina,Lisandro / Romero,,CBs booked,yes,42/51,0,0,0,0,n/a,n/a,L1,closed,Cards given
 SF03,ENG-ARG SF,760515,2026-07-15,match,spoiling_style,Argentina,,,Feisty/prod-poke; BBC 19 fouls 1H,yes,match,2,0,0,2,no,narrative,L2,closed_provisional,Weak
-F01,ESP-ARG Final,760517,2026-07-19,14-15,under_carded,Argentina,Alexis Mac Allister,Dani Olmo,Late reckless; FK yes yellow no,yes,14',5,2,0,7,yes_en_es_not_ar,strong,L2,closed_provisional,AR media reverse/silent
+F01,ESP-ARG Final,760517,2026-07-19,14-15,under_carded,Argentina,Alexis Mac Allister,Dani Olmo,Late reckless; FK yes yellow no; multi-country panel,yes,14',5,2,0,7,yes_multicountry_UK_ES_FR_DE_IN_not_AR,strong,L2,closed_provisional,Country families UK ES FR DE IN under_carded; AR oppose/silent; see foul_source_panel_F01.csv
 F02,ESP-ARG Final,760517,2026-07-19,1H,under_carded,Argentina,Nicolás Tagliafico,Lamine Yamal,Studs/bring-downs no early booking,partial,multiple,2,1,0,3,yes_en_es_not_ar,strong,L2,closed_provisional,
 F03,ESP-ARG Final,760517,2026-07-19,52+,spoiling_style,Argentina,Leandro Paredes,,Provocateur,partial,52',4,1,2,7,yes_cross_lang,mixed,L2,closed_provisional,
 F04,ESP-ARG Final,760517,2026-07-19,82,under_carded,Argentina,Enzo Fernández,,Dissent Y; Clarín says first Y exaggerated,yes,82',1,0,0,1,no,weak,L2,closed_provisional,AR over_card frame

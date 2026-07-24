@@ -20,6 +20,11 @@ aggregates (E01) stay tagged separately.
 | **`data/processed/foul_level.csv`** | **Primary: one row per called foul** |
 | `data/processed/foul_mbm_alignment_final.csv` | Foul × minute × journalist (final) |
 | `output/foul_mbm_alignment_summary.md` | Consensus coverage of uncarded fouls |
+| `coding/SOURCE_PANEL.md` | Multi-country family rules |
+| `data/processed/foul_source_panel_F01.csv` | F01 outlet×country panel |
+| `data/processed/country_consensus_F01.csv` | F01 country-family rollup |
+| `output/multicountry_consensus_summary.md` | International consensus write-up |
+| `data/raw/articles/multicountry/` | FR/DE/UK/IN archives |
 | `data/processed/foul_level_l2_matched.csv` | Fouls with L2 claim attached |
 | `output/foul_level_summary.md` | Card rates + L2-matched list |
 | `docs/reference/EXHAUSTIVENESS.md` | L1/L2/L3 protocol |
@@ -32,19 +37,20 @@ aggregates (E01) stay tagged separately.
 
 ## Key findings (stable)
 
-1. **F01** Mac Allister–Olmo final: EN+ES under-carding consensus; **not AR**.
+1. **F01** Mac Allister–Olmo final: **multi-country** under-carding (UK+ES+FR+DE+IN);
+   **AR oppose/silent**.
 2. **E01** Egypt: strongest L1 soft notebook + multi-source EN/FA protest.
 3. Card rates **path-dependent** — soft mid-path (JOR, EGY); not free pass late.
 4. Clarín: Vincic *permisivo*, but Enzo first Y “exagerada” (reverse of EN F04).
 
 ## Outstanding TODOs
 
-1. Expand L2→foul maps (more incidents with minute+player → `L2_FOUL_MAP`)
-2. Egypt: foul-by-foul video/panel for 13 uncarded ARG rows (E01 is aggregate only)
-3. SF01 second source or video
-4. L3 intensity/recadito on L2-matched foul_ids
-5. Optional: Spain path same foul-level pipeline
+1. Same country panel for **F02** Tagliafico + **E01** Egypt aggregate
+2. Arabic / Egyptian press on Egypt R16
+3. IT full archive (Tribuna 403) + L’Équipe if paywall allows
+4. L3 video on F01
+5. Expand foul×MbM script to ingest `multicountry/` automatically
 
 ## Next action
 
-Video/panel pass on L2-matched foul_ids (F01, F02×3, SF01) + Egypt uncarded list.
+Multi-country panel for F02 and Egypt E01 (same SOURCE_PANEL rules).
