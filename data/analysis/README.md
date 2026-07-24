@@ -20,3 +20,20 @@ Quick peek:
 python3 -c "import csv; r=list(csv.DictReader(open('hf_coverage_by_foul.csv')));
 print([x for x in r if int(x['n_country_families'])>=3][:5])"
 ```
+
+## Minute narration (full path)
+
+```bash
+python3 scripts/08_path_minute_narration.py
+```
+
+| File | Content |
+|------|---------|
+| `hf_narration_opta.csv` | Opta line stream, all 8 matches (~996) |
+| `hf_narration_media.csv` | BBC MbM where URL known |
+| `hf_narration_long.csv` | Both stacked |
+| `hf_foul_narration_join.csv` | Every foul + nearby narration |
+| `hf_minute_grid_path.csv` | Activity by minute × match |
+| `NARRATION_COVERAGE.md` | Which matches lack journalist MbM |
+
+Opta is dense for every match. Journalist live text is still sparse for group stage.

@@ -24,15 +24,25 @@ L3 video still empty (needs human + tape).
 
 ## High-frequency data pack
 
-`data/analysis/` — rebuild with `python3 scripts/07_prepare_hf_data.py`
+`data/analysis/` — rebuild:
+
+```bash
+python3 scripts/07_prepare_hf_data.py
+python3 scripts/08_path_minute_narration.py
+```
 
 | File | Unit |
 |------|------|
 | `hf_fouls.csv` | Foul event |
 | `hf_cards.csv` | Card event |
-| `hf_coverage_long.csv` | Media hit (country × outlet) |
+| `hf_coverage_long.csv` | Multi-country media hit |
 | `hf_coverage_by_foul.csv` | Media intensity per foul |
-| `hf_minute_grid_final.csv` | Minute 0–120 final |
+| `hf_narration_opta.csv` | **Minute narration Opta (all matches)** |
+| `hf_narration_media.csv` | BBC MbM (4 matches) |
+| `hf_narration_long.csv` | Stacked narration |
+| `hf_foul_narration_join.csv` | Foul × nearby narration |
+| `hf_minute_grid_path.csv` | Minute × match (full path) |
+| `NARRATION_COVERAGE.md` | MbM gaps |
 | `DATA_DICTIONARY.md` | Schema |
 
 ## Key paths
@@ -47,10 +57,11 @@ L3 video still empty (needs human + tape).
 
 ## Outstanding
 
-1. Human L3 codes for F01 / F02 29′ (requires video)
-2. Optional Spain path L1 control
-3. Optional thread/blog publish from write-up
+1. Wire Guardian + ES/AR liveblogs for all 8 matches (GS still Opta-only for media)
+2. Human L3 codes for F01 / F02 29′ (requires video)
+3. Optional Spain path L1 control
+4. Publish write-up
 
 ## Next action
 
-L3 video coding when tape is available; otherwise publish/share write-up.
+Find/add MbM URLs for ALG, AUT, JOR, CPV; re-run `08_path_minute_narration.py`.

@@ -1,0 +1,997 @@
+narration_id,source_type,source,country_family,event_id,match,date,seq,minute_raw,minute_num,text,flag_foul,flag_card,flag_goal,flag_var,flag_penalty,flag_sub,flag_severity
+opta_760433_0,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,0,,,| Lineups are announced and players are warming up.,0,0,0,0,0,0,0
+opta_760433_1,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,1,,,| First Half begins.,0,0,0,0,0,0,0
+opta_760433_2,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,2,1',1.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760433_3,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,3,1',1.0,Anis Hadj Moussa (Algeria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_4,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,4,4',4.0,"Offside, Argentina. Lautaro Martínez is caught offside.",0,0,0,0,0,0,0
+opta_760433_5,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,5,5',5.0,"Offside, Argentina. Lionel Messi is caught offside.",0,0,0,0,0,0,0
+opta_760433_6,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,6,8',8.0,"Offside, Algeria. Farès Chaïbi is caught offside.",0,0,0,0,0,0,0
+opta_760433_7,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,7,8',8.0,GOAL OVERTURNED BY VAR: Farès Chaïbi (Algeria) scores but the goal is ruled out after a VAR review.,0,0,1,1,0,0,0
+opta_760433_8,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,8,9',9.0,VAR Decision: No Goal Argentina 0-0 Algeria.,0,0,1,1,0,0,0
+opta_760433_9,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,9,10',10.0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_10,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,10,10',10.0,Foul by Lautaro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760433_11,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,11,11',11.0,Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760433_12,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,12,11',11.0,Foul by Gonzalo Montiel (Argentina).,1,0,0,0,0,0,0
+opta_760433_13,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,13,17',17.0,"Goal! Argentina 1, Algeria 0. Lionel Messi (Argentina) left footed shot from outside the box to the top right corner. Assisted by Rodrigo De Paul.",0,0,1,0,0,0,0
+opta_760433_14,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,14,25',25.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760433_15,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,15,28',28.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760433_16,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,16,31',31.0,Foul by Lionel Messi (Argentina).,1,0,0,0,0,0,0
+opta_760433_17,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,17,31',31.0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_18,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,18,34',34.0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_19,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,19,34',34.0,Foul by Amine Gouiri (Algeria).,1,0,0,0,0,0,0
+opta_760433_20,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,20,36',36.0,Foul by Rafik Belghali (Algeria).,1,0,0,0,0,0,0
+opta_760433_21,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,21,36',36.0,Thiago Almada (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760433_22,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,22,37',37.0,Attempt missed. Lionel Messi (Argentina) left footed shot from more than 35 yards misses to the left from a direct free kick.,1,0,0,0,0,0,0
+opta_760433_23,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,23,37',37.0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_24,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,24,37',37.0,Foul by Facundo Medina (Argentina).,1,0,0,0,0,0,0
+opta_760433_25,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,25,39',39.0,"Offside, Argentina. Thiago Almada is caught offside.",0,0,0,0,0,0,0
+opta_760433_26,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,26,40',40.0,"Corner, Algeria. Conceded by Emiliano Martínez.",0,0,0,0,0,0,0
+opta_760433_27,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,27,41',41.0,Attempt missed. Farès Chaïbi (Algeria) header from the centre of the box misses to the left. Assisted by Hicham Boudaoui with a cross following a corner.,0,0,0,0,0,0,0
+opta_760433_28,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,28,42',42.0,Attempt missed. Thiago Almada (Argentina) right footed shot from outside the box is high and wide to the right. Assisted by Enzo Fernández.,0,0,0,0,0,0,0
+opta_760433_29,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,29,43',43.0,Foul by Alexis Mac Allister (Argentina).,1,0,0,0,0,0,0
+opta_760433_30,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,30,43',43.0,Ibrahim Maza (Algeria) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760433_31,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,31,44',44.0,Attempt missed. Farès Chaïbi (Algeria) right footed shot from outside the box is too high. Assisted by Aïssa Mandi.,0,0,0,0,0,0,0
+opta_760433_32,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,32,45',45.0,"Attempt missed. Farès Chaïbi (Algeria) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by Anis Hadj Moussa.",0,0,0,0,0,0,0
+opta_760433_33,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,33,45',45.0,Foul by Lautaro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760433_34,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,34,45',45.0,Ramy Bensebaini (Algeria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_35,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,35,45'+1',45.01,Fourth official has announced 4 minutes of added time.,0,0,0,0,0,0,0
+opta_760433_36,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,36,45'+1',45.01,"Corner, Algeria. Conceded by Lisandro Martínez.",0,0,0,0,0,0,0
+opta_760433_37,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,37,45'+4',45.04,Attempt blocked. Anis Hadj Moussa (Algeria) left footed shot from the right side of the box is blocked. Assisted by Rafik Belghali.,0,0,0,0,0,0,0
+opta_760433_38,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,38,45'+4',45.04,Foul by Rafik Belghali (Algeria).,1,0,0,0,0,0,0
+opta_760433_39,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,39,45'+4',45.04,Facundo Medina (Argentina) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760433_40,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,40,45'+5',45.05,Attempt missed. Alexis Mac Allister (Argentina) header from the centre of the box is too high. Assisted by Lionel Messi with a cross following a set piece situation.,0,0,0,0,0,0,0
+opta_760433_41,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,41,45'+5',45.05,"First Half ends, Argentina 1, Algeria 0.",0,0,0,0,0,0,0
+opta_760433_42,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,42,45',45.0,"Substitution, Argentina. Nahuel Molina replaces Gonzalo Montiel.",0,0,0,0,0,1,0
+opta_760433_43,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,43,45',45.0,"Second Half begins Argentina 1, Algeria 0.",0,0,0,0,0,0,0
+opta_760433_44,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,44,48',48.0,Lionel Messi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_45,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,45,48',48.0,Foul by Hicham Boudaoui (Algeria).,1,0,0,0,0,0,0
+opta_760433_46,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,46,51',51.0,Attempt missed. Lionel Messi (Argentina) left footed shot from outside the box is high and wide to the left. Assisted by Nahuel Molina.,0,0,0,0,0,0,0
+opta_760433_47,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,47,51',51.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760433_48,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,48,51',51.0,Ibrahim Maza (Algeria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_49,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,49,54',54.0,Attempt saved. Lautaro Martínez (Argentina) right footed shot from the right side of the box is saved in the bottom left corner by Luca Zidane (Algeria). Assisted by Lionel Messi with a through ball.,0,0,0,0,0,0,0
+opta_760433_50,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,50,55',55.0,Amine Gouiri (Algeria) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760433_51,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,51,55',55.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760433_52,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,52,55',55.0,"Substitution, Argentina. Nico González replaces Thiago Almada.",0,0,0,0,0,1,0
+opta_760433_53,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,53,55',55.0,"Substitution, Argentina. Julián Alvarez replaces Lautaro Martínez.",0,0,0,0,0,1,0
+opta_760433_54,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,54,57',57.0,Attempt blocked. Ibrahim Maza (Algeria) right footed shot from outside the box is blocked. Assisted by Farès Chaïbi.,0,0,0,0,0,0,0
+opta_760433_55,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,55,59',59.0,"Corner, Argentina. Conceded by Aïssa Mandi.",0,0,0,0,0,0,0
+opta_760433_56,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,56,60',60.0,Attempt saved. Alexis Mac Allister (Argentina) right footed shot from outside the box is saved in the centre of the goal by Luca Zidane (Algeria).,0,0,1,0,0,0,0
+opta_760433_57,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,57,60',60.0,"Goal! Argentina 2, Algeria 0. Lionel Messi (Argentina) right footed shot from the centre of the box to the bottom right corner.",0,0,1,0,0,0,0
+opta_760433_58,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,58,63',63.0,Foul by Hicham Boudaoui (Algeria).,1,0,0,0,0,0,0
+opta_760433_59,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,59,63',63.0,Enzo Fernández (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760433_60,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,60,64',64.0,"Substitution, Algeria. Houssem Aouar replaces Hicham Boudaoui.",0,0,0,0,0,1,0
+opta_760433_61,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,61,64',64.0,"Substitution, Algeria. Mohammed Amoura replaces Amine Gouiri.",0,0,0,0,0,1,0
+opta_760433_62,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,62,64',64.0,"Substitution, Algeria. Riyad Mahrez replaces Anis Hadj Moussa.",0,0,0,0,0,1,0
+opta_760433_63,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,63,64',64.0,Cristian Romero (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760433_64,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,64,64',64.0,Foul by Mohammed Amoura (Algeria).,1,0,0,0,0,0,0
+opta_760433_65,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,65,66',66.0,Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the top centre of the goal by Luca Zidane (Algeria). Assisted by Alexis Mac Allister.,0,0,1,0,0,0,0
+opta_760433_66,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,66,66',66.0,"Corner, Argentina. Conceded by Luca Zidane.",0,0,0,0,0,0,0
+opta_760433_67,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,67,69',69.0,"Attempt missed. Houssem Aouar (Algeria) right footed shot from outside the box is close, but misses to the left. Assisted by Mohammed Amoura.",0,0,0,0,0,0,0
+opta_760433_68,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,68,69',69.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760433_69,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,69,71',71.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760433_70,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,70,75',75.0,Foul by Farès Chaïbi (Algeria).,1,0,0,0,0,0,0
+opta_760433_71,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,71,75',75.0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_72,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,72,76',76.0,"Goal! Argentina 3, Algeria 0. Lionel Messi (Argentina) left footed shot from the centre of the box to the bottom left corner. Assisted by Nico González.",0,0,1,0,0,0,0
+opta_760433_73,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,73,78',78.0,Delay in match because of an injury Ibrahim Maza (Algeria).,0,0,0,0,0,0,0
+opta_760433_74,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,74,79',79.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760433_75,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,75,80',80.0,"Substitution, Argentina. Nico Paz replaces Lionel Messi.",0,0,0,0,0,1,0
+opta_760433_76,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,76,80',80.0,"Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero.",0,0,0,0,0,1,0
+opta_760433_77,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,77,81',81.0,"Substitution, Algeria. Adil Boulbina replaces Ibrahim Maza.",0,0,0,0,0,1,0
+opta_760433_78,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,78,82',82.0,"Substitution, Algeria. Ramiz Zerrouki replaces Nabil Bentaleb.",0,0,0,0,0,1,0
+opta_760433_79,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,79,83',83.0,Foul by Facundo Medina (Argentina).,1,0,0,0,0,0,0
+opta_760433_80,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,80,83',83.0,Riyad Mahrez (Algeria) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760433_81,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,81,83',83.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760433_82,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,82,83',83.0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760433_83,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,83,85',85.0,Houssem Aouar (Algeria) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760433_84,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,84,85',85.0,Foul by Alexis Mac Allister (Argentina).,1,0,0,0,0,0,0
+opta_760433_85,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,85,86',86.0,Attempt blocked. Riyad Mahrez (Algeria) left footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760433_86,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,86,90'+1',90.01,Fourth official has announced 6 minutes of added time.,0,0,0,0,0,0,0
+opta_760433_87,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,87,90'+5',90.05,Ramy Bensebaini (Algeria) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760433_88,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,88,90'+5',90.05,Foul by Nico Paz (Argentina).,1,0,0,0,0,0,0
+opta_760433_89,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,89,90'+6',90.06,Handball by Rayan Aït-Nouri (Algeria).,0,0,0,0,0,0,0
+opta_760433_90,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,90,90'+7',90.07,"Second Half ends, Argentina 3, Algeria 0.",0,0,0,0,0,0,0
+opta_760433_91,opta,espn_opta,OFFICIAL,760433,ARG-ALG GS,2026-06-17,91,,,"| Match ends, Argentina 3, Algeria 0.",0,0,0,0,0,0,0
+opta_760456_0,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,0,,,| Lineups are announced and players are warming up.,0,0,0,0,0,0,0
+opta_760456_1,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,1,,,| First Half begins.,0,0,0,0,0,0,0
+opta_760456_2,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,2,2',2.0,"Offside, Argentina. Thiago Almada is caught offside.",0,0,0,0,0,0,0
+opta_760456_3,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,3,4',4.0,Penalty conceded by Stefan Posch (Austria) after a foul in the penalty area.,1,0,0,0,1,0,0
+opta_760456_4,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,4,4',4.0,Penalty Argentina. Lautaro Martínez draws a foul in the penalty area.,1,0,0,0,1,0,0
+opta_760456_5,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,5,4',4.0,Delay in match because of an injury Lautaro Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760456_6,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,6,6',6.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760456_7,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,7,7',7.0,VAR Decision: Penalty Argentina.,0,0,0,1,1,0,0
+opta_760456_8,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,8,9',9.0,"Penalty missed. Lionel Messi (Argentina) left footed shot is close, but misses to the right.",0,0,0,0,1,0,0
+opta_760456_9,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,9,10',10.0,Foul by Romano Schmid (Austria).,1,0,0,0,0,0,0
+opta_760456_10,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,10,10',10.0,Facundo Medina (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_11,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,11,11',11.0,Michael Gregoritsch (Austria) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760456_12,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,12,11',11.0,Foul by Lisandro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760456_13,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,13,14',14.0,Foul by Alexis Mac Allister (Argentina).,1,0,0,0,0,0,0
+opta_760456_14,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,14,14',14.0,Paul Wanner (Austria) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760456_15,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,15,16',16.0,Handball by Romano Schmid (Austria).,0,0,0,0,0,0,0
+opta_760456_16,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,16,18',18.0,Foul by Paul Wanner (Austria).,1,0,0,0,0,0,0
+opta_760456_17,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,17,18',18.0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_18,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,18,21',21.0,Konrad Laimer (Austria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_19,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,19,21',21.0,Foul by Lautaro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760456_20,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,20,21',21.0,Delay in match because of an injury Rodrigo De Paul (Argentina).,0,0,0,0,0,0,0
+opta_760456_21,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,21,22',22.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760456_22,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,22,23',23.0,Attempt missed. Paul Wanner (Austria) header from the centre of the box misses to the left. Assisted by Stefan Posch with a cross.,0,0,0,0,0,0,0
+opta_760456_23,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,23,23',23.0,"Attempt missed. Marcel Sabitzer (Austria) left footed shot from the centre of the box is close, but misses to the right. Assisted by Paul Wanner.",0,0,0,0,0,0,0
+opta_760456_24,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,24,23',23.0,"Corner, Austria. Conceded by Cristian Romero.",0,0,0,0,0,0,0
+opta_760456_25,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,25,23',23.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760456_26,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,26,26',26.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760456_27,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,27,29',29.0,"Corner, Austria. Conceded by Nahuel Molina.",0,0,0,0,0,0,0
+opta_760456_28,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,28,32',32.0,Attempt blocked. Lionel Messi (Argentina) left footed shot from the centre of the box is blocked.,0,0,0,0,0,0,0
+opta_760456_29,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,29,32',32.0,Romano Schmid (Austria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_30,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,30,32',32.0,Foul by Facundo Medina (Argentina).,1,0,0,0,0,0,0
+opta_760456_31,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,31,35',35.0,Marcel Sabitzer (Austria) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760456_32,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,32,35',35.0,Foul by Nahuel Molina (Argentina).,1,0,0,0,0,0,0
+opta_760456_33,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,33,38',38.0,"Goal! Argentina 1, Austria 0. Lionel Messi (Argentina) left footed shot from the centre of the box to the bottom left corner. Assisted by Facundo Medina following a fast break.",0,0,1,0,0,0,0
+opta_760456_34,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,34,40',40.0,Stefan Posch (Austria) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760456_35,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,35,43',43.0,Foul by Kevin Danso (Austria).,1,0,0,0,0,0,0
+opta_760456_36,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,36,43',43.0,Lionel Messi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_37,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,37,44',44.0,Romano Schmid (Austria) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760456_38,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,38,44',44.0,Foul by Alexis Mac Allister (Argentina).,1,0,0,0,0,0,0
+opta_760456_39,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,39,45',45.0,Romano Schmid (Austria) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760456_40,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,40,45',45.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760456_41,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,41,45'+1',45.01,Fourth official has announced 7 minutes of added time.,0,0,0,0,0,0,0
+opta_760456_42,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,42,45'+2',45.02,Konrad Laimer (Austria) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760456_43,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,43,45'+2',45.02,Foul by Lautaro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760456_44,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,44,45'+7',45.07,"First Half ends, Argentina 1, Austria 0.",0,0,0,0,0,0,0
+opta_760456_45,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,45,45',45.0,"Second Half begins Argentina 1, Austria 0.",0,0,0,0,0,0,0
+opta_760456_46,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,46,46',46.0,Attempt missed. Marcel Sabitzer (Austria) right footed shot from outside the box misses to the left. Assisted by Nicolas Seiwald.,0,0,0,0,0,0,0
+opta_760456_47,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,47,48',48.0,Foul by Xaver Schlager (Austria).,1,0,0,0,0,0,0
+opta_760456_48,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,48,48',48.0,Lionel Messi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_49,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,49,50',50.0,"Offside, Argentina. Lionel Messi is caught offside.",0,0,0,0,0,0,0
+opta_760456_50,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,50,52',52.0,Foul by Xaver Schlager (Austria).,1,0,0,0,0,0,0
+opta_760456_51,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,51,52',52.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760456_52,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,52,53',53.0,Romano Schmid (Austria) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_53,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,53,53',53.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760456_54,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,54,54',54.0,Konrad Laimer (Austria) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760456_55,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,55,54',54.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760456_56,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,56,55',55.0,Attempt saved. Marcel Sabitzer (Austria) right footed shot from outside the box is saved in the top centre of the goal by Emiliano Martínez (Argentina).,0,0,1,0,0,0,0
+opta_760456_57,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,57,57',57.0,Foul by Paul Wanner (Austria).,1,0,0,0,0,0,0
+opta_760456_58,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,58,57',57.0,Lautaro Martínez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_59,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,59,57',57.0,"Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero because of an injury.",0,0,0,0,0,1,0
+opta_760456_60,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,60,61',61.0,Attempt blocked. Enzo Fernández (Argentina) right footed shot from outside the box is blocked. Assisted by Thiago Almada.,0,0,0,0,0,0,0
+opta_760456_61,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,61,62',62.0,Delay in match because of an injury Kevin Danso (Austria).,0,0,0,0,0,0,0
+opta_760456_62,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,62,62',62.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760456_63,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,63,64',64.0,"Substitution, Argentina. Julián Alvarez replaces Thiago Almada.",0,0,0,0,0,1,0
+opta_760456_64,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,64,65',65.0,"Substitution, Argentina. Nico González replaces Lautaro Martínez.",0,0,0,0,0,1,0
+opta_760456_65,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,65,65',65.0,Attempt missed. Lionel Messi (Argentina) left footed shot from the left side of the box misses to the right. Assisted by Enzo Fernández.,0,0,0,0,0,0,0
+opta_760456_66,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,66,67',67.0,Attempt missed. Michael Gregoritsch (Austria) header from the centre of the box is too high. Assisted by Marcel Sabitzer with a cross.,0,0,0,0,0,0,0
+opta_760456_67,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,67,67',67.0,"Substitution, Austria. Marco Friedl replaces David Alaba.",0,0,0,0,0,1,0
+opta_760456_68,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,68,68',68.0,"Substitution, Austria. Alexander Prass replaces Stefan Posch.",0,0,0,0,0,1,0
+opta_760456_69,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,69,68',68.0,"Substitution, Austria. Marko Arnautovic replaces Paul Wanner.",0,0,0,0,0,1,0
+opta_760456_70,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,70,69',69.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760456_71,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,71,71',71.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760456_72,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,72,73',73.0,"Corner, Argentina. Conceded by Romano Schmid.",0,0,0,0,0,0,0
+opta_760456_73,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,73,73',73.0,"Attempt missed. Nico González (Argentina) header from the centre of the box is close, but misses to the right. Assisted by Lionel Messi with a cross following a corner.",0,0,0,0,0,0,0
+opta_760456_74,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,74,75',75.0,Foul by Xaver Schlager (Austria).,1,0,0,0,0,0,0
+opta_760456_75,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,75,75',75.0,Enzo Fernández (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_76,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,76,76',76.0,Foul by Konrad Laimer (Austria).,1,0,0,0,0,0,0
+opta_760456_77,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,77,76',76.0,Nico González (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_78,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,78,76',76.0,Facundo Medina (Argentina) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760456_79,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,79,76',76.0,Konrad Laimer (Austria) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760456_80,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,80,78',78.0,"Substitution, Austria. Patrick Wimmer replaces Romano Schmid.",0,0,0,0,0,1,0
+opta_760456_81,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,81,79',79.0,Delay in match because of an injury Emiliano Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760456_82,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,82,80',80.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760456_83,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,83,81',81.0,"Corner, Austria. Conceded by Facundo Medina.",0,0,0,0,0,0,0
+opta_760456_84,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,84,82',82.0,"Substitution, Argentina. Leandro Paredes replaces Rodrigo De Paul.",0,0,0,0,0,1,0
+opta_760456_85,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,85,82',82.0,"Substitution, Argentina. Nicolás Tagliafico replaces Facundo Medina.",0,0,0,0,0,1,0
+opta_760456_86,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,86,85',85.0,"Substitution, Austria. Carney Chukwuemeka replaces Michael Gregoritsch.",0,0,0,0,0,1,0
+opta_760456_87,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,87,86',86.0,Attempt blocked. Nico González (Argentina) right footed shot from the centre of the box is blocked. Assisted by Lisandro Martínez with a through ball.,0,0,0,0,0,0,0
+opta_760456_88,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,88,86',86.0,Attempt blocked. Enzo Fernández (Argentina) right footed shot from the centre of the box is blocked.,0,0,0,0,0,0,0
+opta_760456_89,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,89,88',88.0,Foul by Patrick Wimmer (Austria).,1,0,0,0,0,0,0
+opta_760456_90,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,90,88',88.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760456_91,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,91,89',89.0,Patrick Wimmer (Austria) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760456_92,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,92,89',89.0,Foul by Nicolás Otamendi (Argentina).,1,0,0,0,0,0,0
+opta_760456_93,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,93,90',90.0,Fourth official has announced 5 minutes of added time.,0,0,0,0,0,0,0
+opta_760456_94,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,94,90'+1',90.01,Foul by Patrick Wimmer (Austria).,1,0,0,0,0,0,0
+opta_760456_95,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,95,90'+1',90.01,Nico González (Argentina) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760456_96,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,96,90'+2',90.02,Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760456_97,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,97,90'+2',90.02,Foul by Leandro Paredes (Argentina).,1,0,0,0,0,0,0
+opta_760456_98,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,98,90'+2',90.02,Leandro Paredes (Argentina) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760456_99,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,99,90'+3',90.03,Handball by Nicolás Otamendi (Argentina).,0,0,0,0,0,0,0
+opta_760456_100,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,100,90'+3',90.03,"Attempt missed. Patrick Wimmer (Austria) header from the centre of the box is close, but misses to the left. Assisted by Kevin Danso with a headed pass following a set piece situation.",0,0,0,0,0,0,0
+opta_760456_101,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,101,90'+4',90.04,Attempt saved. Julián Alvarez (Argentina) left footed shot from the centre of the box is saved in the centre of the goal by Alexander Schlager (Austria). Assisted by Lionel Messi with a through ball.,0,0,1,0,0,0,0
+opta_760456_102,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,102,90'+5',90.05,Attempt blocked. Lionel Messi (Argentina) left footed shot from the centre of the box is blocked.,0,0,0,0,0,0,0
+opta_760456_103,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,103,90'+5',90.05,"Goal! Argentina 2, Austria 0. Lionel Messi (Argentina) left footed shot from the left side of the six yard box to the centre of the goal following a fast break.",0,0,1,0,0,0,0
+opta_760456_104,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,104,90'+7',90.07,Foul by Patrick Wimmer (Austria).,1,0,0,0,0,0,0
+opta_760456_105,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,105,90'+7',90.07,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760456_106,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,106,90'+8',90.08,"Attempt missed. Lionel Messi (Argentina) left footed shot from outside the box is close, but misses to the left from a direct free kick.",1,0,0,0,0,0,0
+opta_760456_107,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,107,90'+8',90.08,"Second Half ends, Argentina 2, Austria 0.",0,0,0,0,0,0,0
+opta_760456_108,opta,espn_opta,OFFICIAL,760456,ARG-AUT GS,2026-06-22,108,,,"| Match ends, Argentina 2, Austria 0.",0,0,0,0,0,0,0
+opta_760483_0,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,0,,,| Lineups are announced and players are warming up.,0,0,0,0,0,0,0
+opta_760483_1,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,1,,,| First Half begins.,0,0,0,0,0,0,0
+opta_760483_2,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,2,1',1.0,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760483_3,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,3,1',1.0,Ali Olwan (Jordan) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760483_4,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,4,7',7.0,"Offside, Argentina. Giovani Lo Celso is caught offside.",0,0,0,0,0,0,0
+opta_760483_5,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,5,12',12.0,"Corner, Argentina. Conceded by Husam Abu Dahab.",0,0,0,0,0,0,0
+opta_760483_6,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,6,13',13.0,Attempt missed. Nicolás Otamendi (Argentina) header from the right side of the six yard box is too high. Assisted by Giovani Lo Celso with a cross following a corner.,0,0,0,0,0,0,0
+opta_760483_7,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,7,17',17.0,Foul by Mohannad Abu Taha (Jordan).,1,0,0,0,0,0,0
+opta_760483_8,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,8,17',17.0,Giovani Lo Celso (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760483_9,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,9,17',17.0,Mohannad Abu Taha (Jordan) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760483_10,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,10,19',19.0,"Goal! Jordan 0, Argentina 1. Giovani Lo Celso (Argentina) from a free kick with a left footed shot to the top left corner.",1,0,1,0,0,0,0
+opta_760483_11,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,11,23',23.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760483_12,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,12,25',25.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760483_13,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,13,27',27.0,"Corner, Argentina. Conceded by Husam Abu Dahab.",0,0,0,0,0,0,0
+opta_760483_14,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,14,28',28.0,Lautaro Martínez (Argentina) hits the bar with a left footed shot from very close range. Assisted by Nicolás Tagliafico following a corner.,0,0,0,0,0,0,0
+opta_760483_15,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,15,28',28.0,Penalty conceded by Nizar Al Rashdan (Jordan) after a foul in the penalty area.,1,0,0,0,1,0,0
+opta_760483_16,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,16,28',28.0,Penalty Argentina. Marcos Senesi draws a foul in the penalty area.,1,0,0,0,1,0,0
+opta_760483_17,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,17,28',28.0,Delay in match because of an injury Marcos Senesi (Argentina).,0,0,0,0,0,0,0
+opta_760483_18,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,18,29',29.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760483_19,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,19,29',29.0,VAR Decision: Penalty Argentina.,0,0,0,1,1,0,0
+opta_760483_20,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,20,31',31.0,"Goal! Jordan 0, Argentina 2. Lautaro Martínez (Argentina) converts the penalty with a right footed shot to the bottom left corner.",0,0,1,0,1,0,0
+opta_760483_21,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,21,32',32.0,Ali Olwan (Jordan) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760483_22,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,22,32',32.0,Foul by Giovani Lo Celso (Argentina).,1,0,0,0,0,0,0
+opta_760483_23,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,23,33',33.0,Odeh Fakhoury (Jordan) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760483_24,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,24,33',33.0,Foul by Exequiel Palacios (Argentina).,1,0,0,0,0,0,0
+opta_760483_25,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,25,34',34.0,Nizar Al Rashdan (Jordan) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760483_26,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,26,34',34.0,Foul by Nico Paz (Argentina).,1,0,0,0,0,0,0
+opta_760483_27,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,27,35',35.0,Attempt blocked. Odeh Fakhoury (Jordan) right footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760483_28,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,28,35',35.0,"Corner, Jordan. Conceded by Nicolás Tagliafico.",0,0,0,0,0,0,0
+opta_760483_29,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,29,35',35.0,Attempt blocked. Mohannad Abu Taha (Jordan) left footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760483_30,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,30,38',38.0,Attempt missed. Ali Azaizeh (Jordan) header from the centre of the box misses to the right. Assisted by Ali Olwan with a cross.,0,0,0,0,0,0,0
+opta_760483_31,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,31,41',41.0,Foul by Yazan Al Arab (Jordan).,1,0,0,0,0,0,0
+opta_760483_32,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,32,41',41.0,Exequiel Palacios (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760483_33,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,33,42',42.0,Ali Azaizeh (Jordan) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760483_34,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,34,42',42.0,Foul by Lautaro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760483_35,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,35,45'+1',45.01,Fourth official has announced 5 minutes of added time.,0,0,0,0,0,0,0
+opta_760483_36,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,36,45'+2',45.02,Foul by Odeh Fakhoury (Jordan).,1,0,0,0,0,0,0
+opta_760483_37,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,37,45'+2',45.02,Marcos Senesi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760483_38,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,38,45'+3',45.03,Foul by Yazan Al Arab (Jordan).,1,0,0,0,0,0,0
+opta_760483_39,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,39,45'+3',45.03,Nico Paz (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760483_40,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,40,45'+3',45.03,"Offside, Argentina. Nicolás Otamendi is caught offside.",0,0,0,0,0,0,0
+opta_760483_41,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,41,45'+5',45.05,Attempt saved. Julián Alvarez (Argentina) left footed shot from the left side of the box is saved in the bottom left corner by Yazeed Abulaila (Jordan). Assisted by Lautaro Martínez.,0,0,0,0,0,0,0
+opta_760483_42,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,42,45'+5',45.05,"Offside, Jordan. Odeh Fakhoury is caught offside.",0,0,0,0,0,0,0
+opta_760483_43,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,43,45'+6',45.06,"First Half ends, Jordan 0, Argentina 2.",0,0,0,0,0,0,0
+opta_760483_44,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,44,45',45.0,"Substitution, Jordan. Mahmoud Al Mardi replaces Odeh Fakhoury.",0,0,0,0,0,1,0
+opta_760483_45,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,45,45',45.0,"Substitution, Jordan. Mousa Al Tamari replaces Ali Azaizeh.",0,0,0,0,0,1,0
+opta_760483_46,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,46,45',45.0,"Second Half begins Jordan 0, Argentina 2.",0,0,0,0,0,0,0
+opta_760483_47,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,47,48',48.0,"Offside, Argentina. Lautaro Martínez is caught offside.",0,0,0,0,0,0,0
+opta_760483_48,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,48,49',49.0,Mousa Al Tamari (Jordan) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760483_49,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,49,49',49.0,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760483_50,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,50,49',49.0,Foul by Ali Olwan (Jordan).,1,0,0,0,0,0,0
+opta_760483_51,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,51,49',49.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760483_52,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,52,51',51.0,Attempt missed. Mousa Al Tamari (Jordan) left footed shot from outside the box is too high. Assisted by Ali Olwan.,0,0,0,0,0,0,0
+opta_760483_53,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,53,53',53.0,Lautaro Martínez (Argentina) hits the bar with a right footed shot from outside the box. Assisted by Giovani Lo Celso.,0,0,0,0,0,0,0
+opta_760483_54,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,54,55',55.0,"Goal! Jordan 1, Argentina 2. Mousa Al Tamari (Jordan) left footed shot from the centre of the box to the top left corner. Assisted by Ehsan Haddad with a cross.",0,0,1,0,0,0,0
+opta_760483_55,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,55,59',59.0,Attempt missed. Nico Paz (Argentina) right footed shot from outside the box misses to the right.,0,0,0,0,0,0,0
+opta_760483_56,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,56,60',60.0,"Substitution, Argentina. Thiago Almada replaces Giovani Lo Celso.",0,0,0,0,0,1,0
+opta_760483_57,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,57,60',60.0,"Substitution, Argentina. Lionel Messi replaces Lautaro Martínez.",0,0,0,0,0,1,0
+opta_760483_58,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,58,61',61.0,"Substitution, Argentina. Alexis Mac Allister replaces Nico Paz.",0,0,0,0,0,1,0
+opta_760483_59,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,59,61',61.0,"Corner, Argentina. Conceded by Mohannad Abu Taha.",0,0,0,0,0,0,0
+opta_760483_60,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,60,64',64.0,Foul by Yazan Al Arab (Jordan).,1,0,0,0,0,0,0
+opta_760483_61,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,61,64',64.0,Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760483_62,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,62,64',64.0,Yazan Al Arab (Jordan) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760483_63,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,63,65',65.0,Attempt missed. Lionel Messi (Argentina) left footed shot from outside the box is high and wide to the left from a direct free kick.,1,0,0,0,0,0,0
+opta_760483_64,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,64,67',67.0,Foul by Mahmoud Al Mardi (Jordan).,1,0,0,0,0,0,0
+opta_760483_65,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,65,67',67.0,Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760483_66,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,66,68',68.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760483_67,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,67,70',70.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760483_68,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,68,71',71.0,"Substitution, Argentina. Valentín Barco replaces Giuliano Simeone.",0,0,0,0,0,1,0
+opta_760483_69,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,69,75',75.0,Mahmoud Al Mardi (Jordan) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760483_70,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,70,75',75.0,Foul by Nicolás Otamendi (Argentina).,1,0,0,0,0,0,0
+opta_760483_71,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,71,76',76.0,"Substitution, Jordan. Amer Jamous replaces Nizar Al Rashdan.",0,0,0,0,0,1,0
+opta_760483_72,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,72,79',79.0,Foul by Amer Jamous (Jordan).,1,0,0,0,0,0,0
+opta_760483_73,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,73,79',79.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760483_74,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,74,80',80.0,"Goal! Jordan 1, Argentina 3. Lionel Messi (Argentina) from a free kick with a left footed shot to the bottom left corner.",1,0,1,0,0,0,0
+opta_760483_75,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,75,82',82.0,"Attempt missed. Thiago Almada (Argentina) right footed shot from outside the box is close, but misses to the right.",0,0,0,0,0,0,0
+opta_760483_76,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,76,82',82.0,"Substitution, Argentina. José Manuel López replaces Julián Alvarez.",0,0,0,0,0,1,0
+opta_760483_77,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,77,85',85.0,Foul by Ehsan Haddad (Jordan).,1,0,0,0,0,0,0
+opta_760483_78,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,78,85',85.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760483_79,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,79,86',86.0,Attempt blocked. José Manuel López (Argentina) right footed shot from the left side of the box is blocked. Assisted by Lionel Messi.,0,0,0,0,0,0,0
+opta_760483_80,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,80,86',86.0,"Corner, Argentina. Conceded by Ehsan Haddad.",0,0,0,0,0,0,0
+opta_760483_81,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,81,87',87.0,"Corner, Argentina. Conceded by Abdallah Nasib.",0,0,0,0,0,0,0
+opta_760483_82,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,82,87',87.0,"Corner, Argentina. Conceded by Mohannad Abu Taha.",0,0,0,0,0,0,0
+opta_760483_83,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,83,88',88.0,Foul by Husam Abu Dahab (Jordan).,1,0,0,0,0,0,0
+opta_760483_84,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,84,88',88.0,Valentín Barco (Argentina) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760483_85,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,85,89',89.0,Delay in match because of an injury Husam Abu Dahab (Jordan).,0,0,0,0,0,0,0
+opta_760483_86,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,86,90',90.0,"Substitution, Jordan. Mohammad Abu Zraiq replaces Ali Olwan.",0,0,0,0,0,1,0
+opta_760483_87,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,87,90',90.0,"Substitution, Jordan. Saleem Obaid replaces Husam Abu Dahab because of an injury.",0,0,0,0,0,1,0
+opta_760483_88,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,88,90',90.0,Fourth official has announced 5 minutes of added time.,0,0,0,0,0,0,0
+opta_760483_89,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,89,90'+1',90.01,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760483_90,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,90,90'+1',90.01,Attempt missed. Marcos Senesi (Argentina) right footed shot from very close range is too high. Assisted by Lionel Messi with a cross following a set piece situation.,0,0,0,0,0,0,0
+opta_760483_91,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,91,90'+2',90.02,"Corner, Jordan. Conceded by Valentín Barco.",0,0,0,0,0,0,0
+opta_760483_92,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,92,90'+3',90.03,Handball by Mahmoud Al Mardi (Jordan).,0,0,0,0,0,0,0
+opta_760483_93,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,93,90'+4',90.04,Foul by Mohammad Abu Zraiq (Jordan).,1,0,0,0,0,0,0
+opta_760483_94,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,94,90'+4',90.04,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760483_95,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,95,90'+4',90.04,Mohammad Abu Zraiq (Jordan) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760483_96,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,96,90'+6',90.06,"Second Half ends, Jordan 1, Argentina 3.",0,0,0,0,0,0,0
+opta_760483_97,opta,espn_opta,OFFICIAL,760483,JOR-ARG GS,2026-06-28,97,,,"| Match ends, Jordan 1, Argentina 3.",0,0,0,0,0,0,0
+opta_760500_0,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,0,,,| Lineups are announced and players are warming up.,0,0,0,0,0,0,0
+opta_760500_1,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,1,,,| First Half begins.,0,0,0,0,0,0,0
+opta_760500_2,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,2,4',4.0,Sidny Cabral (Cabo Verde) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760500_3,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,3,4',4.0,Foul by Rodrigo De Paul (Argentina).,1,0,0,0,0,0,0
+opta_760500_4,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,4,7',7.0,Attempt blocked. Ryan Mendes (Cabo Verde) left footed shot from the right side of the box is blocked. Assisted by Diney Borges.,0,0,0,0,0,0,0
+opta_760500_5,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,5,10',10.0,Jovane Cabral (Cabo Verde) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760500_6,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,6,10',10.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760500_7,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,7,15',15.0,Attempt missed. Lionel Messi (Argentina) left footed shot from the left side of the box misses to the right. Assisted by Thiago Almada.,0,0,0,0,0,0,0
+opta_760500_8,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,8,17',17.0,Foul by Jovane Cabral (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_9,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,9,17',17.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760500_10,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,10,18',18.0,Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the bottom left corner by Vozinha (Cabo Verde).,0,0,0,0,0,0,0
+opta_760500_11,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,11,25',25.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760500_12,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,12,27',27.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760500_13,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,13,29',29.0,"Goal! Argentina 1, Cabo Verde 0. Lionel Messi (Argentina) left footed shot from the right side of the six yard box to the top right corner. Assisted by Lisandro Martínez with a through ball.",0,0,1,0,0,0,0
+opta_760500_14,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,14,32',32.0,Jovane Cabral (Cabo Verde) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_15,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,15,32',32.0,Foul by Nahuel Molina (Argentina).,1,0,0,0,0,0,0
+opta_760500_16,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,16,36',36.0,"Offside, Argentina. Nahuel Molina is caught offside.",0,0,0,0,0,0,0
+opta_760500_17,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,17,40',40.0,Foul by Deroy Duarte (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_18,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,18,40',40.0,Thiago Almada (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_19,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,19,41',41.0,"Offside, Argentina. Facundo Medina is caught offside.",0,0,0,0,0,0,0
+opta_760500_20,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,20,42',42.0,Foul by Deroy Duarte (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_21,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,21,42',42.0,Enzo Fernández (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_22,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,22,43',43.0,Foul by Diney Borges (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_23,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,23,43',43.0,Lionel Messi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_24,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,24,43',43.0,Vozinha (Cabo Verde) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_25,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,25,43',43.0,Foul by Lautaro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760500_26,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,26,45',45.0,Attempt saved. Enzo Fernández (Argentina) right footed shot from outside the box is saved in the bottom right corner by Vozinha (Cabo Verde).,0,0,0,0,0,0,0
+opta_760500_27,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,27,45',45.0,Fourth official has announced 4 minutes of added time.,0,0,0,0,0,0,0
+opta_760500_28,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,28,45'+2',45.02,Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_29,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,29,45'+2',45.02,Foul by Lionel Messi (Argentina).,1,0,0,0,0,0,0
+opta_760500_30,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,30,45'+4',45.04,"First Half ends, Argentina 1, Cabo Verde 0.",0,0,0,0,0,0,0
+opta_760500_31,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,31,45',45.0,"Second Half begins Argentina 1, Cabo Verde 0.",0,0,0,0,0,0,0
+opta_760500_32,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,32,48',48.0,"Corner, Cabo Verde. Conceded by Nahuel Molina.",0,0,0,0,0,0,0
+opta_760500_33,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,33,49',49.0,Attempt blocked. Jovane Cabral (Cabo Verde) right footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760500_34,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,34,49',49.0,"Corner, Cabo Verde. Conceded by Rodrigo De Paul.",0,0,0,0,0,0,0
+opta_760500_35,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,35,49',49.0,Attempt missed. Ryan Mendes (Cabo Verde) right footed shot from outside the box is high and wide to the left. Assisted by Laros Duarte with a headed pass.,0,0,0,0,0,0,0
+opta_760500_36,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,36,50',50.0,Pico Lopes (Cabo Verde) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_37,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,37,50',50.0,Foul by Lautaro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760500_38,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,38,53',53.0,Steven Moreira (Cabo Verde) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_39,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,39,53',53.0,Foul by Thiago Almada (Argentina).,1,0,0,0,0,0,0
+opta_760500_40,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,40,54',54.0,Attempt saved. Deroy Duarte (Cabo Verde) left footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760500_41,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,41,58',58.0,Laros Duarte (Cabo Verde) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_42,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,42,58',58.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760500_43,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,43,59',59.0,"Goal! Argentina 1, Cabo Verde 1. Deroy Duarte (Cabo Verde) right footed shot from a difficult angle on the right to the bottom left corner. Assisted by Ryan Mendes.",0,0,1,0,0,0,0
+opta_760500_44,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,44,63',63.0,Attempt saved. Lionel Messi (Argentina) right footed shot from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde). Assisted by Lautaro Martínez with a through ball.,0,0,1,0,0,0,0
+opta_760500_45,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,45,63',63.0,"Corner, Argentina. Conceded by Diney Borges.",0,0,0,0,0,0,0
+opta_760500_46,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,46,63',63.0,"Substitution, Argentina. Julián Alvarez replaces Lautaro Martínez.",0,0,0,0,0,1,0
+opta_760500_47,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,47,64',64.0,"Substitution, Argentina. Nico González replaces Thiago Almada.",0,0,0,0,0,1,0
+opta_760500_48,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,48,67',67.0,Attempt missed. Enzo Fernández (Argentina) right footed shot from the left side of the box misses to the right. Assisted by Nico González.,0,0,0,0,0,0,0
+opta_760500_49,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,49,67',67.0,"Substitution, Cabo Verde. Jamiro Monteiro replaces Laros Duarte.",0,0,0,0,0,1,0
+opta_760500_50,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,50,67',67.0,"Substitution, Cabo Verde. Dailon Livramento replaces Nuno da Costa.",0,0,0,0,0,1,0
+opta_760500_51,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,51,68',68.0,Foul by Kevin Pina (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_52,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,52,68',68.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760500_53,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,53,68',68.0,Kevin Pina (Cabo Verde) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760500_54,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,54,69',69.0,Attempt blocked. Lionel Messi (Argentina) left footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760500_55,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,55,71',71.0,Foul by Deroy Duarte (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_56,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,56,71',71.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760500_57,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,57,73',73.0,Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the top centre of the goal by Vozinha (Cabo Verde).,0,0,1,0,0,0,0
+opta_760500_58,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,58,73',73.0,"Corner, Argentina. Conceded by Vozinha.",0,0,0,0,0,0,0
+opta_760500_59,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,59,73',73.0,Attempt missed. Nico González (Argentina) header from the centre of the box misses to the left. Assisted by Rodrigo De Paul with a cross following a corner.,0,0,0,0,0,0,0
+opta_760500_60,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,60,73',73.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760500_61,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,61,76',76.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760500_62,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,62,77',77.0,Jamiro Monteiro (Cabo Verde) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760500_63,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,63,77',77.0,Foul by Alexis Mac Allister (Argentina).,1,0,0,0,0,0,0
+opta_760500_64,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,64,78',78.0,Attempt missed. Kevin Pina (Cabo Verde) right footed shot from outside the box misses to the left from a direct free kick.,1,0,0,0,0,0,0
+opta_760500_65,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,65,78',78.0,Foul by Dailon Livramento (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_66,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,66,78',78.0,Cristian Romero (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_67,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,67,79',79.0,Foul by Kevin Pina (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_68,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,68,79',79.0,Enzo Fernández (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_69,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,69,80',80.0,"Substitution, Cabo Verde. Willy Semedo replaces Ryan Mendes.",0,0,0,0,0,1,0
+opta_760500_70,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,70,80',80.0,"Substitution, Cabo Verde. Hélio Varela replaces Jovane Cabral.",0,0,0,0,0,1,0
+opta_760500_71,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,71,81',81.0,"Corner, Argentina. Conceded by Pico Lopes.",0,0,0,0,0,0,0
+opta_760500_72,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,72,84',84.0,"Corner, Argentina. Conceded by Kevin Pina.",0,0,0,0,0,0,0
+opta_760500_73,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,73,84',84.0,"Substitution, Argentina. Leandro Paredes replaces Rodrigo De Paul.",0,0,0,0,0,1,0
+opta_760500_74,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,74,84',84.0,Attempt missed. Nico González (Argentina) header from the centre of the box misses to the right. Assisted by Lionel Messi with a cross following a corner.,0,0,0,0,0,0,0
+opta_760500_75,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,75,84',84.0,Handball by Enzo Fernández (Argentina).,0,0,0,0,0,0,0
+opta_760500_76,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,76,86',86.0,"Substitution, Argentina. Nicolás Tagliafico replaces Facundo Medina because of an injury.",0,0,0,0,0,1,0
+opta_760500_77,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,77,86',86.0,"Offside, Cabo Verde. Hélio Varela is caught offside.",0,0,0,0,0,0,0
+opta_760500_78,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,78,87',87.0,Attempt blocked. Alexis Mac Allister (Argentina) right footed shot from the right side of the box is blocked.,0,0,0,0,0,0,0
+opta_760500_79,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,79,87',87.0,"Corner, Argentina. Conceded by Deroy Duarte.",0,0,0,0,0,0,0
+opta_760500_80,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,80,89',89.0,Attempt blocked. Alexis Mac Allister (Argentina) header from the centre of the box is blocked. Assisted by Lionel Messi with a cross.,0,0,0,0,0,0,0
+opta_760500_81,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,81,90',90.0,Fourth official has announced 8 minutes of added time.,0,0,0,0,0,0,0
+opta_760500_82,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,82,90'+2',90.02,Attempt saved. Leandro Paredes (Argentina) right footed shot from outside the box is saved in the top centre of the goal by Vozinha (Cabo Verde). Assisted by Alexis Mac Allister.,0,0,1,0,0,0,0
+opta_760500_83,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,83,90'+4',90.04,Foul by Jamiro Monteiro (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_84,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,84,90'+4',90.04,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760500_85,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,85,90'+5',90.05,Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the centre of the goal by Vozinha (Cabo Verde).,0,0,1,0,0,0,0
+opta_760500_86,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,86,90'+5',90.05,Attempt saved. Enzo Fernández (Argentina) header from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde).,0,0,1,0,0,0,0
+opta_760500_87,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,87,90'+5',90.05,Vozinha (Cabo Verde) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_88,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,88,90'+5',90.05,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760500_89,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,89,90'+6',90.06,Steven Moreira (Cabo Verde) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760500_90,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,90,90'+6',90.06,Foul by Nico González (Argentina).,1,0,0,0,0,0,0
+opta_760500_91,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,91,90'+8',90.08,Foul by Willy Semedo (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_92,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,92,90'+8',90.08,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_93,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,93,90'+9',90.09,"Second Half ends, Argentina 1, Cabo Verde 1.",0,0,0,0,0,0,0
+opta_760500_94,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,94,90',90.0,"First Half Extra Time begins Argentina 1, Cabo Verde 1.",0,0,0,0,0,0,0
+opta_760500_95,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,95,92',92.0,"Corner, Argentina. Conceded by Pico Lopes.",0,0,0,0,0,0,0
+opta_760500_96,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,96,92',92.0,"Goal! Argentina 2, Cabo Verde 1. Lisandro Martínez (Argentina) left footed shot from the right side of the box to the top right corner. Assisted by Alexis Mac Allister with a headed pass following a corner.",0,0,1,0,0,0,0
+opta_760500_97,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,97,96',96.0,"Corner, Cabo Verde. Conceded by Alexis Mac Allister.",0,0,0,0,0,0,0
+opta_760500_98,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,98,96',96.0,"Corner, Cabo Verde. Conceded by Nico González.",0,0,0,0,0,0,0
+opta_760500_99,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,99,97',97.0,Attempt missed. Diney Borges (Cabo Verde) header from the centre of the box misses to the left. Assisted by Sidny Cabral with a cross following a corner.,0,0,0,0,0,0,0
+opta_760500_100,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,100,97',97.0,"Corner, Cabo Verde. Conceded by Lisandro Martínez.",0,0,0,0,0,0,0
+opta_760500_101,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,101,97',97.0,Attempt blocked. Steven Moreira (Cabo Verde) right footed shot from outside the box is blocked. Assisted by Hélio Varela.,0,0,0,0,0,0,0
+opta_760500_102,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,102,98',98.0,Attempt blocked. Lionel Messi (Argentina) left footed shot from the centre of the box is blocked. Assisted by Julián Alvarez.,0,0,0,0,0,0,0
+opta_760500_103,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,103,98',98.0,Attempt blocked. Julián Alvarez (Argentina) right footed shot from the centre of the box is blocked.,0,0,0,0,0,0,0
+opta_760500_104,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,104,98',98.0,"Corner, Argentina. Conceded by Sidny Cabral.",0,0,0,0,0,0,0
+opta_760500_105,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,105,99',99.0,Attempt blocked. Enzo Fernández (Argentina) right footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760500_106,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,106,100',100.0,"Substitution, Cabo Verde. Yannick Semedo replaces Deroy Duarte.",0,0,0,0,0,1,0
+opta_760500_107,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,107,100',100.0,"Substitution, Cabo Verde. Gilson Benchimol replaces Kevin Pina.",0,0,0,0,0,1,0
+opta_760500_108,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,108,103',103.0,"Goal! Argentina 2, Cabo Verde 2. Sidny Cabral (Cabo Verde) right footed shot from the left side of the box to the top right corner. Assisted by Yannick Semedo.",0,0,1,0,0,0,0
+opta_760500_109,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,109,104',104.0,"Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina.",0,0,0,0,0,1,0
+opta_760500_110,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,110,105',105.0,Fourth official has announced 3 minutes of added time.,0,0,0,0,0,0,0
+opta_760500_111,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,111,105'+1',105.01,Attempt saved. Lionel Messi (Argentina) left footed shot from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde).,0,0,1,0,0,0,0
+opta_760500_112,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,112,105'+1',105.01,Attempt blocked. Gonzalo Montiel (Argentina) right footed shot from the centre of the box is blocked.,0,0,0,0,0,0,0
+opta_760500_113,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,113,105'+4',105.04,"First Half Extra Time ends, Argentina 2, Cabo Verde 2.",0,0,0,0,0,0,0
+opta_760500_114,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,114,105',105.0,"Second Half Extra Time begins Argentina 2, Cabo Verde 2.",0,0,0,0,0,0,0
+opta_760500_115,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,115,107',107.0,Foul by Jamiro Monteiro (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_116,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,116,107',107.0,Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760500_117,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,117,108',108.0,Attempt missed. Yannick Semedo (Cabo Verde) right footed shot from outside the box misses to the left. Assisted by Gilson Benchimol.,0,0,0,0,0,0,0
+opta_760500_118,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,118,109',109.0,"Offside, Argentina. Nicolás Tagliafico is caught offside.",0,0,0,0,0,0,0
+opta_760500_119,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,119,110',110.0,Foul by Willy Semedo (Cabo Verde).,1,0,0,0,0,0,0
+opta_760500_120,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,120,110',110.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760500_121,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,121,111',111.0,"Corner, Argentina. Conceded by Diney Borges.",0,0,0,0,0,0,0
+opta_760500_122,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,122,111',111.0,Attempt missed. Cristian Romero (Argentina) header from the left side of the six yard box misses to the right. Assisted by Lionel Messi with a cross following a corner.,0,0,0,0,0,0,0
+opta_760500_123,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,123,111',111.0,"Own Goal by Diney Borges, Cabo Verde. Argentina 3, Cabo Verde 2.",0,0,1,0,0,0,0
+opta_760500_124,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,124,114',114.0,Attempt blocked. Willy Semedo (Cabo Verde) left footed shot from the left side of the box is blocked. Assisted by Jamiro Monteiro.,0,0,0,0,0,0,0
+opta_760500_125,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,125,115',115.0,Hélio Varela (Cabo Verde) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760500_126,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,126,115',115.0,Foul by Gonzalo Montiel (Argentina).,1,0,0,0,0,0,0
+opta_760500_127,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,127,115',115.0,Gonzalo Montiel (Argentina) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760500_128,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,128,116',116.0,Attempt saved. Sidny Cabral (Cabo Verde) right footed shot from a difficult angle and long range on the left is saved in the top right corner by Emiliano Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760500_129,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,129,116',116.0,"Corner, Cabo Verde. Conceded by Emiliano Martínez.",0,0,0,0,0,0,0
+opta_760500_130,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,130,119',119.0,Attempt saved. Diney Borges (Cabo Verde) header from the centre of the box is saved in the bottom left corner by Emiliano Martínez (Argentina). Assisted by Steven Moreira with a cross.,0,0,0,0,0,0,0
+opta_760500_131,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,131,119',119.0,"Corner, Cabo Verde. Conceded by Emiliano Martínez.",0,0,0,0,0,0,0
+opta_760500_132,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,132,119',119.0,"Offside, Cabo Verde. Dailon Livramento is caught offside.",0,0,0,0,0,0,0
+opta_760500_133,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,133,120'+1',120.01,Attempt blocked. Hélio Varela (Cabo Verde) right footed shot from outside the box is blocked. Assisted by Yannick Semedo.,0,0,0,0,0,0,0
+opta_760500_134,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,134,120'+1',120.01,"Corner, Cabo Verde. Conceded by Lisandro Martínez.",0,0,0,0,0,0,0
+opta_760500_135,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,135,120'+1',120.01,Fourth official has announced 3 minutes of added time.,0,0,0,0,0,0,0
+opta_760500_136,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,136,120'+2',120.02,Attempt blocked. Jamiro Monteiro (Cabo Verde) right footed shot from outside the box is blocked. Assisted by Yannick Semedo with a cross.,0,0,0,0,0,0,0
+opta_760500_137,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,137,120'+2',120.02,Attempt missed. Hélio Varela (Cabo Verde) right footed shot from outside the box misses to the left.,0,0,0,0,0,0,0
+opta_760500_138,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,138,120'+4',120.04,"Second Half Extra Time ends, Argentina 3, Cabo Verde 2.",0,0,0,0,0,0,0
+opta_760500_139,opta,espn_opta,OFFICIAL,760500,ARG-CPV R32,2026-07-03,139,,,"| Match ends, Argentina 3, Cabo Verde 2.",0,0,0,0,0,0,0
+opta_760509_0,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,0,,,| Lineups are announced and players are warming up.,0,0,0,0,0,0,0
+opta_760509_1,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,1,,,| First Half begins.,0,0,0,0,0,0,0
+opta_760509_2,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,2,5',5.0,Mohamed Salah (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_3,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,3,5',5.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760509_4,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,4,7',7.0,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760509_5,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,5,7',7.0,Haissem Hassan (Egypt) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760509_6,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,6,9',9.0,"Offside, Argentina. Rodrigo De Paul is caught offside.",0,0,0,0,0,0,0
+opta_760509_7,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,7,11',11.0,Karim Hafez (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_8,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,8,11',11.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760509_9,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,9,13',13.0,Emam Ashour (Egypt) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760509_10,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,10,13',13.0,Foul by Rodrigo De Paul (Argentina).,1,0,0,0,0,0,0
+opta_760509_11,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,11,14',14.0,"Corner, Egypt. Conceded by Lisandro Martínez.",0,0,0,0,0,0,0
+opta_760509_12,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,12,15',15.0,"Goal! Argentina 0, Egypt 1. Yasser Ibrahim (Egypt) header from the centre of the box to the bottom right corner. Assisted by Marwan Attia with a cross following a corner.",0,0,1,0,0,0,0
+opta_760509_13,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,13,18',18.0,Foul by Yasser Ibrahim (Egypt).,1,0,0,0,0,0,0
+opta_760509_14,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,14,18',18.0,Julián Alvarez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_15,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,15,19',19.0,Penalty conceded by Haissem Hassan (Egypt) after a foul in the penalty area.,1,0,0,0,1,0,0
+opta_760509_16,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,16,19',19.0,Penalty Argentina. Nicolás Tagliafico draws a foul in the penalty area.,1,0,0,0,1,0,0
+opta_760509_17,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,17,21',21.0,Penalty saved. Lionel Messi (Argentina) left footed shot saved in the bottom right corner by Mostafa Shobeir (Egypt).,0,0,0,0,1,0,0
+opta_760509_18,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,18,21',21.0,Emam Ashour (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_19,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,19,21',21.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760509_20,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,20,23',23.0,Mohamed Salah (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_21,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,21,23',23.0,Foul by Lisandro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760509_22,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,22,23',23.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760509_23,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,23,26',26.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760509_24,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,24,28',28.0,Attempt saved. Alexis Mac Allister (Argentina) header from the centre of the box is saved in the bottom left corner by Mostafa Shobeir (Egypt). Assisted by Rodrigo De Paul with a cross.,0,0,0,0,0,0,0
+opta_760509_25,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,25,29',29.0,Attempt blocked. Enzo Fernández (Argentina) left footed shot from outside the box is blocked. Assisted by Lionel Messi.,0,0,0,0,0,0,0
+opta_760509_26,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,26,30',30.0,Foul by Marwan Attia (Egypt).,1,0,0,0,0,0,0
+opta_760509_27,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,27,30',30.0,Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760509_28,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,28,31',31.0,Lionel Messi (Argentina) hits the left post with a left footed shot from outside the box from a direct free kick.,1,0,0,0,0,0,0
+opta_760509_29,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,29,32',32.0,VAR Decision: Other Decision Cancelled.,0,0,0,1,0,0,0
+opta_760509_30,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,30,33',33.0,Foul by Mohanad Lasheen (Egypt).,1,0,0,0,0,0,0
+opta_760509_31,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,31,33',33.0,Julián Alvarez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_32,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,32,35',35.0,Attempt missed. Karim Hafez (Egypt) right footed shot from outside the box is high and wide to the right.,0,0,0,0,0,0,0
+opta_760509_33,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,33,38',38.0,Attempt missed. Lionel Messi (Argentina) left footed shot from outside the box is high and wide to the left. Assisted by Nahuel Molina.,0,0,0,0,0,0,0
+opta_760509_34,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,34,39',39.0,Attempt saved. Julián Alvarez (Argentina) left footed shot from the centre of the box is saved in the centre of the goal by Mostafa Shobeir (Egypt). Assisted by Nicolás Tagliafico.,0,0,1,0,0,0,0
+opta_760509_35,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,35,39',39.0,"Corner, Argentina. Conceded by Mostafa Shobeir.",0,0,0,0,0,0,0
+opta_760509_36,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,36,39',39.0,Delay in match because of an injury Mostafa Shobeir (Egypt).,0,0,0,0,0,0,0
+opta_760509_37,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,37,41',41.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760509_38,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,38,43',43.0,Attempt missed. Julián Alvarez (Argentina) right footed shot from outside the box is high and wide to the right. Assisted by Lionel Messi.,0,0,0,0,0,0,0
+opta_760509_39,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,39,44',44.0,Foul by Marwan Attia (Egypt).,1,0,0,0,0,0,0
+opta_760509_40,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,40,44',44.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760509_41,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,41,45',45.0,Mohamed Salah (Egypt) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760509_42,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,42,45',45.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760509_43,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,43,45',45.0,Fourth official has announced 5 minutes of added time.,0,0,0,0,0,0,0
+opta_760509_44,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,44,45'+2',45.02,Ramy Rabia (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_45,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,45,45'+2',45.02,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760509_46,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,46,45'+3',45.03,Delay in match because of an injury Ramy Rabia (Egypt).,0,0,0,0,0,0,0
+opta_760509_47,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,47,45'+4',45.04,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760509_48,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,48,45'+5',45.05,"Offside, Argentina. Enzo Fernández is caught offside.",0,0,0,0,0,0,0
+opta_760509_49,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,49,45'+7',45.07,"First Half ends, Argentina 0, Egypt 1.",0,0,0,0,0,0,0
+opta_760509_50,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,50,45',45.0,"Substitution, Egypt. Hamdi Fathy replaces Emam Ashour because of an injury.",0,0,0,0,0,1,0
+opta_760509_51,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,51,45',45.0,"Second Half begins Argentina 0, Egypt 1.",0,0,0,0,0,0,0
+opta_760509_52,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,52,46',46.0,Mohamed Salah (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_53,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,53,46',46.0,Foul by Lisandro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760509_54,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,54,47',47.0,Attempt saved. Rodrigo De Paul (Argentina) right footed shot from outside the box is saved in the centre of the goal by Mostafa Shobeir (Egypt). Assisted by Lionel Messi.,0,0,1,0,0,0,0
+opta_760509_55,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,55,48',48.0,Mostafa Shobeir (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_56,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,56,48',48.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760509_57,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,57,48',48.0,Haissem Hassan (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_58,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,58,48',48.0,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760509_59,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,59,52',52.0,Foul by Mohamed Salah (Egypt).,1,0,0,0,0,0,0
+opta_760509_60,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,60,52',52.0,Leandro Paredes (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760509_61,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,61,53',53.0,Attempt missed. Leandro Paredes (Argentina) right footed shot from outside the box is too high. Assisted by Rodrigo De Paul following a set piece situation.,0,0,0,0,0,0,0
+opta_760509_62,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,62,54',54.0,Delay in match (Argentina).,0,0,0,0,0,0,0
+opta_760509_63,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,63,54',54.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760509_64,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,64,55',55.0,Foul by Hamdi Fathy (Egypt).,1,0,0,0,0,0,0
+opta_760509_65,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,65,55',55.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760509_66,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,66,58',58.0,Attempt blocked. Leandro Paredes (Argentina) right footed shot from outside the box is blocked. Assisted by Nahuel Molina.,0,0,0,0,0,0,0
+opta_760509_67,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,67,58',58.0,Foul by Marwan Attia (Egypt).,1,0,0,0,0,0,0
+opta_760509_68,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,68,58',58.0,Lisandro Martínez (Argentina) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760509_69,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,69,58',58.0,GOAL OVERTURNED BY VAR: Mostafa Zico (Egypt) scores but the goal is ruled out after a VAR review.,0,0,1,1,0,0,0
+opta_760509_70,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,70,59',59.0,VAR Decision: No Goal Argentina 0-1 Egypt.,0,0,1,1,0,0,0
+opta_760509_71,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,71,61',61.0,"Attempt missed. Alexis Mac Allister (Argentina) header from the left side of the six yard box is close, but misses to the right. Assisted by Lionel Messi with a cross following a set piece situation.",0,0,0,0,0,0,0
+opta_760509_72,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,72,61',61.0,"Corner, Argentina. Conceded by Hamdi Fathy.",0,0,0,0,0,0,0
+opta_760509_73,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,73,64',64.0,Foul by Mohamed Salah (Egypt).,1,0,0,0,0,0,0
+opta_760509_74,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,74,64',64.0,Lisandro Martínez (Argentina) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760509_75,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,75,66',66.0,"Corner, Argentina. Conceded by Mostafa Zico.",0,0,0,0,0,0,0
+opta_760509_76,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,76,66',66.0,"Substitution, Argentina. Nico González replaces Nicolás Tagliafico.",0,0,0,0,0,1,0
+opta_760509_77,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,77,66',66.0,"Substitution, Argentina. Lautaro Martínez replaces Rodrigo De Paul.",0,0,0,0,0,1,0
+opta_760509_78,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,78,67',67.0,"Corner, Argentina. Conceded by Mostafa Zico.",0,0,0,0,0,0,0
+opta_760509_79,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,79,67',67.0,"Goal! Argentina 0, Egypt 2. Mostafa Zico (Egypt) right footed shot from the centre of the box to the centre of the goal. Assisted by Haissem Hassan following a fast break.",0,0,1,0,0,0,0
+opta_760509_80,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,80,70',70.0,Attempt missed. Lisandro Martínez (Argentina) left footed shot from outside the box misses to the right.,0,0,0,0,0,0,0
+opta_760509_81,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,81,71',71.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760509_82,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,82,73',73.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760509_83,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,83,73',73.0,"Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina.",0,0,0,0,0,1,0
+opta_760509_84,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,84,73',73.0,"Substitution, Egypt. Trezeguet replaces Haissem Hassan because of an injury.",0,0,0,0,0,1,0
+opta_760509_85,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,85,74',74.0,Attempt blocked. Lautaro Martínez (Argentina) left footed shot from the centre of the box is blocked. Assisted by Nico González with a cross.,0,0,0,0,0,0,0
+opta_760509_86,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,86,75',75.0,Attempt missed. Lautaro Martínez (Argentina) right footed shot from the centre of the box misses to the right. Assisted by Nico González with a cross.,0,0,0,0,0,0,0
+opta_760509_87,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,87,76',76.0,"Offside, Argentina. Julián Alvarez is caught offside.",0,0,0,0,0,0,0
+opta_760509_88,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,88,77',77.0,"Attempt missed. Trezeguet (Egypt) right footed shot from a difficult angle on the left is close, but misses to the left. Assisted by Mostafa Zico.",0,0,0,0,0,0,0
+opta_760509_89,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,89,78',78.0,Attempt blocked. Lionel Messi (Argentina) right footed shot from the centre of the box is blocked. Assisted by Alexis Mac Allister.,0,0,0,0,0,0,0
+opta_760509_90,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,90,78',78.0,"Corner, Argentina. Conceded by Trezeguet.",0,0,0,0,0,0,0
+opta_760509_91,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,91,79',79.0,"Goal! Argentina 1, Egypt 2. Cristian Romero (Argentina) header from the centre of the box to the top right corner. Assisted by Lionel Messi with a cross.",0,0,1,0,0,0,0
+opta_760509_92,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,92,80',80.0,"Substitution, Egypt. Omar Marmoush replaces Mostafa Zico.",0,0,0,0,0,1,0
+opta_760509_93,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,93,82',82.0,"Corner, Argentina. Conceded by Mohamed Salah.",0,0,0,0,0,0,0
+opta_760509_94,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,94,82',82.0,"Attempt missed. Lautaro Martínez (Argentina) header from the right side of the six yard box is close, but misses to the right. Assisted by Lionel Messi.",0,0,0,0,0,0,0
+opta_760509_95,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,95,83',83.0,"Goal! Argentina 2, Egypt 2. Lionel Messi (Argentina) left footed shot from the centre of the box to the high centre of the goal. Assisted by Gonzalo Montiel.",0,0,1,0,0,0,0
+opta_760509_96,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,96,87',87.0,Omar Marmoush (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_97,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,97,87',87.0,Foul by Nico González (Argentina).,1,0,0,0,0,0,0
+opta_760509_98,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,98,89',89.0,Foul by Karim Hafez (Egypt).,1,0,0,0,0,0,0
+opta_760509_99,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,99,89',89.0,Lautaro Martínez (Argentina) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760509_100,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,100,90',90.0,Fourth official has announced 7 minutes of added time.,0,0,0,0,0,0,0
+opta_760509_101,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,101,90'+2',90.02,Attempt missed. Trezeguet (Egypt) header from the centre of the box misses to the right. Assisted by Mohamed Hany with a cross.,0,0,0,0,0,0,0
+opta_760509_102,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,102,90'+2',90.02,"Goal! Argentina 3, Egypt 2. Enzo Fernández (Argentina) header from the centre of the box to the bottom right corner. Assisted by Lautaro Martínez with a cross following a fast break.",0,0,1,0,0,0,0
+opta_760509_103,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,103,90'+3',90.03,Mostafa Shobeir (Egypt) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760509_104,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,104,90'+4',90.04,Hamdi Fathy (Egypt) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760509_105,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,105,90'+5',90.05,"Substitution, Argentina. Facundo Medina replaces Julián Alvarez.",0,0,0,0,0,1,0
+opta_760509_106,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,106,90'+5',90.05,"Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero.",0,0,0,0,0,1,0
+opta_760509_107,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,107,90'+6',90.06,"Substitution, Egypt. Zizo replaces Mohanad Lasheen.",0,0,0,0,0,1,0
+opta_760509_108,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,108,90'+7',90.07,Zizo (Egypt) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_109,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,109,90'+7',90.07,Foul by Nico González (Argentina).,1,0,0,0,0,0,0
+opta_760509_110,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,110,90'+8',90.08,Foul by Marwan Attia (Egypt).,1,0,0,0,0,0,0
+opta_760509_111,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,111,90'+8',90.08,Lautaro Martínez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760509_112,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,112,90'+8',90.08,Marwan Attia (Egypt) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760509_113,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,113,90'+12',90.12,"Second Half ends, Argentina 3, Egypt 2.",0,0,0,0,0,0,0
+opta_760509_114,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,114,90'+12',90.12,Haissem Hassan (Egypt) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760509_115,opta,espn_opta,OFFICIAL,760509,ARG-EGY R16,2026-07-07,115,,,"| Match ends, Argentina 3, Egypt 2.",0,0,0,0,0,0,0
+opta_760513_0,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,0,,,| Lineups are announced and players are warming up.,0,0,0,0,0,0,0
+opta_760513_1,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,1,,,| First Half begins.,0,0,0,0,0,0,0
+opta_760513_2,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,2,1',1.0,Attempt blocked. Denis Zakaria (Switzerland) right footed shot from the right side of the box is blocked. Assisted by Djibril Sow.,0,0,0,0,0,0,0
+opta_760513_3,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,3,1',1.0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_4,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,4,1',1.0,Foul by Denis Zakaria (Switzerland).,1,0,0,0,0,0,0
+opta_760513_5,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,5,3',3.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760513_6,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,6,3',3.0,Ricardo Rodríguez (Switzerland) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_7,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,7,7',7.0,Attempt missed. Granit Xhaka (Switzerland) left footed shot from outside the box is too high.,0,0,0,0,0,0,0
+opta_760513_8,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,8,7',7.0,Handball by Ricardo Rodríguez (Switzerland).,0,0,0,0,0,0,0
+opta_760513_9,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,9,9',9.0,Attempt blocked. Alexis Mac Allister (Argentina) right footed shot from outside the box is blocked. Assisted by Lionel Messi.,0,0,0,0,0,0,0
+opta_760513_10,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,10,9',9.0,"Corner, Argentina. Conceded by Nico Elvedi.",0,0,0,0,0,0,0
+opta_760513_11,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,11,9',9.0,Attempt missed. Alexis Mac Allister (Argentina) header from the right side of the six yard box misses to the left. Assisted by Lionel Messi with a cross following a corner.,0,0,0,0,0,0,0
+opta_760513_12,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,12,9',9.0,"Corner, Argentina. Conceded by Breel Embolo.",0,0,0,0,0,0,0
+opta_760513_13,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,13,10',10.0,"Goal! Argentina 1, Switzerland 0. Alexis Mac Allister (Argentina) header from the left side of the six yard box to the bottom right corner. Assisted by Lionel Messi with a cross following a corner.",0,0,1,0,0,0,0
+opta_760513_14,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,14,13',13.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760513_15,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,15,13',13.0,Breel Embolo (Switzerland) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_16,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,16,15',15.0,Handball by Granit Xhaka (Switzerland).,0,0,0,0,0,0,0
+opta_760513_17,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,17,17',17.0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_18,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,18,17',17.0,Foul by Ricardo Rodríguez (Switzerland).,1,0,0,0,0,0,0
+opta_760513_19,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,19,20',20.0,Attempt saved. Djibril Sow (Switzerland) right footed shot from outside the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Nico Elvedi.,0,0,1,0,0,0,0
+opta_760513_20,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,20,20',20.0,"Offside, Argentina. Julián Alvarez is caught offside.",0,0,0,0,0,0,0
+opta_760513_21,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,21,22',22.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_22,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,22,22',22.0,Foul by Fabian Rieder (Switzerland).,1,0,0,0,0,0,0
+opta_760513_23,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,23,23',23.0,Lisandro Martínez (Argentina) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760513_24,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,24,23',23.0,Foul by Djibril Sow (Switzerland).,1,0,0,0,0,0,0
+opta_760513_25,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,25,23',23.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760513_26,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,26,26',26.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760513_27,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,27,28',28.0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_28,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,28,28',28.0,Foul by Granit Xhaka (Switzerland).,1,0,0,0,0,0,0
+opta_760513_29,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,29,32',32.0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_30,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,30,32',32.0,Foul by Dan Ndoye (Switzerland).,1,0,0,0,0,0,0
+opta_760513_31,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,31,34',34.0,"Corner, Switzerland. Conceded by Nahuel Molina.",0,0,0,0,0,0,0
+opta_760513_32,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,32,35',35.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760513_33,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,33,35',35.0,Fabian Rieder (Switzerland) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760513_34,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,34,36',36.0,Foul by Leandro Paredes (Argentina).,1,0,0,0,0,0,0
+opta_760513_35,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,35,36',36.0,Fabian Rieder (Switzerland) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760513_36,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,36,39',39.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_37,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,37,39',39.0,Foul by Denis Zakaria (Switzerland).,1,0,0,0,0,0,0
+opta_760513_38,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,38,40',40.0,Foul by Lisandro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760513_39,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,39,40',40.0,Breel Embolo (Switzerland) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760513_40,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,40,42',42.0,Foul by Leandro Paredes (Argentina).,1,0,0,0,0,0,0
+opta_760513_41,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,41,42',42.0,Djibril Sow (Switzerland) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760513_42,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,42,44',44.0,Leandro Paredes (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_43,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,43,44',44.0,Foul by Breel Embolo (Switzerland).,1,0,0,0,0,0,0
+opta_760513_44,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,44,44',44.0,Breel Embolo (Switzerland) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760513_45,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,45,45',45.0,Foul by Lisandro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760513_46,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,46,45',45.0,Breel Embolo (Switzerland) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760513_47,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,47,45',45.0,"Offside, Switzerland. Dan Ndoye is caught offside.",0,0,0,0,0,0,0
+opta_760513_48,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,48,45'+1',45.01,Fourth official has announced 4 minutes of added time.,0,0,0,0,0,0,0
+opta_760513_49,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,49,45'+2',45.02,Handball by Djibril Sow (Switzerland).,0,0,0,0,0,0,0
+opta_760513_50,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,50,45'+3',45.03,Nicolás Tagliafico (Argentina) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760513_51,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,51,45'+3',45.03,Foul by Djibril Sow (Switzerland).,1,0,0,0,0,0,0
+opta_760513_52,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,52,45'+4',45.04,Delay in match because of an injury Dan Ndoye (Switzerland).,0,0,0,0,0,0,0
+opta_760513_53,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,53,45'+5',45.05,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760513_54,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,54,45'+5',45.05,"First Half ends, Argentina 1, Switzerland 0.",0,0,0,0,0,0,0
+opta_760513_55,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,55,45',45.0,"Second Half begins Argentina 1, Switzerland 0.",0,0,0,0,0,0,0
+opta_760513_56,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,56,47',47.0,Attempt blocked. Fabian Rieder (Switzerland) left footed shot from outside the box is blocked. Assisted by Nico Elvedi.,0,0,0,0,0,0,0
+opta_760513_57,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,57,48',48.0,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760513_58,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,58,48',48.0,Djibril Sow (Switzerland) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760513_59,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,59,50',50.0,Attempt missed. Nahuel Molina (Argentina) right footed shot from outside the box misses to the left. Assisted by Lionel Messi with a through ball.,0,0,0,0,0,0,0
+opta_760513_60,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,60,50',50.0,"Offside, Switzerland. Breel Embolo is caught offside.",0,0,0,0,0,0,0
+opta_760513_61,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,61,52',52.0,Attempt blocked. Julián Alvarez (Argentina) left footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760513_62,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,62,52',52.0,"Corner, Argentina. Conceded by Denis Zakaria.",0,0,0,0,0,0,0
+opta_760513_63,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,63,55',55.0,Attempt blocked. Dan Ndoye (Switzerland) right footed shot from the left side of the box is blocked.,0,0,0,0,0,0,0
+opta_760513_64,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,64,56',56.0,Delay in match because of an injury Leandro Paredes (Argentina).,0,0,0,0,0,0,0
+opta_760513_65,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,65,57',57.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760513_66,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,66,59',59.0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_67,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,67,59',59.0,Foul by Remo Freuler (Switzerland).,1,0,0,0,0,0,0
+opta_760513_68,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,68,60',60.0,Attempt saved. Breel Embolo (Switzerland) header from the centre of the box is saved in the bottom left corner by Emiliano Martínez (Argentina). Assisted by Ricardo Rodríguez with a cross.,0,0,0,0,0,0,0
+opta_760513_69,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,69,62',62.0,Nicolás Tagliafico (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760513_70,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,70,62',62.0,Foul by Djibril Sow (Switzerland).,1,0,0,0,0,0,0
+opta_760513_71,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,71,63',63.0,"Corner, Switzerland. Conceded by Nahuel Molina.",0,0,0,0,0,0,0
+opta_760513_72,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,72,65',65.0,Attempt saved. Dan Ndoye (Switzerland) header from the centre of the box is saved in the bottom right corner by Emiliano Martínez (Argentina). Assisted by Ricardo Rodríguez with a cross.,0,0,0,0,0,0,0
+opta_760513_73,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,73,66',66.0,Attempt saved. Granit Xhaka (Switzerland) left footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina). Assisted by Denis Zakaria.,0,0,0,0,0,0,0
+opta_760513_74,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,74,67',67.0,"Goal! Argentina 1, Switzerland 1. Dan Ndoye (Switzerland) right footed shot from a difficult angle on the left to the centre of the goal. Assisted by Ricardo Rodríguez with a through ball.",0,0,1,0,0,0,0
+opta_760513_75,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,75,69',69.0,"Breel Embolo (Switzerland) has gone down, but the referee deems it simulation.",0,0,0,0,0,0,0
+opta_760513_76,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,76,70',70.0,VAR Decision: Card Changed.,0,0,0,1,0,0,0
+opta_760513_77,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,77,72',72.0,Second yellow card to Breel Embolo (Switzerland).,0,1,0,0,0,0,0
+opta_760513_78,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,78,75',75.0,"Offside, Argentina. Nicolás Tagliafico is caught offside.",0,0,0,0,0,0,0
+opta_760513_79,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,79,75',75.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760513_80,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,80,78',78.0,"Substitution, Argentina. Nico González replaces Nicolás Tagliafico.",0,0,0,0,0,1,0
+opta_760513_81,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,81,78',78.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760513_82,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,82,79',79.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760513_83,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,83,79',79.0,Nico Elvedi (Switzerland) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760513_84,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,84,85',85.0,"Offside, Argentina. Lionel Messi is caught offside.",0,0,0,0,0,0,0
+opta_760513_85,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,85,85',85.0,"Substitution, Argentina. Lautaro Martínez replaces Rodrigo De Paul.",0,0,0,0,0,1,0
+opta_760513_86,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,86,85',85.0,"Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina.",0,0,0,0,0,1,0
+opta_760513_87,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,87,86',86.0,"Substitution, Switzerland. Silvan Widmer replaces Djibril Sow.",0,0,0,0,0,1,0
+opta_760513_88,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,88,86',86.0,"Substitution, Switzerland. Zeki Amdouni replaces Dan Ndoye.",0,0,0,0,0,1,0
+opta_760513_89,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,89,86',86.0,"Substitution, Switzerland. Miro Muheim replaces Fabian Rieder.",0,0,0,0,0,1,0
+opta_760513_90,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,90,89',89.0,"Attempt missed. Alexis Mac Allister (Argentina) header from very close range is close, but misses the top left corner. Assisted by Nico González.",0,0,0,0,0,0,0
+opta_760513_91,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,91,90'+1',90.01,"Corner, Argentina. Conceded by Nico Elvedi.",0,0,0,0,0,0,0
+opta_760513_92,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,92,90'+1',90.01,Fourth official has announced 9 minutes of added time.,0,0,0,0,0,0,0
+opta_760513_93,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,93,90'+2',90.02,"Attempt missed. Lionel Messi (Argentina) right footed shot from outside the box is close, but misses to the right. Assisted by Enzo Fernández following a corner.",0,0,0,0,0,0,0
+opta_760513_94,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,94,90'+3',90.03,Attempt missed. Nico González (Argentina) left footed shot from the left side of the box is high and wide to the left. Assisted by Lionel Messi.,0,0,0,0,0,0,0
+opta_760513_95,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,95,90'+5',90.05,"Substitution, Switzerland. Eray Cömert replaces Ricardo Rodríguez.",0,0,0,0,0,1,0
+opta_760513_96,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,96,90'+8',90.08,"Corner, Argentina. Conceded by Silvan Widmer.",0,0,0,0,0,0,0
+opta_760513_97,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,97,90'+9',90.09,Attempt saved. Lisandro Martínez (Argentina) left footed shot from the centre of the box is saved in the bottom left corner by Gregor Kobel (Switzerland).,0,0,0,0,0,0,0
+opta_760513_98,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,98,90'+9',90.09,Miro Muheim (Switzerland) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_99,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,99,90'+9',90.09,Foul by Gonzalo Montiel (Argentina).,1,0,0,0,0,0,0
+opta_760513_100,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,100,90'+10',90.1,"Second Half ends, Argentina 1, Switzerland 1.",0,0,0,0,0,0,0
+opta_760513_101,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,101,90',90.0,"First Half Extra Time begins Argentina 1, Switzerland 1.",0,0,0,0,0,0,0
+opta_760513_102,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,102,90',90.0,"Substitution, Argentina. Thiago Almada replaces Enzo Fernández.",0,0,0,0,0,1,0
+opta_760513_103,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,103,91',91.0,Attempt blocked. Lautaro Martínez (Argentina) right footed shot from the centre of the box is blocked. Assisted by Alexis Mac Allister.,0,0,0,0,0,0,0
+opta_760513_104,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,104,91',91.0,"Corner, Argentina. Conceded by Silvan Widmer.",0,0,0,0,0,0,0
+opta_760513_105,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,105,91',91.0,Attempt blocked. Nico González (Argentina) left footed shot from the centre of the box is blocked. Assisted by Lautaro Martínez.,0,0,0,0,0,0,0
+opta_760513_106,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,106,92',92.0,Attempt missed. Julián Alvarez (Argentina) right footed shot from outside the box is high and wide to the right. Assisted by Leandro Paredes following a corner.,0,0,0,0,0,0,0
+opta_760513_107,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,107,93',93.0,Attempt saved. Thiago Almada (Argentina) right footed shot from the left side of the box is saved in the centre of the goal by Gregor Kobel (Switzerland). Assisted by Julián Alvarez.,0,0,1,0,0,0,0
+opta_760513_108,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,108,95',95.0,Thiago Almada (Argentina) hits the left post with a right footed shot from outside the box. Assisted by Leandro Paredes.,0,0,0,0,0,0,0
+opta_760513_109,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,109,96',96.0,"Substitution, Switzerland. Ardon Jashari replaces Denis Zakaria.",0,0,0,0,0,1,0
+opta_760513_110,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,110,97',97.0,Remo Freuler (Switzerland) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760513_111,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,111,97',97.0,Foul by Thiago Almada (Argentina).,1,0,0,0,0,0,0
+opta_760513_112,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,112,97',97.0,Thiago Almada (Argentina) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760513_113,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,113,98',98.0,Foul by Manuel Akanji (Switzerland).,1,0,0,0,0,0,0
+opta_760513_114,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,114,98',98.0,Lisandro Martínez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_115,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,115,98',98.0,Manuel Akanji (Switzerland) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_116,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,116,98',98.0,Foul by Lautaro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760513_117,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,117,98',98.0,Lautaro Martínez (Argentina) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760513_118,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,118,99',99.0,Attempt missed. Granit Xhaka (Switzerland) left footed shot from outside the box is too high. Assisted by Ardon Jashari.,0,0,0,0,0,0,0
+opta_760513_119,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,119,102',102.0,Foul by Zeki Amdouni (Switzerland).,1,0,0,0,0,0,0
+opta_760513_120,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,120,102',102.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760513_121,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,121,103',103.0,Attempt blocked. Lionel Messi (Argentina) left footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760513_122,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,122,105',105.0,Attempt missed. Ardon Jashari (Switzerland) left footed shot from outside the box is high and wide to the left. Assisted by Zeki Amdouni.,0,0,0,0,0,0,0
+opta_760513_123,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,123,105'+1',105.01,Fourth official has announced 1 minutes of added time.,0,0,0,0,0,0,0
+opta_760513_124,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,124,105'+1',105.01,Attempt blocked. Lisandro Martínez (Argentina) right footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760513_125,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,125,105'+1',105.01,"Corner, Argentina. Conceded by Remo Freuler.",0,0,0,0,0,0,0
+opta_760513_126,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,126,105'+2',105.02,Attempt missed. Cristian Romero (Argentina) header from the centre of the box is high and wide to the left. Assisted by Lionel Messi with a cross following a corner.,0,0,0,0,0,0,0
+opta_760513_127,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,127,105'+2',105.02,"First Half Extra Time ends, Argentina 1, Switzerland 1.",0,0,0,0,0,0,0
+opta_760513_128,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,128,105',105.0,"Second Half Extra Time begins Argentina 1, Switzerland 1.",0,0,0,0,0,0,0
+opta_760513_129,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,129,105',105.0,"Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero.",0,0,0,0,0,1,0
+opta_760513_130,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,130,107',107.0,Miro Muheim (Switzerland) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760513_131,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,131,107',107.0,Foul by Alexis Mac Allister (Argentina).,1,0,0,0,0,0,0
+opta_760513_132,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,132,110',110.0,"Substitution, Argentina. José Manuel López replaces Leandro Paredes because of an injury.",0,0,0,0,0,1,0
+opta_760513_133,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,133,110',110.0,Foul by Manuel Akanji (Switzerland).,1,0,0,0,0,0,0
+opta_760513_134,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,134,110',110.0,Lautaro Martínez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760513_135,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,135,112',112.0,Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Thiago Almada.,0,0,0,0,0,0,0
+opta_760513_136,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,136,112',112.0,"Goal! Argentina 2, Switzerland 1. Julián Alvarez (Argentina) right footed shot from outside the box to the top right corner. Assisted by José Manuel López.",0,0,1,0,0,0,0
+opta_760513_137,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,137,114',114.0,José Manuel López (Argentina) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760513_138,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,138,115',115.0,"Substitution, Switzerland. Rubén Vargas replaces Remo Freuler.",0,0,0,0,0,1,0
+opta_760513_139,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,139,116',116.0,Delay in match because of an injury Emiliano Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760513_140,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,140,117',117.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760513_141,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,141,118',118.0,Ardon Jashari (Switzerland) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760513_142,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,142,118',118.0,Foul by José Manuel López (Argentina).,1,0,0,0,0,0,0
+opta_760513_143,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,143,119',119.0,Attempt blocked. Lionel Messi (Argentina) left footed shot from the right side of the box is blocked. Assisted by Julián Alvarez.,0,0,0,0,0,0,0
+opta_760513_144,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,144,119',119.0,"Corner, Argentina. Conceded by Granit Xhaka.",0,0,0,0,0,0,0
+opta_760513_145,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,145,120',120.0,"Offside, Argentina. Lionel Messi is caught offside.",0,0,0,0,0,0,0
+opta_760513_146,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,146,120'+1',120.01,Fourth official has announced 4 minutes of added time.,0,0,0,0,0,0,0
+opta_760513_147,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,147,120'+1',120.01,Attempt saved. Thiago Almada (Argentina) right footed shot from the centre of the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Lautaro Martínez.,0,0,0,0,0,0,0
+opta_760513_148,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,148,120'+1',120.01,"Goal! Argentina 3, Switzerland 1. Lautaro Martínez (Argentina) right footed shot from the centre of the box to the bottom right corner following a fast break.",0,0,1,0,0,0,0
+opta_760513_149,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,149,120'+3',120.03,"Offside, Switzerland. Rubén Vargas is caught offside.",0,0,0,0,0,0,0
+opta_760513_150,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,150,120'+4',120.04,"Second Half Extra Time ends, Argentina 3, Switzerland 1.",0,0,0,0,0,0,0
+opta_760513_151,opta,espn_opta,OFFICIAL,760513,ARG-SUI QF,2026-07-12,151,,,"| Match ends, Argentina 3, Switzerland 1.",0,0,0,0,0,0,0
+opta_760515_0,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,0,,,| Lineups are announced and players are warming up.,0,0,0,0,0,0,0
+opta_760515_1,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,1,,,| First Half begins.,0,0,0,0,0,0,0
+opta_760515_2,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,2,2',2.0,Foul by Leandro Paredes (Argentina).,1,0,0,0,0,0,0
+opta_760515_3,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,3,2',2.0,Jude Bellingham (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_4,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,4,3',3.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760515_5,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,5,3',3.0,Elliot Anderson (England) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760515_6,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,6,6',6.0,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760515_7,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,7,6',6.0,Elliot Anderson (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_8,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,8,7',7.0,"Corner, England. Conceded by Alexis Mac Allister.",0,0,0,0,0,0,0
+opta_760515_9,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,9,8',8.0,Julián Alvarez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_10,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,10,8',8.0,Dangerous play by Marc Guéhi (England).,0,0,0,0,0,0,0
+opta_760515_11,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,11,9',9.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_12,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,12,9',9.0,Foul by Reece James (England).,1,0,0,0,0,0,0
+opta_760515_13,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,13,9',9.0,Elliot Anderson (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_14,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,14,9',9.0,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760515_15,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,15,10',10.0,Foul by Elliot Anderson (England).,1,0,0,0,0,0,0
+opta_760515_16,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,16,10',10.0,Enzo Fernández (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_17,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,17,12',12.0,Delay in match (Argentina).,0,0,0,0,0,0,0
+opta_760515_18,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,18,12',12.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760515_19,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,19,13',13.0,"Offside, Argentina. Giuliano Simeone is caught offside.",0,0,0,0,0,0,0
+opta_760515_20,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,20,16',16.0,Anthony Gordon (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_21,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,21,16',16.0,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760515_22,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,22,21',21.0,"Offside, Argentina. Lionel Messi is caught offside.",0,0,0,0,0,0,0
+opta_760515_23,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,23,21',21.0,Foul by Morgan Rogers (England).,1,0,0,0,0,0,0
+opta_760515_24,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,24,21',21.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_25,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,25,23',23.0,Foul by Jude Bellingham (England).,1,0,0,0,0,0,0
+opta_760515_26,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,26,23',23.0,Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760515_27,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,27,24',24.0,"Corner, Argentina. Conceded by Djed Spence.",0,0,0,0,0,0,0
+opta_760515_28,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,28,25',25.0,Jordan Pickford (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_29,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,29,25',25.0,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760515_30,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,30,25',25.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760515_31,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,31,28',28.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760515_32,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,32,30',30.0,Foul by Anthony Gordon (England).,1,0,0,0,0,0,0
+opta_760515_33,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,33,30',30.0,Giuliano Simeone (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_34,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,34,32',32.0,Jude Bellingham (England) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760515_35,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,35,32',32.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760515_36,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,36,33',33.0,"Attempt missed. John Stones (England) header from the centre of the box is close, but misses to the right. Assisted by Declan Rice with a cross following a set piece situation.",0,0,0,0,0,0,0
+opta_760515_37,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,37,34',34.0,Marc Guéhi (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_38,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,38,34',34.0,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760515_39,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,39,35',35.0,Jude Bellingham (England) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760515_40,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,40,35',35.0,Foul by Nahuel Molina (Argentina).,1,0,0,0,0,0,0
+opta_760515_41,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,41,37',37.0,Foul by Elliot Anderson (England).,1,0,0,0,0,0,0
+opta_760515_42,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,42,37',37.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760515_43,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,43,37',37.0,Elliot Anderson (England) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760515_44,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,44,38',38.0,Attempt blocked. Lionel Messi (Argentina) left footed shot from outside the box is blocked. Assisted by Leandro Paredes.,0,0,0,0,0,0,0
+opta_760515_45,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,45,38',38.0,Attempt missed. Enzo Fernández (Argentina) right footed shot from outside the box is just a bit too high following a set piece situation.,0,0,0,0,0,0,0
+opta_760515_46,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,46,42',42.0,Morgan Rogers (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_47,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,47,42',42.0,Foul by Lisandro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760515_48,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,48,42',42.0,Lisandro Martínez (Argentina) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760515_49,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,49,43',43.0,Elliot Anderson (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_50,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,50,43',43.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760515_51,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,51,45'+1',45.01,Fourth official has announced 3 minutes of added time.,0,0,0,0,0,0,0
+opta_760515_52,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,52,45'+2',45.02,"Offside, England. Morgan Rogers is caught offside.",0,0,0,0,0,0,0
+opta_760515_53,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,53,45'+3',45.03,Reece James (England) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760515_54,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,54,45'+3',45.03,Dangerous play by Leandro Paredes (Argentina).,0,0,0,0,0,0,0
+opta_760515_55,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,55,45'+4',45.04,"Corner, England. Conceded by Enzo Fernández.",0,0,0,0,0,0,0
+opta_760515_56,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,56,45'+4',45.04,"First Half ends, England 0, Argentina 0.",0,0,0,0,0,0,0
+opta_760515_57,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,57,45',45.0,"Second Half begins England 0, Argentina 0.",0,0,0,0,0,0,0
+opta_760515_58,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,58,47',47.0,Attempt saved. Julián Alvarez (Argentina) right footed shot from the right side of the box is saved in the bottom right corner by Jordan Pickford (England). Assisted by Giuliano Simeone with a headed pass.,0,0,0,0,0,0,0
+opta_760515_59,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,59,47',47.0,"Attempt missed. Julián Alvarez (Argentina) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by Lionel Messi.",0,0,0,0,0,0,0
+opta_760515_60,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,60,47',47.0,"Corner, Argentina. Conceded by Jordan Pickford.",0,0,0,0,0,0,0
+opta_760515_61,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,61,51',51.0,Jude Bellingham (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_62,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,62,51',51.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760515_63,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,63,51',51.0,Cristian Romero (Argentina) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760515_64,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,64,53',53.0,Foul by Jude Bellingham (England).,1,0,0,0,0,0,0
+opta_760515_65,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,65,53',53.0,Cristian Romero (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760515_66,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,66,54',54.0,Attempt missed. Leandro Paredes (Argentina) right footed shot from outside the box misses to the left. Assisted by Giuliano Simeone.,0,0,0,0,0,0,0
+opta_760515_67,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,67,55',55.0,"Goal! England 1, Argentina 0. Anthony Gordon (England) right footed shot from very close range to the bottom left corner. Assisted by Morgan Rogers with a cross.",0,0,1,0,0,0,0
+opta_760515_68,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,68,57',57.0,"Corner, Argentina. Conceded by Djed Spence.",0,0,0,0,0,0,0
+opta_760515_69,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,69,61',61.0,Attempt missed. Enzo Fernández (Argentina) right footed shot from outside the box is too high. Assisted by Leandro Paredes.,0,0,0,0,0,0,0
+opta_760515_70,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,70,64',64.0,"Substitution, Argentina. Nico González replaces Leandro Paredes.",0,0,0,0,0,1,0
+opta_760515_71,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,71,66',66.0,Attempt saved. Declan Rice (England) right footed shot from outside the box is saved in the bottom left corner by Emiliano Martínez (Argentina). Assisted by Reece James.,0,0,0,0,0,0,0
+opta_760515_72,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,72,66',66.0,Attempt blocked. Harry Kane (England) right footed shot from outside the box is blocked. Assisted by Declan Rice.,0,0,0,0,0,0,0
+opta_760515_73,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,73,67',67.0,Foul by Morgan Rogers (England).,1,0,0,0,0,0,0
+opta_760515_74,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,74,67',67.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_75,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,75,67',67.0,"Corner, Argentina. Conceded by Declan Rice.",0,0,0,0,0,0,0
+opta_760515_76,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,76,68',68.0,"Corner, Argentina. Conceded by Elliot Anderson.",0,0,0,0,0,0,0
+opta_760515_77,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,77,69',69.0,Attempt saved. Nico González (Argentina) header from the centre of the box is saved in the centre of the goal by Jordan Pickford (England). Assisted by Lionel Messi with a cross.,0,0,1,0,0,0,0
+opta_760515_78,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,78,69',69.0,Djed Spence (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_79,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,79,69',69.0,Foul by Cristian Romero (Argentina).,1,0,0,0,0,0,0
+opta_760515_80,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,80,69',69.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760515_81,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,81,72',72.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760515_82,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,82,72',72.0,"Substitution, England. Ezri Konsa replaces Anthony Gordon.",0,0,0,0,0,1,0
+opta_760515_83,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,83,72',72.0,"Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina.",0,0,0,0,0,1,0
+opta_760515_84,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,84,72',72.0,"Substitution, Argentina. Rodrigo De Paul replaces Giuliano Simeone.",0,0,0,0,0,1,0
+opta_760515_85,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,85,72',72.0,"Substitution, Argentina. Nicolás Otamendi replaces Lisandro Martínez.",0,0,0,0,0,1,0
+opta_760515_86,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,86,76',76.0,Alexis Mac Allister (Argentina) hits the left post with a header from the centre of the box. Assisted by Rodrigo De Paul with a cross.,0,0,0,0,0,0,0
+opta_760515_87,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,87,76',76.0,Attempt missed. Julián Alvarez (Argentina) left footed shot from the centre of the box misses to the left.,0,0,0,0,0,0,0
+opta_760515_88,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,88,76',76.0,Attempt saved. Alexis Mac Allister (Argentina) header from the centre of the box is saved in the centre of the goal by Jordan Pickford (England). Assisted by Rodrigo De Paul with a cross.,0,0,1,0,0,0,0
+opta_760515_89,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,89,77',77.0,"Offside, Argentina. Nico González is caught offside.",0,0,0,0,0,0,0
+opta_760515_90,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,90,79',79.0,Attempt blocked. Morgan Rogers (England) right footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760515_91,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,91,81',81.0,Harry Kane (England) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_92,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,92,81',81.0,Foul by Nico González (Argentina).,1,0,0,0,0,0,0
+opta_760515_93,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,93,81',81.0,"Substitution, Argentina. Lautaro Martínez replaces Nicolás Tagliafico.",0,0,0,0,0,1,0
+opta_760515_94,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,94,81',81.0,Delay in match because of an injury Reece James (England).,0,0,0,0,0,0,0
+opta_760515_95,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,95,82',82.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760515_96,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,96,82',82.0,"Substitution, England. Dan Burn replaces Reece James because of an injury.",0,0,0,0,0,1,0
+opta_760515_97,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,97,82',82.0,"Substitution, England. Nico O'Reilly replaces Declan Rice.",0,0,0,0,0,1,0
+opta_760515_98,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,98,84',84.0,Attempt blocked. Rodrigo De Paul (Argentina) right footed shot from outside the box is blocked. Assisted by Enzo Fernández.,0,0,0,0,0,0,0
+opta_760515_99,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,99,85',85.0,Attempt missed. Enzo Fernández (Argentina) right footed shot from outside the box is just a bit too high. Assisted by Julián Alvarez.,0,0,0,0,0,0,0
+opta_760515_100,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,100,85',85.0,"Corner, Argentina. Conceded by Jordan Pickford.",0,0,0,0,0,0,0
+opta_760515_101,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,101,85',85.0,"Goal! England 1, Argentina 1. Enzo Fernández (Argentina) right footed shot from outside the box to the bottom left corner. Assisted by Lionel Messi following a corner.",0,0,1,0,0,0,0
+opta_760515_102,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,102,88',88.0,Delay in match because of an injury John Stones (England).,0,0,0,0,0,0,0
+opta_760515_103,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,103,90',90.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760515_104,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,104,90'+1',90.01,Fourth official has announced 9 minutes of added time.,0,0,0,0,0,0,0
+opta_760515_105,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,105,90'+2',90.02,Attempt blocked. Alexis Mac Allister (Argentina) right footed shot from outside the box is blocked. Assisted by Nico González.,0,0,0,0,0,0,0
+opta_760515_106,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,106,90'+2',90.02,"Goal! England 1, Argentina 2. Lautaro Martínez (Argentina) header from very close range to the top left corner. Assisted by Lionel Messi with a cross.",0,0,1,0,0,0,0
+opta_760515_107,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,107,90'+4',90.04,Rodrigo De Paul (Argentina) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760515_108,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,108,90'+6',90.06,"Substitution, England. Ivan Toney replaces John Stones.",0,0,0,0,0,1,0
+opta_760515_109,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,109,90'+6',90.06,"Substitution, England. Marcus Rashford replaces Djed Spence.",0,0,0,0,0,1,0
+opta_760515_110,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,110,90'+9',90.09,Foul by Jude Bellingham (England).,1,0,0,0,0,0,0
+opta_760515_111,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,111,90'+9',90.09,Lionel Messi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_112,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,112,90'+12',90.12,Foul by Dan Burn (England).,1,0,0,0,0,0,0
+opta_760515_113,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,113,90'+12',90.12,Emiliano Martínez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760515_114,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,114,90'+12',90.12,"Second Half ends, England 1, Argentina 2.",0,0,0,0,0,0,0
+opta_760515_115,opta,espn_opta,OFFICIAL,760515,ENG-ARG SF,2026-07-15,115,,,"| Match ends, England 1, Argentina 2.",0,0,0,0,0,0,0
+opta_760517_0,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,0,,,| Lineups are announced and players are warming up.,0,0,0,0,0,0,0
+opta_760517_1,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,1,,,| First Half begins.,0,0,0,0,0,0,0
+opta_760517_2,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,2,2',2.0,Nico González (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_3,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,3,2',2.0,Foul by Pedro Porro (Spain).,1,0,0,0,0,0,0
+opta_760517_4,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,4,4',4.0,Álex Baena (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_5,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,5,4',4.0,Foul by Gonzalo Montiel (Argentina).,1,0,0,0,0,0,0
+opta_760517_6,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,6,5',5.0,Attempt saved. Lamine Yamal (Spain) left footed shot from the right side of the box is saved in the bottom right corner by Emiliano Martínez (Argentina). Assisted by Dani Olmo.,0,0,0,0,0,0,0
+opta_760517_7,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,7,8',8.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_8,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,8,8',8.0,Foul by Lamine Yamal (Spain).,1,0,0,0,0,0,0
+opta_760517_9,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,9,12',12.0,"Corner, Spain. Conceded by Lisandro Martínez.",0,0,0,0,0,0,0
+opta_760517_10,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,10,14',14.0,Foul by Alexis Mac Allister (Argentina).,1,0,0,0,0,0,0
+opta_760517_11,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,11,14',14.0,Dani Olmo (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_12,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,12,16',16.0,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_13,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,13,16',16.0,Foul by Álex Baena (Spain).,1,0,0,0,0,0,0
+opta_760517_14,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,14,18',18.0,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760517_15,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,15,18',18.0,Dani Olmo (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_16,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,16,20',20.0,Enzo Fernández (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_17,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,17,20',20.0,Foul by Dani Olmo (Spain).,1,0,0,0,0,0,0
+opta_760517_18,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,18,21',21.0,"Offside, Spain. Mikel Oyarzabal is caught offside.",0,0,0,0,0,0,0
+opta_760517_19,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,19,22',22.0,"Offside, Argentina. Nico González is caught offside.",0,0,0,0,0,0,0
+opta_760517_20,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,20,23',23.0,"Corner, Spain. Conceded by Rodrigo De Paul.",0,0,0,0,0,0,0
+opta_760517_21,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,21,24',24.0,Lionel Messi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_22,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,22,24',24.0,Foul by Rodri (Spain).,1,0,0,0,0,0,0
+opta_760517_23,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,23,25',25.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760517_24,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,24,27',27.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760517_25,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,25,28',28.0,Handball by Alexis Mac Allister (Argentina).,0,0,0,0,0,0,0
+opta_760517_26,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,26,29',29.0,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760517_27,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,27,29',29.0,Lamine Yamal (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_28,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,28,33',33.0,Alexis Mac Allister (Argentina) wins a free kick on the left wing.,1,0,0,0,0,0,0
+opta_760517_29,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,29,33',33.0,Foul by Rodri (Spain).,1,0,0,0,0,0,0
+opta_760517_30,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,30,34',34.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760517_31,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,31,34',34.0,Pedro Porro (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_32,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,32,35',35.0,"Offside, Spain. Marc Cucurella is caught offside.",0,0,0,0,0,0,0
+opta_760517_33,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,33,36',36.0,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760517_34,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,34,36',36.0,Rodri (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_35,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,35,38',38.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760517_36,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,36,38',38.0,Rodri (Spain) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760517_37,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,37,39',39.0,Attempt saved. Mikel Oyarzabal (Spain) left footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina). Assisted by Fabián Ruiz.,0,0,0,0,0,0,0
+opta_760517_38,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,38,41',41.0,Foul by Lisandro Martínez (Argentina).,1,0,0,0,0,0,0
+opta_760517_39,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,39,41',41.0,Mikel Oyarzabal (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_40,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,40,41',41.0,Lisandro Martínez (Argentina) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760517_41,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,41,43',43.0,"Attempt missed. Marc Cucurella (Spain) left footed shot from outside the box is close, but misses to the right. Assisted by Fabián Ruiz.",0,0,0,0,0,0,0
+opta_760517_42,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,42,44',44.0,"Substitution, Argentina. Nicolás Otamendi replaces Lisandro Martínez because of an injury.",0,0,0,0,0,1,0
+opta_760517_43,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,43,45',45.0,Fourth official has announced 4 minutes of added time.,0,0,0,0,0,0,0
+opta_760517_44,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,44,45'+3',45.03,Lionel Messi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_45,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,45,45'+3',45.03,Foul by Mikel Oyarzabal (Spain).,1,0,0,0,0,0,0
+opta_760517_46,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,46,45'+4',45.04,"First Half ends, Spain 0, Argentina 0.",0,0,0,0,0,0,0
+opta_760517_47,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,47,45',45.0,"Substitution, Argentina. Leandro Paredes replaces Nico González.",0,0,0,0,0,1,0
+opta_760517_48,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,48,45',45.0,"Second Half begins Spain 0, Argentina 0.",0,0,0,0,0,0,0
+opta_760517_49,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,49,46',46.0,Attempt saved. Álex Baena (Spain) right footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760517_50,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,50,48',48.0,"Corner, Argentina. Conceded by Aymeric Laporte.",0,0,0,0,0,0,0
+opta_760517_51,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,51,50',50.0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_52,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,52,50',50.0,Foul by Álex Baena (Spain).,1,0,0,0,0,0,0
+opta_760517_53,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,53,51',51.0,Gonzalo Montiel (Argentina) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760517_54,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,54,51',51.0,Foul by Álex Baena (Spain).,1,0,0,0,0,0,0
+opta_760517_55,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,55,52',52.0,Foul by Leandro Paredes (Argentina).,1,0,0,0,0,0,0
+opta_760517_56,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,56,52',52.0,Rodri (Spain) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_57,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,57,52',52.0,Leandro Paredes (Argentina) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760517_58,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,58,54',54.0,Julián Alvarez (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_59,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,59,54',54.0,Foul by Pedro Porro (Spain).,1,0,0,0,0,0,0
+opta_760517_60,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,60,54',54.0,Gonzalo Montiel (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_61,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,61,54',54.0,Foul by Álex Baena (Spain).,1,0,0,0,0,0,0
+opta_760517_62,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,62,56',56.0,Foul by Julián Alvarez (Argentina).,1,0,0,0,0,0,0
+opta_760517_63,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,63,56',56.0,Aymeric Laporte (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_64,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,64,56',56.0,"Corner, Spain. Conceded by Gonzalo Montiel.",0,0,0,0,0,0,0
+opta_760517_65,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,65,58',58.0,"Substitution, Argentina. Nahuel Molina replaces Gonzalo Montiel.",0,0,0,0,0,1,0
+opta_760517_66,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,66,60',60.0,Foul by Leandro Paredes (Argentina).,1,0,0,0,0,0,0
+opta_760517_67,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,67,60',60.0,Pedro Porro (Spain) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_68,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,68,61',61.0,Attempt blocked. Lamine Yamal (Spain) left footed shot from outside the box is blocked.,0,0,0,0,0,0,0
+opta_760517_69,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,69,62',62.0,"Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal.",0,0,0,0,0,1,0
+opta_760517_70,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,70,62',62.0,"Substitution, Spain. Pedri replaces Fabián Ruiz.",0,0,0,0,0,1,0
+opta_760517_71,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,71,62',62.0,Foul by Nicolás Otamendi (Argentina).,1,0,0,0,0,0,0
+opta_760517_72,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,72,62',62.0,Ferran Torres (Spain) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760517_73,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,73,64',64.0,Attempt saved. Dani Olmo (Spain) right footed shot from outside the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Pedri.,0,0,1,0,0,0,0
+opta_760517_74,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,74,64',64.0,"Corner, Spain. Conceded by Emiliano Martínez.",0,0,0,0,0,0,0
+opta_760517_75,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,75,65',65.0,"Corner, Spain. Conceded by Leandro Paredes.",0,0,0,0,0,0,0
+opta_760517_76,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,76,65',65.0,Attempt blocked. Dani Olmo (Spain) header from very close range is blocked.,0,0,0,0,0,0,0
+opta_760517_77,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,77,66',66.0,"Corner, Spain. Conceded by Nicolás Tagliafico.",0,0,0,0,0,0,0
+opta_760517_78,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,78,67',67.0,Attempt saved. Ferran Torres (Spain) header from the centre of the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Lamine Yamal with a cross.,0,0,1,0,0,0,0
+opta_760517_79,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,79,67',67.0,Delay in match for a drinks break.,0,0,0,0,0,0,0
+opta_760517_80,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,80,70',70.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760517_81,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,81,70',70.0,"Substitution, Argentina. Facundo Medina replaces Cristian Romero because of an injury.",0,0,0,0,0,1,0
+opta_760517_82,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,82,70',70.0,"Substitution, Argentina. Giuliano Simeone replaces Rodrigo De Paul.",0,0,0,0,0,1,0
+opta_760517_83,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,83,75',75.0,"Substitution, Spain. Nico Williams replaces Álex Baena.",0,0,0,0,0,1,0
+opta_760517_84,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,84,75',75.0,"Substitution, Spain. Mikel Merino replaces Dani Olmo.",0,0,0,0,0,1,0
+opta_760517_85,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,85,76',76.0,Foul by Leandro Paredes (Argentina).,1,0,0,0,0,0,0
+opta_760517_86,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,86,76',76.0,Mikel Merino (Spain) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_87,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,87,77',77.0,Attempt saved. Pedri (Spain) left footed shot from outside the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Rodri.,0,0,1,0,0,0,0
+opta_760517_88,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,88,77',77.0,Attempt saved. Pau Cubarsí (Spain) right footed shot from outside the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Rodri.,0,0,1,0,0,0,0
+opta_760517_89,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,89,78',78.0,"Corner, Spain. Conceded by Nahuel Molina.",0,0,0,0,0,0,0
+opta_760517_90,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,90,80',80.0,"Corner, Spain. Conceded by Nicolás Tagliafico.",0,0,0,0,0,0,0
+opta_760517_91,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,91,81',81.0,Attempt saved. Aymeric Laporte (Spain) header from the centre of the box is saved in the bottom left corner by Emiliano Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760517_92,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,92,81',81.0,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760517_93,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,93,81',81.0,Marc Cucurella (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_94,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,94,82',82.0,Enzo Fernández (Argentina).,0,0,0,0,0,0,0
+opta_760517_95,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,95,82',82.0,(Spain) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_96,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,96,82',82.0,Enzo Fernández (Argentina) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760517_97,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,97,84',84.0,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760517_98,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,98,84',84.0,Mikel Merino (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_99,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,99,87',87.0,"Attempt missed. Ferran Torres (Spain) right footed shot from the centre of the box is close, but misses to the right. Assisted by Mikel Merino with a through ball.",0,0,0,0,0,0,0
+opta_760517_100,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,100,89',89.0,Attempt missed. Rodri (Spain) right footed shot from outside the box is too high. Assisted by Pau Cubarsí.,0,0,0,0,0,0,0
+opta_760517_101,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,101,90',90.0,Fourth official has announced 4 minutes of added time.,0,0,0,0,0,0,0
+opta_760517_102,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,102,90'+1',90.01,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_103,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,103,90'+1',90.01,Foul by Ferran Torres (Spain).,1,0,0,0,0,0,0
+opta_760517_104,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,104,90'+1',90.01,Lionel Messi (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_105,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,105,90'+1',90.01,Foul by Aymeric Laporte (Spain).,1,0,0,0,0,0,0
+opta_760517_106,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,106,90'+2',90.02,Cristian Romero (Argentina) is shown the yellow card.,0,1,0,0,0,0,0
+opta_760517_107,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,107,90'+3',90.03,Attempt saved. Nico Williams (Spain) right footed shot from the right side of the box is saved in the top centre of the goal by Emiliano Martínez (Argentina). Assisted by Pedro Porro.,0,0,1,0,0,0,0
+opta_760517_108,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,108,90'+3',90.03,Foul by Enzo Fernández (Argentina).,1,0,0,0,0,0,0
+opta_760517_109,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,109,90'+3',90.03,Pau Cubarsí (Spain) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_110,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,110,90'+3',90.03,Second yellow card to Enzo Fernández (Argentina) for a bad foul.,1,1,0,0,0,0,1
+opta_760517_111,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,111,90'+3',90.03,Delay in match because of an injury Pau Cubarsí (Spain).,0,0,0,0,0,0,0
+opta_760517_112,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,112,90'+5',90.05,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760517_113,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,113,90'+6',90.06,Foul by Leandro Paredes (Argentina).,1,0,0,0,0,0,0
+opta_760517_114,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,114,90'+6',90.06,Ferran Torres (Spain) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_115,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,115,90'+8',90.08,Attempt saved. Lamine Yamal (Spain) left footed shot from outside the box is saved in the top right corner by Emiliano Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760517_116,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,116,90'+8',90.08,"Corner, Spain. Conceded by Emiliano Martínez.",0,0,0,0,0,0,0
+opta_760517_117,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,117,90'+9',90.09,"Second Half ends, Spain 0, Argentina 0.",0,0,0,0,0,0,0
+opta_760517_118,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,118,90',90.0,"First Half Extra Time begins Spain 0, Argentina 0.",0,0,0,0,0,0,0
+opta_760517_119,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,119,92',92.0,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_120,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,120,92',92.0,Foul by Pedro Porro (Spain).,1,0,0,0,0,0,0
+opta_760517_121,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,121,93',93.0,Attempt saved. Nico Williams (Spain) header from the centre of the box is saved in the bottom left corner by Emiliano Martínez (Argentina). Assisted by Pedri with a through ball.,0,0,0,0,0,0,0
+opta_760517_122,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,122,93',93.0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_123,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,123,93',93.0,Foul by Pedri (Spain).,1,0,0,0,0,0,0
+opta_760517_124,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,124,94',94.0,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760517_125,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,125,94',94.0,Aymeric Laporte (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_126,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,126,96',96.0,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_127,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,127,96',96.0,Foul by Mikel Merino (Spain).,1,0,0,0,0,0,0
+opta_760517_128,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,128,98',98.0,Delay in match because of an injury Emiliano Martínez (Argentina).,0,0,0,0,0,0,0
+opta_760517_129,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,129,99',99.0,"Substitution, Spain. Martín Zubimendi replaces Rodri.",0,0,0,0,0,1,0
+opta_760517_130,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,130,99',99.0,"Substitution, Spain. Eric García replaces Aymeric Laporte.",0,0,0,0,0,1,0
+opta_760517_131,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,131,99',99.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760517_132,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,132,100',100.0,Foul by Lionel Messi (Argentina).,1,0,0,0,0,0,0
+opta_760517_133,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,133,100',100.0,Pau Cubarsí (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_134,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,134,101',101.0,Attempt missed. Lamine Yamal (Spain) left footed shot from outside the box is high and wide to the left. Assisted by Pedri.,0,0,0,0,0,0,0
+opta_760517_135,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,135,102',102.0,"Substitution, Argentina. Marcos Senesi replaces Julián Alvarez.",0,0,0,0,0,1,0
+opta_760517_136,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,136,103',103.0,"Attempt missed. Mikel Merino (Spain) header from the centre of the box is close, but misses to the right. Assisted by Nico Williams with a cross.",0,0,0,0,0,0,0
+opta_760517_137,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,137,104',104.0,Attempt blocked. Nico Williams (Spain) right footed shot from outside the box is blocked. Assisted by Pedri.,0,0,0,0,0,0,0
+opta_760517_138,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,138,105',105.0,Fourth official has announced 3 minutes of added time.,0,0,0,0,0,0,0
+opta_760517_139,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,139,105'+3',105.03,Foul by Giuliano Simeone (Argentina).,1,0,0,0,0,0,0
+opta_760517_140,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,140,105'+3',105.03,Pedro Porro (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_141,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,141,105'+3',105.03,"First Half Extra Time ends, Spain 0, Argentina 0.",0,0,0,0,0,0,0
+opta_760517_142,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,142,105',105.0,"Second Half Extra Time begins Spain 0, Argentina 0.",0,0,0,0,0,0,0
+opta_760517_143,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,143,106',106.0,"Goal! Spain 1, Argentina 0. Ferran Torres (Spain) left footed shot from the centre of the box to the high centre of the goal. Assisted by Nico Williams with a headed pass.",0,0,1,0,0,0,0
+opta_760517_144,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,144,108',108.0,Nicolás Tagliafico (Argentina) wins a free kick in the attacking half.,1,0,0,0,0,0,0
+opta_760517_145,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,145,108',108.0,Foul by Lamine Yamal (Spain).,1,0,0,0,0,0,0
+opta_760517_146,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,146,111',111.0,Foul by Alexis Mac Allister (Argentina).,1,0,0,0,0,0,0
+opta_760517_147,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,147,111',111.0,Marc Cucurella (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_148,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,148,111',111.0,Alexis Mac Allister (Argentina) is shown the yellow card for a bad foul.,1,1,0,0,0,0,1
+opta_760517_149,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,149,111',111.0,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760517_150,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,150,111',111.0,Mikel Merino (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_151,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,151,113',113.0,"Offside, Spain. Nico Williams is caught offside.",0,0,0,0,0,0,0
+opta_760517_152,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,152,113',113.0,"Offside, Spain. Ferran Torres is caught offside.",0,0,0,0,0,0,0
+opta_760517_153,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,153,114',114.0,Leandro Paredes (Argentina) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760517_154,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,154,114',114.0,Foul by Nico Williams (Spain).,1,0,0,0,0,0,0
+opta_760517_155,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,155,115',115.0,"Corner, Argentina. Conceded by Eric García.",0,0,0,0,0,0,0
+opta_760517_156,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,156,117',117.0,Attempt blocked. Lionel Messi (Argentina) left footed shot from outside the box is blocked. Assisted by Giuliano Simeone.,0,0,0,0,0,0,0
+opta_760517_157,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,157,117',117.0,Delay in match because of an injury Mikel Merino (Spain).,0,0,0,0,0,0,0
+opta_760517_158,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,158,118',118.0,Delay over. They are ready to continue.,0,0,0,0,0,0,0
+opta_760517_159,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,159,119',119.0,Marcos Senesi (Argentina) wins a free kick on the right wing.,1,0,0,0,0,0,0
+opta_760517_160,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,160,119',119.0,Foul by Nico Williams (Spain).,1,0,0,0,0,0,0
+opta_760517_161,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,161,120',120.0,"Corner, Argentina. Conceded by Pau Cubarsí.",0,0,0,0,0,0,0
+opta_760517_162,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,162,120',120.0,Fourth official has announced 5 minutes of added time.,0,0,0,0,0,0,0
+opta_760517_163,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,163,120'+1',120.01,"Corner, Argentina. Conceded by Martín Zubimendi.",0,0,0,0,0,0,0
+opta_760517_164,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,164,120'+2',120.02,Attempt missed. Giuliano Simeone (Argentina) right footed shot from the centre of the box is too high. Assisted by Nicolás Tagliafico following a corner.,0,0,0,0,0,0,0
+opta_760517_165,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,165,120'+3',120.03,Foul by Nicolás Tagliafico (Argentina).,1,0,0,0,0,0,0
+opta_760517_166,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,166,120'+3',120.03,Pau Cubarsí (Spain) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_167,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,167,120'+4',120.04,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_168,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,168,120'+4',120.04,Foul by Eric García (Spain).,1,0,0,0,0,0,0
+opta_760517_169,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,169,120'+5',120.05,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,1,0,0,0,0,0,0
+opta_760517_170,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,170,120'+5',120.05,Foul by Marc Cucurella (Spain).,1,0,0,0,0,0,0
+opta_760517_171,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,171,120'+5',120.05,"Second Half Extra Time ends, Spain 1, Argentina 0.",0,0,0,0,0,0,0
+opta_760517_172,opta,espn_opta,OFFICIAL,760517,ESP-ARG Final,2026-07-19,172,,,"| Match ends, Spain 1, Argentina 0.",0,0,0,0,0,0,0

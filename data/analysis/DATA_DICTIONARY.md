@@ -134,14 +134,36 @@ hf_fouls.event_id ←→  hf_minute_grid_final.event_id
 
 ---
 
+## Minute-level narration (full ARG path)
+
+Built by `python3 scripts/08_path_minute_narration.py`.
+
+| File | Unit | Description |
+|------|------|-------------|
+| `hf_narration_opta.csv` | Opta commentary line | Dense official stream, **all 8 matches** (~996 lines) |
+| `hf_narration_media.csv` | Journalist MbM line | BBC lives where URL known (~515) |
+| `hf_narration_long.csv` | Stacked opta + media | Unified HF narration |
+| `hf_narration_inventory.csv` | Match | Which sources exist per match |
+| `hf_foul_narration_join.csv` | Foul | foul_id × nearby Opta foul lines × media |
+| `hf_minute_grid_path.csv` | Match × minute | Fouls, cards, opta density, media density |
+| `NARRATION_COVERAGE.md` | — | Gaps (GS often Opta-only) |
+
+Narration flags: `flag_foul`, `flag_card`, `flag_goal`, `flag_var`, `flag_penalty`, `flag_severity`.
+
+**BBC lives wired:** Egypt R16, Switzerland QF, England SF, Final.  
+**Not yet:** group stage + CPV R32 (need liveblog URLs).
+
+---
+
 ## Rebuild
 
 ```bash
 # if Opta raw refreshed:
 python3 scripts/01_fetch_opta_path.py
 python3 scripts/05_foul_level_table.py
-python3 scripts/06_foul_mbm_alignment.py   # final only
+python3 scripts/06_foul_mbm_alignment.py   # final multi-country style
 python3 scripts/07_prepare_hf_data.py
+python3 scripts/08_path_minute_narration.py  # full-path minute narration
 ```
 
 Panel CSVs under `data/processed/foul_source_panel_*.csv` are hand-curated inputs to 07.
