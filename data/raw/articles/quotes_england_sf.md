@@ -1,23 +1,47 @@
-# Quotes — ENG–ARG SF (2026-07-15)
+# Quotes — ENG–ARG SF (2026-07-15) · L2 archive
+
+ESPN event `760515`. Referee: **Ismail Elfath** (USA) per BBC.
 
 ## L1 Opta
 
-- Argentina: 15 fouls, 3 YC (Lisandro 42′, Romero 51′, De Paul 90'+4)
-- England: 12 fouls, 1 YC (Anderson 37′)
-- ARG card rate **higher** than England (0.20 vs 0.08) — not an under-carding aggregate match
+| | Fouls | YC | c/F |
+|--|------:|---:|----:|
+| Argentina | 15 | 3 | 0.20 |
+| England | 12 | 1 | 0.08 |
 
-## Early Enzo on Anderson (SF01)
+ARG **higher** card rate than England — not an aggregate soft-card match.
+
+Cards: Anderson (ENG) 37′; Lisandro 42′; Romero 51′; De Paul 90'+4.
+
+## SF01 — Enzo early contact on Anderson
 
 **Opta**  
-`3' Foul by Enzo Fernández (Argentina).`  
-`3' Elliot Anderson (England) wins a free kick in the attacking half.`  
-No card.
+`3' Foul by Enzo Fernández (Argentina).` Anderson wins FK. No card.
 
-**The Athletic** (final/semi narrative piece, 2026-07-19)  
-> On that occasion [vs England], Argentina sought to prod, poke and provoke; Enzo Fernandez left one on the head of Elliot Anderson early on…
+**The Athletic** (final/semi narrative, 19 Jul)  
+> …Argentina sought to prod, poke and provoke; Enzo Fernandez left one on the head of Elliot Anderson early on…
 
-Need independent second source (BBC/Guardian live) before consensus upgrade.
+**BBC report** (`bbc_eng_arg.txt`)  
+> …feisty first half littered with **19 fouls**, as American referee Ismail Elfath struggled to keep control.
 
-## Yellows that *were* given
+BBC does **not** specifically name Enzo–Anderson head contact in the archived report text.  
+→ `athletic=1`, `bbc=0` specific; `bbc=1` on general feisty/fouls.
 
-Lisandro and Romero both booked for “bad foul” mid-game — undercuts pure “never carded” narrative for this match.
+Consensus: **no** multi-source on SF01 specifically (still open for video).
+
+## SF02 — CBs booked
+
+Lisandro + Romero yellows for bad fouls — cards **given** (closed as under-carding claim).
+
+## SF03 — Spoiling narrative
+
+Athletic prod/poke line + BBC “feisty… 19 fouls” → weak multi-source on style, not incident-level.
+
+## Search log
+
+| Outlet | Result |
+|--------|--------|
+| BBC live/report | hit general feisty; no SF01 specific |
+| Athletic | hit SF01 + spoiling |
+| Guardian dedicated | no separate foul dossier found 2026-07-25 |
+| Marca/AS/Olé SF | not archived this pass |

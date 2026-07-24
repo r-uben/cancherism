@@ -1,0 +1,4 @@
+incident_id,match,event_id,minute_approx,claim_class,offender_team,offender_player,victim_player,description,opta_match,athletic,bbc,guardian,marca,as,ole,clarin,n_sources_en,n_sources_es,n_sources_ar,n_sources_total,consensus_provisional,evidence_strength
+SF01,ENG-ARG SF,760515,3,under_carded,Argentina,Enzo Fernández,Elliot Anderson,Early Enzo foul; Athletic claims head contact; no card,yes,1,0,0,0,0,0,0,1,0,0,1,no,medium
+SF02,ENG-ARG SF,760515,42-51,under_carded,Argentina,Lisandro / Romero,,CBs booked for bad fouls — cards GIVEN,yes,0,0,0,0,0,0,0,0,0,0,0,n/a,n/a
+SF03,ENG-ARG SF,760515,match,spoiling_style,Argentina,,,Feisty/prod-poke semi; 19 fouls 1H (BBC),yes,1,1,0,0,0,0,0,2,0,0,2,no,narrative

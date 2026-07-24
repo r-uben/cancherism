@@ -1,64 +1,71 @@
-incident_id,match,claim_class,source,hit,description
-F01,ESP-ARG Final,under_carded,bbc,1,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F01,ESP-ARG Final,under_carded,guardian,1,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F01,ESP-ARG Final,under_carded,athletic,1,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F01,ESP-ARG Final,under_carded,mirror_exref_scott,1,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F01,ESP-ARG Final,under_carded,liverpool_com_neville,1,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F01,ESP-ARG Final,under_carded,marca,1,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F01,ESP-ARG Final,under_carded,as,1,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F01,ESP-ARG Final,under_carded,ole,0,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F01,ESP-ARG Final,under_carded,tyc_or_clarin,,"Late/reckless challenge on Olmo; free kick given, no yellow"
-F02,ESP-ARG Final,under_carded,bbc,0,Studs / deliberate bring-downs on Yamal without early booking
-F02,ESP-ARG Final,under_carded,guardian,0,Studs / deliberate bring-downs on Yamal without early booking
-F02,ESP-ARG Final,under_carded,athletic,1,Studs / deliberate bring-downs on Yamal without early booking
-F02,ESP-ARG Final,under_carded,mirror_exref_scott,1,Studs / deliberate bring-downs on Yamal without early booking
-F02,ESP-ARG Final,under_carded,liverpool_com_neville,0,Studs / deliberate bring-downs on Yamal without early booking
-F02,ESP-ARG Final,under_carded,marca,1,Studs / deliberate bring-downs on Yamal without early booking
-F02,ESP-ARG Final,under_carded,as,0,Studs / deliberate bring-downs on Yamal without early booking
-F02,ESP-ARG Final,under_carded,ole,0,Studs / deliberate bring-downs on Yamal without early booking
-F02,ESP-ARG Final,under_carded,tyc_or_clarin,,Studs / deliberate bring-downs on Yamal without early booking
-F03,ESP-ARG Final,spoiling_style,bbc,1,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F03,ESP-ARG Final,spoiling_style,guardian,1,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F03,ESP-ARG Final,spoiling_style,athletic,1,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F03,ESP-ARG Final,spoiling_style,mirror_exref_scott,1,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F03,ESP-ARG Final,spoiling_style,liverpool_com_neville,0,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F03,ESP-ARG Final,spoiling_style,marca,1,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F03,ESP-ARG Final,spoiling_style,as,0,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F03,ESP-ARG Final,spoiling_style,ole,1,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F03,ESP-ARG Final,spoiling_style,tyc_or_clarin,,"Paredes as provocateur: shoves, barracking; later FT red for clash"
-F04,ESP-ARG Final,under_carded,bbc,0,First yellow for dissent / sarcastic applause; lucky not worse
-F04,ESP-ARG Final,under_carded,guardian,0,First yellow for dissent / sarcastic applause; lucky not worse
-F04,ESP-ARG Final,under_carded,athletic,1,First yellow for dissent / sarcastic applause; lucky not worse
-F04,ESP-ARG Final,under_carded,mirror_exref_scott,0,First yellow for dissent / sarcastic applause; lucky not worse
-F04,ESP-ARG Final,under_carded,liverpool_com_neville,0,First yellow for dissent / sarcastic applause; lucky not worse
-F04,ESP-ARG Final,under_carded,marca,0,First yellow for dissent / sarcastic applause; lucky not worse
-F04,ESP-ARG Final,under_carded,as,0,First yellow for dissent / sarcastic applause; lucky not worse
-F04,ESP-ARG Final,under_carded,ole,0,First yellow for dissent / sarcastic applause; lucky not worse
-F04,ESP-ARG Final,under_carded,tyc_or_clarin,,First yellow for dissent / sarcastic applause; lucky not worse
-F05,ESP-ARG Final,spoiling_style,bbc,1,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F05,ESP-ARG Final,spoiling_style,guardian,1,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F05,ESP-ARG Final,spoiling_style,athletic,1,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F05,ESP-ARG Final,spoiling_style,mirror_exref_scott,1,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F05,ESP-ARG Final,spoiling_style,liverpool_com_neville,0,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F05,ESP-ARG Final,spoiling_style,marca,1,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F05,ESP-ARG Final,spoiling_style,as,1,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F05,ESP-ARG Final,spoiling_style,ole,0,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F05,ESP-ARG Final,spoiling_style,tyc_or_clarin,,Team-level deliberate spoiling / kill the spectacle; ref leniency early
-F06,ESP-ARG Final,under_carded,bbc,0,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F06,ESP-ARG Final,under_carded,guardian,0,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F06,ESP-ARG Final,under_carded,athletic,0,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F06,ESP-ARG Final,under_carded,mirror_exref_scott,0,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F06,ESP-ARG Final,under_carded,liverpool_com_neville,0,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F06,ESP-ARG Final,under_carded,marca,0,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F06,ESP-ARG Final,under_carded,as,0,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F06,ESP-ARG Final,under_carded,ole,0,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F06,ESP-ARG Final,under_carded,tyc_or_clarin,,"CONTROL: Spain 21 fouls, 0 cards — any multi-source under-carding claims?"
-F07,ESP-ARG Final,off_ball,bbc,0,Post-whistle clash: throat grab / shove; red after full time
-F07,ESP-ARG Final,off_ball,guardian,1,Post-whistle clash: throat grab / shove; red after full time
-F07,ESP-ARG Final,off_ball,athletic,1,Post-whistle clash: throat grab / shove; red after full time
-F07,ESP-ARG Final,off_ball,mirror_exref_scott,1,Post-whistle clash: throat grab / shove; red after full time
-F07,ESP-ARG Final,off_ball,liverpool_com_neville,0,Post-whistle clash: throat grab / shove; red after full time
-F07,ESP-ARG Final,off_ball,marca,1,Post-whistle clash: throat grab / shove; red after full time
-F07,ESP-ARG Final,off_ball,as,1,Post-whistle clash: throat grab / shove; red after full time
-F07,ESP-ARG Final,off_ball,ole,1,Post-whistle clash: throat grab / shove; red after full time
-F07,ESP-ARG Final,off_ball,tyc_or_clarin,,Post-whistle clash: throat grab / shove; red after full time
+incident_id,source,hit,claim_class,description
+F01,bbc,1,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,guardian,1,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,athletic,1,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,mirror_exref_scott,1,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,liverpool_com_neville,1,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,marca,1,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,as,1,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,ole,0,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,clarin,0,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F01,tyc,,under_carded,Late/reckless challenge on Olmo; FK yes yellow no
+F02,bbc,0,under_carded,Studs/bring-downs without early booking
+F02,guardian,0,under_carded,Studs/bring-downs without early booking
+F02,athletic,1,under_carded,Studs/bring-downs without early booking
+F02,mirror_exref_scott,1,under_carded,Studs/bring-downs without early booking
+F02,liverpool_com_neville,0,under_carded,Studs/bring-downs without early booking
+F02,marca,1,under_carded,Studs/bring-downs without early booking
+F02,as,0,under_carded,Studs/bring-downs without early booking
+F02,ole,0,under_carded,Studs/bring-downs without early booking
+F02,clarin,0,under_carded,Studs/bring-downs without early booking
+F02,tyc,,under_carded,Studs/bring-downs without early booking
+F03,bbc,1,spoiling_style,Paredes provocateur shoves barracking
+F03,guardian,1,spoiling_style,Paredes provocateur shoves barracking
+F03,athletic,1,spoiling_style,Paredes provocateur shoves barracking
+F03,mirror_exref_scott,1,spoiling_style,Paredes provocateur shoves barracking
+F03,liverpool_com_neville,0,spoiling_style,Paredes provocateur shoves barracking
+F03,marca,1,spoiling_style,Paredes provocateur shoves barracking
+F03,as,0,spoiling_style,Paredes provocateur shoves barracking
+F03,ole,1,spoiling_style,Paredes provocateur shoves barracking
+F03,clarin,1,spoiling_style,Paredes provocateur shoves barracking
+F03,tyc,,spoiling_style,Paredes provocateur shoves barracking
+F04,bbc,0,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,guardian,0,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,athletic,1,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,mirror_exref_scott,0,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,liverpool_com_neville,0,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,marca,0,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,as,0,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,ole,0,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,clarin,0,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F04,tyc,,under_carded,First Y dissent; Athletic says lucky; Clarín says first Y exaggerated
+F05,bbc,1,spoiling_style,Team spoiling + early ref leniency narrative
+F05,guardian,1,spoiling_style,Team spoiling + early ref leniency narrative
+F05,athletic,1,spoiling_style,Team spoiling + early ref leniency narrative
+F05,mirror_exref_scott,1,spoiling_style,Team spoiling + early ref leniency narrative
+F05,liverpool_com_neville,0,spoiling_style,Team spoiling + early ref leniency narrative
+F05,marca,1,spoiling_style,Team spoiling + early ref leniency narrative
+F05,as,1,spoiling_style,Team spoiling + early ref leniency narrative
+F05,ole,0,spoiling_style,Team spoiling + early ref leniency narrative
+F05,clarin,1,spoiling_style,Team spoiling + early ref leniency narrative
+F05,tyc,,spoiling_style,Team spoiling + early ref leniency narrative
+F06,bbc,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,guardian,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,athletic,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,mirror_exref_scott,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,liverpool_com_neville,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,marca,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,as,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,ole,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,clarin,0,under_carded,CONTROL Spain 21 fouls 0 cards
+F06,tyc,,under_carded,CONTROL Spain 21 fouls 0 cards
+F07,bbc,0,off_ball,Post-whistle clash; red; FIFA case
+F07,guardian,1,off_ball,Post-whistle clash; red; FIFA case
+F07,athletic,1,off_ball,Post-whistle clash; red; FIFA case
+F07,mirror_exref_scott,1,off_ball,Post-whistle clash; red; FIFA case
+F07,liverpool_com_neville,0,off_ball,Post-whistle clash; red; FIFA case
+F07,marca,1,off_ball,Post-whistle clash; red; FIFA case
+F07,as,1,off_ball,Post-whistle clash; red; FIFA case
+F07,ole,1,off_ball,Post-whistle clash; red; FIFA case
+F07,clarin,1,off_ball,Post-whistle clash; red; FIFA case
+F07,tyc,,off_ball,Post-whistle clash; red; FIFA case

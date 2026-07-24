@@ -91,8 +91,9 @@ def main() -> None:
         "## Exhaustiveness gap",
         "",
         "- L1: complete for ARG 8-match path.",
-        "- L2: final strong; Egypt partial; England thin; group stage almost empty.",
-        "- AR media under-carding of ARG: mostly reverse narratives, not agreements.",
+        "- L2: final EN+ES (+ Clarín AR reverse/partial); Egypt EN+FA strong;",
+        "  England thin (SF01 single-source); group stage closed with no-hit logs.",
+        "- AR media rarely agrees ARG was under-carded; often reverse bias claims.",
         "",
     ]
 

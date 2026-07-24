@@ -22,30 +22,34 @@ mid-tournament ‘most fouls fewest cards’ meme is path-dependent.
 
 | consensus_provisional | n |
 |---|---:|
-| no | 9 |
+| no | 8 |
 | n/a | 3 |
-| yes_en | 3 |
-| yes_en_es | 2 |
-| yes_cross_lang | 2 |
-| yes_en_es_not_ar | 1 |
+| yes_cross_lang | 3 |
+| yes_en_es_not_ar | 2 |
+| yes_en_plus_protest | 1 |
+| yes_documented_disputed | 1 |
+| yes_protest_side | 1 |
+| yes_en | 1 |
 
 | claim_class | n |
 |---|---:|
-| under_carded | 12 |
+| under_carded | 11 |
 | spoiling_style | 4 |
 | other | 2 |
+| uncalled_foul | 1 |
 | over_carded | 1 |
 | off_ball | 1 |
 
 ### Strong multi-source favouritism / under-carding candidates
 
-- **E01** (ARG-EGY R16): ARG 13 fouls 0 YC; Egypt 11 fouls 4 YC (stoppage pile-on) [n≈3, yes_en]
-- **F01** (ESP-ARG Final): Late reckless challenge; FK yes yellow no [n≈7, yes_en_es]
-- **F02** (ESP-ARG Final): Studs/bring-downs without early booking [n≈3, yes_en_es]
+- **E01** (ARG-EGY R16): ARG 13F 0YC; Egypt 11F 4YC + protest [n≈5, yes_en_plus_protest]
+- **F01** (ESP-ARG Final): Late reckless; FK yes yellow no [n≈7, yes_en_es_not_ar]
+- **F02** (ESP-ARG Final): Studs/bring-downs no early booking [n≈3, yes_en_es_not_ar]
 
 ## Exhaustiveness gap
 
 - L1: complete for ARG 8-match path.
-- L2: final strong; Egypt partial; England thin; group stage almost empty.
-- AR media under-carding of ARG: mostly reverse narratives, not agreements.
+- L2: final EN+ES (+ Clarín AR reverse/partial); Egypt EN+FA strong;
+  England thin (SF01 single-source); group stage closed with no-hit logs.
+- AR media rarely agrees ARG was under-carded; often reverse bias claims.
 
