@@ -4,7 +4,8 @@ Last updated: 2026-07-25
 
 ## Repo
 
-`~/repos/research/cancherism` (GitHub: to be set on first push)
+- Local: `~/repos/research/cancherism`
+- Remote: https://github.com/r-uben/cancherism
 
 ## Stage
 
