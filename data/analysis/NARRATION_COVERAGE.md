@@ -11,27 +11,26 @@ Agree: we want **narration at the minute for every match**, not only the final.
 
 ## Inventory
 
-| Match | Opta lines | BBC |
-|-------|----------:|:---:|
-| ARG-ALG GS | 92 | **no** |
-| ARG-AUT GS | 109 | **no** |
-| JOR-ARG GS | 98 | **no** |
-| ARG-CPV R32 | 140 | **no** |
-| ARG-EGY R16 | 116 | yes |
-| ARG-SUI QF | 152 | yes |
-| ENG-ARG SF | 116 | yes |
-| ESP-ARG Final | 173 | yes |
+| Match | Opta lines | BBC | Guardian |
+|-------|----------:|:---:|:--------:|
+| ARG-ALG GS | 92 | yes | no |
+| ARG-AUT GS | 109 | yes | yes |
+| JOR-ARG GS | 98 | yes | no |
+| ARG-CPV R32 | 140 | yes | no |
+| ARG-EGY R16 | 116 | yes | no |
+| ARG-SUI QF | 152 | yes | no |
+| ENG-ARG SF | 116 | yes | no |
+| ESP-ARG Final | 173 | yes | yes |
 
 - Opta total lines: **996**
-- BBC/media lines: **515**
-- ARG uncarded fouls with nearby media text: **30/95**
+- Media (BBC+Guardian) lines: **936**
+- ARG uncarded fouls with nearby media text: **48/95**
 
-## Gaps (need URLs)
+## Gaps
 
-- ARG–ALG GS, ARG–AUT GS, JOR–ARG GS, ARG–CPV R32: **Opta only**
-- Guardian MbM for path matches: not yet wired
+- Guardian: only Austria + Final wired (other live URLs 404 or unknown)
 - ES/AR liveblogs: not yet wired
+- BBC now covers **all 8** ARG path matches
 
-Opta is enough for **high-frequency foul clocks**. Journalist MbM is for
-**discussion intensity** and under-carding language — still sparse outside big matches.
+Opta = dense foul clocks. BBC = UK journalist density path-wide.
 

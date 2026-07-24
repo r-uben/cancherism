@@ -1,9 +1,9 @@
-event_id,match,date,opta_lines,opta_foul_lines,bbc_url,bbc_lines,has_bbc,has_guardian,notes
-760433,ARG-ALG GS,2026-06-17,92,41,,0,0,0,Opta only — need MbM URL
-760456,ARG-AUT GS,2026-06-22,109,50,,0,0,0,Opta only — need MbM URL
-760483,JOR-ARG GS,2026-06-28,98,44,,0,0,0,Opta only — need MbM URL
-760500,ARG-CPV R32,2026-07-03,140,51,,0,0,0,Opta only — need MbM URL
-760509,ARG-EGY R16,2026-07-07,116,50,https://www.bbc.com/sport/football/live/cdr4m2122lgt,123,1,0,BBC live archived
-760513,ARG-SUI QF,2026-07-12,152,59,https://www.bbc.com/sport/football/live/c4gyj35k3n3t,138,1,0,BBC live archived
-760515,ENG-ARG SF,2026-07-15,116,53,https://www.bbc.com/sport/football/live/c77yp11e4r6t,140,1,0,BBC live archived
-760517,ESP-ARG Final,2026-07-19,173,92,https://www.bbc.com/sport/football/live/cgk4ymn3n72t,114,1,0,BBC live archived
+event_id,match,date,opta_lines,opta_foul_lines,bbc_url,bbc_lines,guardian_url,guardian_lines,media_lines,has_bbc,has_guardian,notes
+760433,ARG-ALG GS,2026-06-17,92,41,https://www.bbc.com/sport/football/live/ckg78g6pnyzt,108,,0,108,1,0,BBC live
+760456,ARG-AUT GS,2026-06-22,109,50,https://www.bbc.com/sport/football/live/cze914jw558t,93,https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live,29,122,1,1,BBC+Guardian
+760483,JOR-ARG GS,2026-06-28,98,44,https://www.bbc.com/sport/football/live/c20ye67xgykt,94,,0,94,1,0,BBC live
+760500,ARG-CPV R32,2026-07-03,140,51,https://www.bbc.com/sport/football/live/cvglenkkdlwt,60,,0,60,1,0,BBC live
+760509,ARG-EGY R16,2026-07-07,116,50,https://www.bbc.com/sport/football/live/cdr4m2122lgt,123,,0,123,1,0,BBC live
+760513,ARG-SUI QF,2026-07-12,152,59,https://www.bbc.com/sport/football/live/c4gyj35k3n3t,138,,0,138,1,0,BBC live
+760515,ENG-ARG SF,2026-07-15,116,53,https://www.bbc.com/sport/football/live/c77yp11e4r6t,140,,0,140,1,0,BBC live
+760517,ESP-ARG Final,2026-07-19,173,92,https://www.bbc.com/sport/football/live/cgk4ymn3n72t,114,https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates,37,151,1,1,BBC+Guardian

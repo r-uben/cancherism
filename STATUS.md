@@ -57,11 +57,11 @@ python3 scripts/08_path_minute_narration.py
 
 ## Outstanding
 
-1. Wire Guardian + ES/AR liveblogs for all 8 matches (GS still Opta-only for media)
+1. ES/AR liveblogs; more Guardian URLs (BBC now full path)
 2. Human L3 codes for F01 / F02 29′ (requires video)
 3. Optional Spain path L1 control
 4. Publish write-up
 
 ## Next action
 
-Find/add MbM URLs for ALG, AUT, JOR, CPV; re-run `08_path_minute_narration.py`.
+Optional: ES/AR en vivo; L3 video; publish write-up.

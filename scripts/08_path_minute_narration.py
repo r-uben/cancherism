@@ -36,12 +36,22 @@ OUT.mkdir(parents=True, exist_ok=True)
 
 UA = {"User-Agent": "Mozilla/5.0 (research; cancherism)"}
 
-# Known BBC live pages (extend when found)
+# BBC live text pages (full ARG path — 2026-07-25)
 BBC_LIVES = {
-    "760509": "https://www.bbc.com/sport/football/live/cdr4m2122lgt",  # EGY
-    "760513": "https://www.bbc.com/sport/football/live/c4gyj35k3n3t",  # SUI
-    "760515": "https://www.bbc.com/sport/football/live/c77yp11e4r6t",  # ENG
+    "760433": "https://www.bbc.com/sport/football/live/ckg78g6pnyzt",  # ALG GS
+    "760456": "https://www.bbc.com/sport/football/live/cze914jw558t",  # AUT GS
+    "760483": "https://www.bbc.com/sport/football/live/c20ye67xgykt",  # JOR GS
+    "760500": "https://www.bbc.com/sport/football/live/cvglenkkdlwt",  # CPV R32
+    "760509": "https://www.bbc.com/sport/football/live/cdr4m2122lgt",  # EGY R16
+    "760513": "https://www.bbc.com/sport/football/live/c4gyj35k3n3t",  # SUI QF
+    "760515": "https://www.bbc.com/sport/football/live/c77yp11e4r6t",  # ENG SF
     "760517": "https://www.bbc.com/sport/football/live/cgk4ymn3n72t",  # Final
+}
+
+# Guardian liveblogs (JSON preferred)
+GUARDIAN_LIVES = {
+    "760456": "https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live",
+    "760517": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates",
 }
 
 MATCHES = {
@@ -135,6 +145,75 @@ def parse_opta_commentary(event_id: str) -> list[dict]:
                 **flags,
             }
         )
+    return rows
+
+
+def fetch_guardian(event_id: str, url: str) -> list[dict]:
+    """Guardian MbM via .json endpoint when available."""
+    match, date = MATCHES[event_id]
+    json_url = url if url.endswith(".json") else url.rstrip("/") + ".json"
+    try:
+        req = urllib.request.Request(json_url, headers=UA)
+        with urllib.request.urlopen(req, timeout=40) as r:
+            data = json.loads(r.read().decode("utf-8", "replace"))
+    except Exception as e:
+        print(f"  Guardian fail {event_id}: {e}")
+        return []
+
+    html = data.get("html") or ""
+    (RAW_LB / f"guardian_{event_id}.json").write_text(
+        json.dumps({"url": json_url, "html_len": len(html)}), encoding="utf-8"
+    )
+    from bs4 import BeautifulSoup
+
+    soup = BeautifulSoup(html, "html.parser")
+    rows = []
+    seq = 0
+    for b in soup.select(".block"):
+        title_el = b.select_one("h2")
+        title = title_el.get_text(" ", strip=True) if title_el else ""
+        body = b.get_text("\n", strip=True)
+        body = re.sub(r"Share on Facebook.*", "", body, flags=re.S)
+        text = f"{title}\n{body}".strip()
+        if len(text) < 40:
+            continue
+        mins = []
+        for m in re.finditer(r"(\d{1,3})\s*\+\s*(\d{1,2})", title + " " + body[:80]):
+            mins.append(int(m.group(1)) + int(m.group(2)) / 100.0)
+        for m in re.finditer(
+            r"(?:^|[^\d])(\d{1,3})\s*(?:min(?:ute)?s?|'|′)", title + " " + body[:100], re.I
+        ):
+            v = int(m.group(1))
+            if 0 <= v <= 130:
+                mins.append(float(v))
+        flags = flag_text(text)
+        if not mins and not (
+            flags["flag_foul"] or flags["flag_card"] or flags["flag_severity"]
+        ):
+            if not re.search(r"Argentina|foul|yellow|card|Messi", text, re.I):
+                continue
+            mins = [None]
+        if not mins:
+            mins = [None]
+        for mn in mins:
+            rows.append(
+                {
+                    "narration_id": f"guardian_{event_id}_{seq}",
+                    "source_type": "media_mbm",
+                    "source": "guardian",
+                    "country_family": "UK",
+                    "event_id": event_id,
+                    "match": match,
+                    "date": date,
+                    "seq": seq,
+                    "minute_raw": "" if mn is None else str(mn),
+                    "minute_num": mn if mn is not None else "",
+                    "text": text[:500],
+                    **flags,
+                }
+            )
+            seq += 1
+    print(f"  Guardian {event_id}: {len(rows)} lines")
     return rows
 
 
@@ -358,10 +437,13 @@ def main() -> None:
         opta_all.extend(rows)
     write_csv(OUT / "hf_narration_opta.csv", opta_all)
 
-    print("Fetching BBC lives…")
+    print("Fetching BBC lives (full path)…")
     media_all = []
     for eid, url in BBC_LIVES.items():
         media_all.extend(fetch_bbc(eid, url))
+    print("Fetching Guardian lives…")
+    for eid, url in GUARDIAN_LIVES.items():
+        media_all.extend(fetch_guardian(eid, url))
     write_csv(OUT / "hf_narration_media.csv", media_all)
 
     # stacked long
@@ -387,13 +469,24 @@ def main() -> None:
                     if r["event_id"] == eid and r["flag_foul"] == 1
                 ),
                 "bbc_url": BBC_LIVES.get(eid, ""),
-                "bbc_lines": sum(1 for r in media_all if r["event_id"] == eid),
+                "bbc_lines": sum(
+                    1
+                    for r in media_all
+                    if r["event_id"] == eid and r["source"] == "bbc"
+                ),
+                "guardian_url": GUARDIAN_LIVES.get(eid, ""),
+                "guardian_lines": sum(
+                    1
+                    for r in media_all
+                    if r["event_id"] == eid and r["source"] == "guardian"
+                ),
+                "media_lines": sum(1 for r in media_all if r["event_id"] == eid),
                 "has_bbc": int(eid in BBC_LIVES),
-                "has_guardian": 0,
+                "has_guardian": int(eid in GUARDIAN_LIVES),
                 "notes": (
-                    "BBC live archived"
-                    if eid in BBC_LIVES
-                    else "Opta only — need MbM URL"
+                    "BBC+Guardian"
+                    if eid in BBC_LIVES and eid in GUARDIAN_LIVES
+                    else ("BBC live" if eid in BBC_LIVES else "Opta only")
                 ),
             }
         )
@@ -449,27 +542,28 @@ def main() -> None:
         "",
         "## Inventory",
         "",
-        "| Match | Opta lines | BBC |",
-        "|-------|----------:|:---:|",
+        "| Match | Opta lines | BBC | Guardian |",
+        "|-------|----------:|:---:|:--------:|",
     ]
     for r in inv:
         lines.append(
-            f"| {r['match']} | {r['opta_lines']} | {'yes' if r['has_bbc'] else '**no**'} |"
+            f"| {r['match']} | {r['opta_lines']} | "
+            f"{'yes' if r['has_bbc'] else '**no**'} | "
+            f"{'yes' if r['has_guardian'] else 'no'} |"
         )
     lines += [
         "",
         f"- Opta total lines: **{len(opta_all)}**",
-        f"- BBC/media lines: **{len(media_all)}**",
+        f"- Media (BBC+Guardian) lines: **{len(media_all)}**",
         f"- ARG uncarded fouls with nearby media text: **{arg_unc_media}/{len(arg_unc)}**",
         "",
-        "## Gaps (need URLs)",
+        "## Gaps",
         "",
-        "- ARG–ALG GS, ARG–AUT GS, JOR–ARG GS, ARG–CPV R32: **Opta only**",
-        "- Guardian MbM for path matches: not yet wired",
+        "- Guardian: only Austria + Final wired (other live URLs 404 or unknown)",
         "- ES/AR liveblogs: not yet wired",
+        "- BBC now covers **all 8** ARG path matches",
         "",
-        "Opta is enough for **high-frequency foul clocks**. Journalist MbM is for",
-        "**discussion intensity** and under-carding language — still sparse outside big matches.",
+        "Opta = dense foul clocks. BBC = UK journalist density path-wide.",
         "",
     ]
     note.write_text("\n".join(lines) + "\n", encoding="utf-8")

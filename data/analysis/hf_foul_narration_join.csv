@@ -1,73 +1,101 @@
 foul_id,event_id,match,minute_raw,minute_num,foul_team,is_argentina,foul_player,carded,n_opta_foul_lines_pm1,opta_snip,n_media_lines_pm2,media_sources,media_snip,has_media_narration
-760433_49535632,760433,ARG-ALG GS,1',1.0,Argentina,1,Enzo Fernández,0,2,Foul by Enzo Fernández (Argentina). || Anis Hadj Moussa (Algeria) wins a free kick in the defensive half.,0,,,0
-760433_49535793,760433,ARG-ALG GS,10',10.0,Argentina,1,Lautaro Martínez,0,4,Aïssa Mandi (Algeria) wins a free kick in the defensive half. || Foul by Lautaro Martínez (Argentina). || Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.,0,,,0
-760433_49535801,760433,ARG-ALG GS,11',11.0,Argentina,1,Gonzalo Montiel,0,4,Aïssa Mandi (Algeria) wins a free kick in the defensive half. || Foul by Lautaro Martínez (Argentina). || Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.,0,,,0
-760433_49536125,760433,ARG-ALG GS,31',31.0,Argentina,1,Lionel Messi,0,2,Foul by Lionel Messi (Argentina). || Aïssa Mandi (Algeria) wins a free kick in the defensive half.,0,,,0
+760433_49535632,760433,ARG-ALG GS,1',1.0,Argentina,1,Enzo Fernández,0,2,Foul by Enzo Fernández (Argentina). || Anis Hadj Moussa (Algeria) wins a free kick in the defensive half.,18,bbc,"[bbc] 1,000 tomatoes for winning the World Cup?! 00:00:53, play video || [bbc] We gave Alan Shearer a disposable camera for the World Cup. 00:00:43, play video || [bbc] Will Argentina face punishment for World Cup final chaos? 00:00:50, play video",1
+760433_49535793,760433,ARG-ALG GS,10',10.0,Argentina,1,Lautaro Martínez,0,4,Aïssa Mandi (Algeria) wins a free kick in the defensive half. || Foul by Lautaro Martínez (Argentina). || Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.,1,bbc,"[bbc] His goal arrived 12 minutes after an earlier effort had been disallowed during a breathless start, w",1
+760433_49535801,760433,ARG-ALG GS,11',11.0,Argentina,1,Gonzalo Montiel,0,4,Aïssa Mandi (Algeria) wins a free kick in the defensive half. || Foul by Lautaro Martínez (Argentina). || Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.,1,bbc,"[bbc] His goal arrived 12 minutes after an earlier effort had been disallowed during a breathless start, w",1
+760433_49536125,760433,ARG-ALG GS,31',31.0,Argentina,1,Lionel Messi,0,2,Foul by Lionel Messi (Argentina). || Aïssa Mandi (Algeria) wins a free kick in the defensive half.,1,bbc,"[bbc] But on a night when he became the first player to appear in six World Cups, Messi was lucky to escap",1
 760433_49536166,760433,ARG-ALG GS,34',34.0,Algeria,0,Amine Gouiri,0,2,Alexis Mac Allister (Argentina) wins a free kick in the defensive half. || Foul by Amine Gouiri (Algeria).,0,,,0
 760433_49536190,760433,ARG-ALG GS,36',36.0,Algeria,0,Rafik Belghali,0,5,Foul by Rafik Belghali (Algeria). || Thiago Almada (Argentina) wins a free kick in the attacking half. || Attempt missed. Lionel Messi (Argentina) left footed shot from more than 35 yards misses to the left from a direct free ,0,,,0
 760433_49536204,760433,ARG-ALG GS,37',37.0,Argentina,1,Facundo Medina,0,5,Foul by Rafik Belghali (Algeria). || Thiago Almada (Argentina) wins a free kick in the attacking half. || Attempt missed. Lionel Messi (Argentina) left footed shot from more than 35 yards misses to the left from a direct free ,0,,,0
 760433_49536289,760433,ARG-ALG GS,43',43.0,Argentina,1,Alexis Mac Allister,0,2,Foul by Alexis Mac Allister (Argentina). || Ibrahim Maza (Algeria) wins a free kick on the left wing.,0,,,0
-760433_49536330,760433,ARG-ALG GS,45',45.0,Argentina,1,Lautaro Martínez,0,4,Foul by Lautaro Martínez (Argentina). || Ramy Bensebaini (Algeria) wins a free kick in the defensive half. || Foul by Rafik Belghali (Algeria).,0,,,0
-760433_49536402,760433,ARG-ALG GS,45'+4',45.04,Algeria,0,Rafik Belghali,0,4,Foul by Lautaro Martínez (Argentina). || Ramy Bensebaini (Algeria) wins a free kick in the defensive half. || Foul by Rafik Belghali (Algeria).,0,,,0
-760433_49536473,760433,ARG-ALG GS,48',48.0,Algeria,0,Hicham Boudaoui,0,2,Lionel Messi (Argentina) wins a free kick in the defensive half. || Foul by Hicham Boudaoui (Algeria).,0,,,0
+760433_49536330,760433,ARG-ALG GS,45',45.0,Argentina,1,Lautaro Martínez,0,4,Foul by Lautaro Martínez (Argentina). || Ramy Bensebaini (Algeria) wins a free kick in the defensive half. || Foul by Rafik Belghali (Algeria).,2,bbc,"[bbc] , substituted for N. Molina at 46 minutes || [bbc] , substituted for N. Molina at 46 minutes",1
+760433_49536402,760433,ARG-ALG GS,45'+4',45.04,Algeria,0,Rafik Belghali,0,4,Foul by Lautaro Martínez (Argentina). || Ramy Bensebaini (Algeria) wins a free kick in the defensive half. || Foul by Rafik Belghali (Algeria).,2,bbc,"[bbc] , substituted for N. Molina at 46 minutes || [bbc] , substituted for N. Molina at 46 minutes",1
+760433_49536473,760433,ARG-ALG GS,48',48.0,Algeria,0,Hicham Boudaoui,0,2,Lionel Messi (Argentina) wins a free kick in the defensive half. || Foul by Hicham Boudaoui (Algeria).,2,bbc,"[bbc] , substituted for N. Molina at 46 minutes || [bbc] , substituted for N. Molina at 46 minutes",1
 760433_49536536,760433,ARG-ALG GS,51',51.0,Argentina,1,Cristian Romero,0,2,Foul by Cristian Romero (Argentina). || Ibrahim Maza (Algeria) wins a free kick in the defensive half.,0,,,0
-760433_49536592,760433,ARG-ALG GS,55',55.0,Argentina,1,Cristian Romero,0,2,Amine Gouiri (Algeria) wins a free kick on the left wing. || Foul by Cristian Romero (Argentina).,0,,,0
-760433_49536725,760433,ARG-ALG GS,63',63.0,Algeria,0,Hicham Boudaoui,0,4,Foul by Hicham Boudaoui (Algeria). || Enzo Fernández (Argentina) wins a free kick in the attacking half. || Cristian Romero (Argentina) wins a free kick in the attacking half.,0,,,0
-760433_49536737,760433,ARG-ALG GS,64',64.0,Algeria,0,Mohammed Amoura,0,4,Foul by Hicham Boudaoui (Algeria). || Enzo Fernández (Argentina) wins a free kick in the attacking half. || Cristian Romero (Argentina) wins a free kick in the attacking half.,0,,,0
-760433_49536901,760433,ARG-ALG GS,75',75.0,Algeria,0,Farès Chaïbi,0,2,Foul by Farès Chaïbi (Algeria). || Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,0,,,0
-760433_49536985,760433,ARG-ALG GS,83',83.0,Argentina,1,Facundo Medina,0,4,Foul by Facundo Medina (Argentina). || Riyad Mahrez (Algeria) wins a free kick on the right wing. || Foul by Julián Alvarez (Argentina).,0,,,0
-760433_49536994,760433,ARG-ALG GS,83',83.0,Argentina,1,Julián Alvarez,0,4,Foul by Facundo Medina (Argentina). || Riyad Mahrez (Algeria) wins a free kick on the right wing. || Foul by Julián Alvarez (Argentina).,0,,,0
+760433_49536592,760433,ARG-ALG GS,55',55.0,Argentina,1,Cristian Romero,0,2,Amine Gouiri (Algeria) wins a free kick on the left wing. || Foul by Cristian Romero (Argentina).,4,bbc,"[bbc] , substituted for N. González at 55 minutes || [bbc] , substituted for J. Alvarez at 55 minutes || [bbc] , substituted for N. González at 55 minutes",1
+760433_49536725,760433,ARG-ALG GS,63',63.0,Algeria,0,Hicham Boudaoui,0,4,Foul by Hicham Boudaoui (Algeria). || Enzo Fernández (Argentina) wins a free kick in the attacking half. || Cristian Romero (Argentina) wins a free kick in the attacking half.,6,bbc,"[bbc] , substituted for H. Aouar at 64 minutes || [bbc] , substituted for M. Amoura at 64 minutes || [bbc] , substituted for R. Mahrez at 64 minutes",1
+760433_49536737,760433,ARG-ALG GS,64',64.0,Algeria,0,Mohammed Amoura,0,4,Foul by Hicham Boudaoui (Algeria). || Enzo Fernández (Argentina) wins a free kick in the attacking half. || Cristian Romero (Argentina) wins a free kick in the attacking half.,6,bbc,"[bbc] , substituted for H. Aouar at 64 minutes || [bbc] , substituted for M. Amoura at 64 minutes || [bbc] , substituted for R. Mahrez at 64 minutes",1
+760433_49536901,760433,ARG-ALG GS,75',75.0,Algeria,0,Farès Chaïbi,0,2,Foul by Farès Chaïbi (Algeria). || Rodrigo De Paul (Argentina) wins a free kick in the defensive half.,2,bbc,"[bbc] Goal 17 minutes, Goal 60 minutes, Goal 76 minutes || [bbc] R. De Paul (17'), N. González (76')",1
+760433_49536985,760433,ARG-ALG GS,83',83.0,Argentina,1,Facundo Medina,0,4,Foul by Facundo Medina (Argentina). || Riyad Mahrez (Algeria) wins a free kick on the right wing. || Foul by Julián Alvarez (Argentina).,4,bbc,"[bbc] , substituted for A. Boulbina at 81 minutes || [bbc] , substituted for R. Zerrouki at 82 minutes || [bbc] , substituted for A. Boulbina at 81 minutes",1
+760433_49536994,760433,ARG-ALG GS,83',83.0,Argentina,1,Julián Alvarez,0,4,Foul by Facundo Medina (Argentina). || Riyad Mahrez (Algeria) wins a free kick on the right wing. || Foul by Julián Alvarez (Argentina).,4,bbc,"[bbc] , substituted for A. Boulbina at 81 minutes || [bbc] , substituted for R. Zerrouki at 82 minutes || [bbc] , substituted for A. Boulbina at 81 minutes",1
 760433_49537027,760433,ARG-ALG GS,85',85.0,Argentina,1,Alexis Mac Allister,0,2,Houssem Aouar (Algeria) wins a free kick in the attacking half. || Foul by Alexis Mac Allister (Argentina).,0,,,0
 760433_49537245,760433,ARG-ALG GS,90'+5',90.05,Argentina,1,Nico Paz,0,2,Ramy Bensebaini (Algeria) wins a free kick in the attacking half. || Foul by Nico Paz (Argentina).,0,,,0
-760456_49582963,760456,ARG-AUT GS,4',4.0,Austria,0,,0,2,Penalty conceded by Stefan Posch (Austria) after a foul in the penalty area. || Penalty Argentina. Lautaro Martínez draws a foul in the penalty area.,0,,,0
+760456_49582963,760456,ARG-AUT GS,4',4.0,Austria,0,,0,2,Penalty conceded by Stefan Posch (Austria) after a foul in the penalty area. || Penalty Argentina. Lautaro Martínez draws a foul in the penalty area.,2,bbc,"[bbc] Argentina, with six points, now join Mexico, the United States and Germany in having qualified for t || [bbc] Argentina end their group phase with a game against Jordan, while Austria take on Algeria with both ",1
 760456_49583013,760456,ARG-AUT GS,10',10.0,Austria,0,Romano Schmid,0,4,Foul by Romano Schmid (Austria). || Facundo Medina (Argentina) wins a free kick in the defensive half. || Michael Gregoritsch (Austria) wins a free kick in the attacking half.,0,,,0
 760456_49583016,760456,ARG-AUT GS,11',11.0,Argentina,1,Lisandro Martínez,0,4,Foul by Romano Schmid (Austria). || Facundo Medina (Argentina) wins a free kick in the defensive half. || Michael Gregoritsch (Austria) wins a free kick in the attacking half.,0,,,0
 760456_49583051,760456,ARG-AUT GS,14',14.0,Argentina,1,Alexis Mac Allister,0,2,Foul by Alexis Mac Allister (Argentina). || Paul Wanner (Austria) wins a free kick on the left wing.,0,,,0
-760456_49583113,760456,ARG-AUT GS,18',18.0,Austria,0,Paul Wanner,0,2,Foul by Paul Wanner (Austria). || Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,0,,,0
-760456_49583185,760456,ARG-AUT GS,21',21.0,Argentina,1,Lautaro Martínez,0,2,Konrad Laimer (Austria) wins a free kick in the defensive half. || Foul by Lautaro Martínez (Argentina).,0,,,0
+760456_49583113,760456,ARG-AUT GS,18',18.0,Austria,0,Paul Wanner,0,2,Foul by Paul Wanner (Austria). || Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,19,bbc,[bbc] published at 20:57 BST 22 June || [bbc] published at 20:54 BST 22 June || [bbc] published at 20:50 BST 22 June,1
+760456_49583185,760456,ARG-AUT GS,21',21.0,Argentina,1,Lautaro Martínez,0,2,Konrad Laimer (Austria) wins a free kick in the defensive half. || Foul by Lautaro Martínez (Argentina).,20,bbc,[bbc] published at 21:00 BST 22 June || [bbc] published at 20:57 BST 22 June || [bbc] published at 20:54 BST 22 June,1
 760456_49583319,760456,ARG-AUT GS,32',32.0,Argentina,1,Facundo Medina,0,2,Romano Schmid (Austria) wins a free kick in the defensive half. || Foul by Facundo Medina (Argentina).,0,,,0
 760456_49583392,760456,ARG-AUT GS,35',35.0,Argentina,1,Nahuel Molina,0,2,Marcel Sabitzer (Austria) wins a free kick in the attacking half. || Foul by Nahuel Molina (Argentina).,0,,,0
 760456_49583480,760456,ARG-AUT GS,43',43.0,Austria,0,Kevin Danso,0,4,Foul by Kevin Danso (Austria). || Lionel Messi (Argentina) wins a free kick in the defensive half. || Romano Schmid (Austria) wins a free kick in the attacking half.,0,,,0
 760456_49583488,760456,ARG-AUT GS,44',44.0,Argentina,1,Alexis Mac Allister,0,6,Foul by Kevin Danso (Austria). || Lionel Messi (Argentina) wins a free kick in the defensive half. || Romano Schmid (Austria) wins a free kick in the attacking half.,0,,,0
 760456_49583505,760456,ARG-AUT GS,45',45.0,Argentina,1,Enzo Fernández,0,6,Romano Schmid (Austria) wins a free kick in the attacking half. || Foul by Alexis Mac Allister (Argentina). || Romano Schmid (Austria) wins a free kick in the attacking half.,0,,,0
 760456_49583538,760456,ARG-AUT GS,45'+2',45.02,Argentina,1,Lautaro Martínez,0,4,Romano Schmid (Austria) wins a free kick in the attacking half. || Foul by Enzo Fernández (Argentina). || Konrad Laimer (Austria) wins a free kick on the left wing.,0,,,0
-760456_49583724,760456,ARG-AUT GS,48',48.0,Austria,0,Xaver Schlager,0,2,Foul by Xaver Schlager (Austria). || Lionel Messi (Argentina) wins a free kick in the defensive half.,0,,,0
-760456_49583796,760456,ARG-AUT GS,52',52.0,Austria,0,Xaver Schlager,0,4,Foul by Xaver Schlager (Austria). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Romano Schmid (Austria) wins a free kick in the defensive half.,0,,,0
-760456_49583806,760456,ARG-AUT GS,53',53.0,Argentina,1,Enzo Fernández,0,6,Foul by Xaver Schlager (Austria). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Romano Schmid (Austria) wins a free kick in the defensive half.,0,,,0
-760456_49583823,760456,ARG-AUT GS,54',54.0,Argentina,1,Cristian Romero,0,4,Romano Schmid (Austria) wins a free kick in the defensive half. || Foul by Enzo Fernández (Argentina). || Konrad Laimer (Austria) wins a free kick in the attacking half.,0,,,0
-760456_49583862,760456,ARG-AUT GS,57',57.0,Austria,0,Paul Wanner,0,2,Foul by Paul Wanner (Austria). || Lautaro Martínez (Argentina) wins a free kick in the defensive half.,0,,,0
-760456_49584162,760456,ARG-AUT GS,75',75.0,Austria,0,Xaver Schlager,1,4,Foul by Xaver Schlager (Austria). || Enzo Fernández (Argentina) wins a free kick in the defensive half. || Foul by Konrad Laimer (Austria).,0,,,0
-760456_49584173,760456,ARG-AUT GS,76',76.0,Austria,0,Konrad Laimer,1,4,Foul by Xaver Schlager (Austria). || Enzo Fernández (Argentina) wins a free kick in the defensive half. || Foul by Konrad Laimer (Austria).,0,,,0
-760456_49584379,760456,ARG-AUT GS,88',88.0,Austria,0,Patrick Wimmer,0,4,Foul by Patrick Wimmer (Austria). || Nicolás Tagliafico (Argentina) wins a free kick in the defensive half. || Patrick Wimmer (Austria) wins a free kick on the left wing.,0,,,0
-760456_49584399,760456,ARG-AUT GS,89',89.0,Argentina,1,Nicolás Otamendi,1,4,Foul by Patrick Wimmer (Austria). || Nicolás Tagliafico (Argentina) wins a free kick in the defensive half. || Patrick Wimmer (Austria) wins a free kick on the left wing.,0,,,0
-760456_49584427,760456,ARG-AUT GS,90'+1',90.01,Austria,0,Patrick Wimmer,0,8,Foul by Patrick Wimmer (Austria). || Nico González (Argentina) wins a free kick on the left wing. || Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,0,,,0
-760456_49584444,760456,ARG-AUT GS,90'+2',90.02,Argentina,1,Leandro Paredes,1,8,Foul by Patrick Wimmer (Austria). || Nico González (Argentina) wins a free kick on the left wing. || Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,0,,,0
-760456_49584501,760456,ARG-AUT GS,90'+7',90.07,Austria,0,Patrick Wimmer,0,8,Foul by Patrick Wimmer (Austria). || Nico González (Argentina) wins a free kick on the left wing. || Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,0,,,0
-760456_49584502,760456,ARG-AUT GS,90'+7',90.07,Austria,0,,0,8,Foul by Patrick Wimmer (Austria). || Nico González (Argentina) wins a free kick on the left wing. || Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,0,,,0
+760456_49583724,760456,ARG-AUT GS,48',48.0,Austria,0,Xaver Schlager,0,2,Foul by Xaver Schlager (Austria). || Lionel Messi (Argentina) wins a free kick in the defensive half.,1,bbc,"[bbc] After only eight minutes, Argentina were awarded a penalty following Stefan Posch's foul on Lautaro ",1
+760456_49583796,760456,ARG-AUT GS,52',52.0,Austria,0,Xaver Schlager,0,4,Foul by Xaver Schlager (Austria). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Romano Schmid (Austria) wins a free kick in the defensive half.,1,bbc,"[bbc] After only eight minutes, Argentina were awarded a penalty following Stefan Posch's foul on Lautaro ",1
+760456_49583806,760456,ARG-AUT GS,53',53.0,Argentina,1,Enzo Fernández,0,6,Foul by Xaver Schlager (Austria). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Romano Schmid (Austria) wins a free kick in the defensive half.,1,guardian,"[guardian] 8.19pm
+CEST
+20:19
+55 mins:
+Yet another
+Argentina
+foul, yet another opportunity for the referee to gi",1
+760456_49583823,760456,ARG-AUT GS,54',54.0,Argentina,1,Cristian Romero,0,4,Romano Schmid (Austria) wins a free kick in the defensive half. || Foul by Enzo Fernández (Argentina). || Konrad Laimer (Austria) wins a free kick in the attacking half.,1,guardian,"[guardian] 8.19pm
+CEST
+20:19
+55 mins:
+Yet another
+Argentina
+foul, yet another opportunity for the referee to gi",1
+760456_49583862,760456,ARG-AUT GS,57',57.0,Austria,0,Paul Wanner,0,2,Foul by Paul Wanner (Austria). || Lautaro Martínez (Argentina) wins a free kick in the defensive half.,5,bbc|guardian,"[bbc] , substituted for N. Otamendi at 57 minutes || [bbc] , substituted for N. Otamendi at 57 minutes || [guardian] 8.24pm
+CEST
+20:24
+59 mins:
+The next goal determines the outcome of this game, without a doubt (again",1
+760456_49584162,760456,ARG-AUT GS,75',75.0,Austria,0,Xaver Schlager,1,4,Foul by Xaver Schlager (Austria). || Enzo Fernández (Argentina) wins a free kick in the defensive half. || Foul by Konrad Laimer (Austria).,4,bbc|guardian,"[bbc] After only eight minutes, Argentina were awarded a penalty following Stefan Posch's foul on Lautaro  || [guardian] 8.41pm
+CEST
+20:41
+77 mins:
+There’s a bit of a scuffle between Facundo Medina and Konrad Laimer, who  || [guardian] 8.39pm
+CEST
+20:39
+75 mins:
+What’s the opposite of a classic? Whatever it is, this game fits into tha",1
+760456_49584173,760456,ARG-AUT GS,76',76.0,Austria,0,Konrad Laimer,1,4,Foul by Xaver Schlager (Austria). || Enzo Fernández (Argentina) wins a free kick in the defensive half. || Foul by Konrad Laimer (Austria).,5,bbc|guardian,"[bbc] , substituted for P. Wimmer at 78 minutes || [bbc] , substituted for P. Wimmer at 78 minutes || [guardian] 8.42pm
+CEST
+20:42
+78 mins:
+I know there are a lot of Messi devotees out there, but the neutrals are ",1
+760456_49584379,760456,ARG-AUT GS,88',88.0,Austria,0,Patrick Wimmer,0,4,Foul by Patrick Wimmer (Austria). || Nicolás Tagliafico (Argentina) wins a free kick in the defensive half. || Patrick Wimmer (Austria) wins a free kick on the left wing.,8,bbc|guardian,"[bbc] Goal 38 minutes, Goal 90 minutes plus 5 || [bbc] He is enjoying it and this is the best thing. I have seen him play World Cups where he couldn't last || [bbc] , Yellow Card at 90 minutes plus 2",1
+760456_49584399,760456,ARG-AUT GS,89',89.0,Argentina,1,Nicolás Otamendi,1,4,Foul by Patrick Wimmer (Austria). || Nicolás Tagliafico (Argentina) wins a free kick in the defensive half. || Patrick Wimmer (Austria) wins a free kick on the left wing.,10,bbc|guardian,"[bbc] Goal 38 minutes, Goal 90 minutes plus 5 || [bbc] He is enjoying it and this is the best thing. I have seen him play World Cups where he couldn't last || [bbc] , Yellow Card at 90 minutes plus 2",1
+760456_49584427,760456,ARG-AUT GS,90'+1',90.01,Austria,0,Patrick Wimmer,0,8,Foul by Patrick Wimmer (Austria). || Nico González (Argentina) wins a free kick on the left wing. || Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,9,bbc|guardian,"[bbc] Goal 38 minutes, Goal 90 minutes plus 5 || [bbc] He is enjoying it and this is the best thing. I have seen him play World Cups where he couldn't last || [bbc] , Yellow Card at 90 minutes plus 2",1
+760456_49584444,760456,ARG-AUT GS,90'+2',90.02,Argentina,1,Leandro Paredes,1,8,Foul by Patrick Wimmer (Austria). || Nico González (Argentina) wins a free kick on the left wing. || Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,9,bbc|guardian,"[bbc] Goal 38 minutes, Goal 90 minutes plus 5 || [bbc] He is enjoying it and this is the best thing. I have seen him play World Cups where he couldn't last || [bbc] , Yellow Card at 90 minutes plus 2",1
+760456_49584501,760456,ARG-AUT GS,90'+7',90.07,Austria,0,Patrick Wimmer,0,8,Foul by Patrick Wimmer (Austria). || Nico González (Argentina) wins a free kick on the left wing. || Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,9,bbc|guardian,"[bbc] Goal 38 minutes, Goal 90 minutes plus 5 || [bbc] He is enjoying it and this is the best thing. I have seen him play World Cups where he couldn't last || [bbc] , Yellow Card at 90 minutes plus 2",1
+760456_49584502,760456,ARG-AUT GS,90'+7',90.07,Austria,0,,0,8,Foul by Patrick Wimmer (Austria). || Nico González (Argentina) wins a free kick on the left wing. || Carney Chukwuemeka (Austria) wins a free kick in the attacking half.,9,bbc|guardian,"[bbc] Goal 38 minutes, Goal 90 minutes plus 5 || [bbc] He is enjoying it and this is the best thing. I have seen him play World Cups where he couldn't last || [bbc] , Yellow Card at 90 minutes plus 2",1
 760483_49645164,760483,JOR-ARG GS,1',1.0,Argentina,1,Giuliano Simeone,0,2,Foul by Giuliano Simeone (Argentina). || Ali Olwan (Jordan) wins a free kick on the left wing.,0,,,0
-760483_49645753,760483,JOR-ARG GS,17',17.0,Jordan,0,Mohannad Abu Taha,1,3,Foul by Mohannad Abu Taha (Jordan). || Giovani Lo Celso (Argentina) wins a free kick in the attacking half. || Mohannad Abu Taha (Jordan) is shown the yellow card for a bad foul.,0,,,0
+760483_49645753,760483,JOR-ARG GS,17',17.0,Jordan,0,Mohannad Abu Taha,1,3,Foul by Mohannad Abu Taha (Jordan). || Giovani Lo Celso (Argentina) wins a free kick in the attacking half. || Mohannad Abu Taha (Jordan) is shown the yellow card for a bad foul.,1,bbc,[bbc] England will play DR Congo on Wednesday at 17:00 BST in Atlanta.,1
 760483_49646031,760483,JOR-ARG GS,28',28.0,Jordan,0,,0,2,Penalty conceded by Nizar Al Rashdan (Jordan) after a foul in the penalty area. || Penalty Argentina. Marcos Senesi draws a foul in the penalty area.,0,,,0
-760483_49646087,760483,JOR-ARG GS,32',32.0,Argentina,1,Giovani Lo Celso,0,4,Ali Olwan (Jordan) wins a free kick on the right wing. || Foul by Giovani Lo Celso (Argentina). || Odeh Fakhoury (Jordan) wins a free kick in the attacking half.,0,,,0
+760483_49646087,760483,JOR-ARG GS,32',32.0,Argentina,1,Giovani Lo Celso,0,4,Ali Olwan (Jordan) wins a free kick on the right wing. || Foul by Giovani Lo Celso (Argentina). || Odeh Fakhoury (Jordan) wins a free kick in the attacking half.,3,bbc,"[bbc] Lo Celso opens scoring with free-kick, Martinez doubles lead from spot before Al Tamari responds || [bbc] Giovani lo Celso free-kick puts Argentina in front in 19th minute || [bbc] Earlier, former Tottenham midfielder Giovani lo Celso had opened the scoring for a much-changed Arge",1
 760483_49646100,760483,JOR-ARG GS,33',33.0,Argentina,1,Exequiel Palacios,0,6,Ali Olwan (Jordan) wins a free kick on the right wing. || Foul by Giovani Lo Celso (Argentina). || Odeh Fakhoury (Jordan) wins a free kick in the attacking half.,0,,,0
 760483_49646135,760483,JOR-ARG GS,34',34.0,Argentina,1,Nico Paz,0,4,Odeh Fakhoury (Jordan) wins a free kick in the attacking half. || Foul by Exequiel Palacios (Argentina). || Nizar Al Rashdan (Jordan) wins a free kick in the defensive half.,0,,,0
 760483_49646409,760483,JOR-ARG GS,41',41.0,Jordan,0,Yazan Al Arab,0,4,Foul by Yazan Al Arab (Jordan). || Exequiel Palacios (Argentina) wins a free kick in the defensive half. || Ali Azaizeh (Jordan) wins a free kick in the defensive half.,0,,,0
 760483_49646454,760483,JOR-ARG GS,42',42.0,Argentina,1,Lautaro Martínez,0,4,Foul by Yazan Al Arab (Jordan). || Exequiel Palacios (Argentina) wins a free kick in the defensive half. || Ali Azaizeh (Jordan) wins a free kick in the defensive half.,0,,,0
-760483_49646614,760483,JOR-ARG GS,45'+2',45.02,Jordan,0,Odeh Fakhoury,0,4,Foul by Odeh Fakhoury (Jordan). || Marcos Senesi (Argentina) wins a free kick in the defensive half. || Foul by Yazan Al Arab (Jordan).,0,,,0
-760483_49646644,760483,JOR-ARG GS,45'+3',45.03,Jordan,0,Yazan Al Arab,0,4,Foul by Odeh Fakhoury (Jordan). || Marcos Senesi (Argentina) wins a free kick in the defensive half. || Foul by Yazan Al Arab (Jordan).,0,,,0
-760483_49646646,760483,JOR-ARG GS,45'+3',45.03,Jordan,0,,0,4,Foul by Odeh Fakhoury (Jordan). || Marcos Senesi (Argentina) wins a free kick in the defensive half. || Foul by Yazan Al Arab (Jordan).,0,,,0
+760483_49646614,760483,JOR-ARG GS,45'+2',45.02,Jordan,0,Odeh Fakhoury,0,4,Foul by Odeh Fakhoury (Jordan). || Marcos Senesi (Argentina) wins a free kick in the defensive half. || Foul by Yazan Al Arab (Jordan).,4,bbc,"[bbc] , substituted for Mousa Al Tamari at 46 minutes || [bbc] , substituted for Mahmoud Al Mardi at 46 minutes || [bbc] , substituted for Mousa Al Tamari at 46 minutes",1
+760483_49646644,760483,JOR-ARG GS,45'+3',45.03,Jordan,0,Yazan Al Arab,0,4,Foul by Odeh Fakhoury (Jordan). || Marcos Senesi (Argentina) wins a free kick in the defensive half. || Foul by Yazan Al Arab (Jordan).,4,bbc,"[bbc] , substituted for Mousa Al Tamari at 46 minutes || [bbc] , substituted for Mahmoud Al Mardi at 46 minutes || [bbc] , substituted for Mousa Al Tamari at 46 minutes",1
+760483_49646646,760483,JOR-ARG GS,45'+3',45.03,Jordan,0,,0,4,Foul by Odeh Fakhoury (Jordan). || Marcos Senesi (Argentina) wins a free kick in the defensive half. || Foul by Yazan Al Arab (Jordan).,4,bbc,"[bbc] , substituted for Mousa Al Tamari at 46 minutes || [bbc] , substituted for Mahmoud Al Mardi at 46 minutes || [bbc] , substituted for Mousa Al Tamari at 46 minutes",1
 760483_49646875,760483,JOR-ARG GS,49',49.0,Argentina,1,Nicolás Tagliafico,0,4,Mousa Al Tamari (Jordan) wins a free kick in the defensive half. || Foul by Nicolás Tagliafico (Argentina). || Foul by Ali Olwan (Jordan).,0,,,0
 760483_49646888,760483,JOR-ARG GS,49',49.0,Jordan,0,Ali Olwan,0,4,Mousa Al Tamari (Jordan) wins a free kick in the defensive half. || Foul by Nicolás Tagliafico (Argentina). || Foul by Ali Olwan (Jordan).,0,,,0
 760483_49647364,760483,JOR-ARG GS,64',64.0,Jordan,0,Yazan Al Arab,1,4,Foul by Yazan Al Arab (Jordan). || Alexis Mac Allister (Argentina) wins a free kick in the attacking half. || Yazan Al Arab (Jordan) is shown the yellow card for a bad foul.,0,,,0
 760483_49647445,760483,JOR-ARG GS,67',67.0,Jordan,0,Mahmoud Al Mardi,0,2,Foul by Mahmoud Al Mardi (Jordan). || Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,0,,,0
-760483_49647666,760483,JOR-ARG GS,75',75.0,Argentina,1,Nicolás Otamendi,0,2,Mahmoud Al Mardi (Jordan) wins a free kick on the left wing. || Foul by Nicolás Otamendi (Argentina).,0,,,0
+760483_49647666,760483,JOR-ARG GS,75',75.0,Argentina,1,Nicolás Otamendi,0,2,Mahmoud Al Mardi (Jordan) wins a free kick on the left wing. || Foul by Nicolás Otamendi (Argentina).,2,bbc,"[bbc] , substituted for Amer Jamous at 76 minutes || [bbc] , substituted for Amer Jamous at 76 minutes",1
 760483_49647773,760483,JOR-ARG GS,79',79.0,Jordan,0,Amer Jamous,0,3,"Foul by Amer Jamous (Jordan). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Goal! Jordan 1, Argentina 3. Lionel Messi (Argentina) from a free kick with a left footed shot to the bottom left corner",0,,,0
 760483_49647931,760483,JOR-ARG GS,85',85.0,Jordan,0,Ehsan Haddad,0,2,Foul by Ehsan Haddad (Jordan). || Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,0,,,0
-760483_49648053,760483,JOR-ARG GS,88',88.0,Jordan,0,Husam Abu Dahab,0,2,Foul by Husam Abu Dahab (Jordan). || Valentín Barco (Argentina) wins a free kick on the right wing.,0,,,0
-760483_49648233,760483,JOR-ARG GS,90'+4',90.04,Jordan,0,Mohammad Abu Zraiq,1,3,Foul by Mohammad Abu Zraiq (Jordan). || Alexis Mac Allister (Argentina) wins a free kick in the defensive half. || Mohammad Abu Zraiq (Jordan) is shown the yellow card for a bad foul.,0,,,0
-760500_49687202,760500,ARG-CPV R32,4',4.0,Argentina,1,Rodrigo De Paul,0,2,Sidny Cabral (Cabo Verde) wins a free kick on the left wing. || Foul by Rodrigo De Paul (Argentina).,0,,,0
+760483_49648053,760483,JOR-ARG GS,88',88.0,Jordan,0,Husam Abu Dahab,0,2,Foul by Husam Abu Dahab (Jordan). || Valentín Barco (Argentina) wins a free kick on the right wing.,6,bbc,"[bbc] , substituted for Saleem Obaid at 90 minutes || [bbc] , substituted for Mohammad Abu Zraiq at 90 minutes || [bbc] , Yellow Card at 90 minutes plus 4",1
+760483_49648233,760483,JOR-ARG GS,90'+4',90.04,Jordan,0,Mohammad Abu Zraiq,1,3,Foul by Mohammad Abu Zraiq (Jordan). || Alexis Mac Allister (Argentina) wins a free kick in the defensive half. || Mohammad Abu Zraiq (Jordan) is shown the yellow card for a bad foul.,6,bbc,"[bbc] , substituted for Saleem Obaid at 90 minutes || [bbc] , substituted for Mohammad Abu Zraiq at 90 minutes || [bbc] , Yellow Card at 90 minutes plus 4",1
+760500_49687202,760500,ARG-CPV R32,4',4.0,Argentina,1,Rodrigo De Paul,0,2,Sidny Cabral (Cabo Verde) wins a free kick on the left wing. || Foul by Rodrigo De Paul (Argentina).,5,bbc,"[bbc] Ghana (Sat, 02:30 BST): BBC Radio 5 Live and live text coverage || [bbc] Colombia v Ghana (Sat, 02:30 BST) || [bbc] Colombia v Ghana (Sat, 2:30 BST)",1
 760500_49687303,760500,ARG-CPV R32,10',10.0,Argentina,1,Cristian Romero,0,2,Jovane Cabral (Cabo Verde) wins a free kick in the attacking half. || Foul by Cristian Romero (Argentina).,0,,,0
-760500_49687420,760500,ARG-CPV R32,17',17.0,Cape Verde,0,Jovane Cabral,0,2,Foul by Jovane Cabral (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half.,0,,,0
-760500_49687422,760500,ARG-CPV R32,17',17.0,Cape Verde,0,,0,2,Foul by Jovane Cabral (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half.,0,,,0
+760500_49687420,760500,ARG-CPV R32,17',17.0,Cape Verde,0,Jovane Cabral,0,2,Foul by Jovane Cabral (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half.,3,bbc,"[bbc] Egypt (19:00 BST): BBC One, BBC iPlayer, BBC Radio 5 Live and live text coverage || [bbc] Australia v Egypt (Fri, 19:00 BST) || [bbc] but there is growing optimism within the Egyptian camp that the captain could feature against the So",1
+760500_49687422,760500,ARG-CPV R32,17',17.0,Cape Verde,0,,0,2,Foul by Jovane Cabral (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half.,3,bbc,"[bbc] Egypt (19:00 BST): BBC One, BBC iPlayer, BBC Radio 5 Live and live text coverage || [bbc] Australia v Egypt (Fri, 19:00 BST) || [bbc] but there is growing optimism within the Egyptian camp that the captain could feature against the So",1
 760500_49687602,760500,ARG-CPV R32,32',32.0,Argentina,1,Nahuel Molina,0,2,Jovane Cabral (Cabo Verde) wins a free kick in the defensive half. || Foul by Nahuel Molina (Argentina).,0,,,0
 760500_49687737,760500,ARG-CPV R32,40',40.0,Cape Verde,0,Deroy Duarte,0,2,Foul by Deroy Duarte (Cabo Verde). || Thiago Almada (Argentina) wins a free kick in the defensive half.,0,,,0
 760500_49687776,760500,ARG-CPV R32,42',42.0,Cape Verde,0,Deroy Duarte,0,6,Foul by Deroy Duarte (Cabo Verde). || Enzo Fernández (Argentina) wins a free kick in the defensive half. || Foul by Diney Borges (Cabo Verde).,0,,,0
@@ -82,10 +110,10 @@ foul_id,event_id,match,minute_raw,minute_num,foul_team,is_argentina,foul_player,
 760500_49688345,760500,ARG-CPV R32,77',77.0,Argentina,1,Alexis Mac Allister,0,5,Jamiro Monteiro (Cabo Verde) wins a free kick in the attacking half. || Foul by Alexis Mac Allister (Argentina). || Attempt missed. Kevin Pina (Cabo Verde) right footed shot from outside the box misses to the left from a direct free kic,0,,,0
 760500_49688350,760500,ARG-CPV R32,78',78.0,Cape Verde,0,Dailon Livramento,0,7,Jamiro Monteiro (Cabo Verde) wins a free kick in the attacking half. || Foul by Alexis Mac Allister (Argentina). || Attempt missed. Kevin Pina (Cabo Verde) right footed shot from outside the box misses to the left from a direct free kic,0,,,0
 760500_49688366,760500,ARG-CPV R32,79',79.0,Cape Verde,0,Kevin Pina,0,5,Attempt missed. Kevin Pina (Cabo Verde) right footed shot from outside the box misses to the left from a direct free kic || Foul by Dailon Livramento (Cabo Verde). || Cristian Romero (Argentina) wins a free kick in the defensive half.,0,,,0
-760500_49688594,760500,ARG-CPV R32,90'+4',90.04,Cape Verde,0,Jamiro Monteiro,0,8,Foul by Jamiro Monteiro (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Vozinha (Cabo Verde) wins a free kick in the defensive half.,0,,,0
-760500_49688599,760500,ARG-CPV R32,90'+5',90.05,Argentina,1,Julián Alvarez,0,8,Foul by Jamiro Monteiro (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Vozinha (Cabo Verde) wins a free kick in the defensive half.,0,,,0
-760500_49688604,760500,ARG-CPV R32,90'+6',90.06,Argentina,1,Nico González,0,8,Foul by Jamiro Monteiro (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Vozinha (Cabo Verde) wins a free kick in the defensive half.,0,,,0
-760500_49688637,760500,ARG-CPV R32,90'+8',90.08,Cape Verde,0,Willy Semedo,0,8,Foul by Jamiro Monteiro (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Vozinha (Cabo Verde) wins a free kick in the defensive half.,0,,,0
+760500_49688594,760500,ARG-CPV R32,90'+4',90.04,Cape Verde,0,Jamiro Monteiro,0,8,Foul by Jamiro Monteiro (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Vozinha (Cabo Verde) wins a free kick in the defensive half.,1,bbc,"[bbc] There is not much between that and Australia’s win probability of 30.4%, which is close to the 31.0%",1
+760500_49688599,760500,ARG-CPV R32,90'+5',90.05,Argentina,1,Julián Alvarez,0,8,Foul by Jamiro Monteiro (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Vozinha (Cabo Verde) wins a free kick in the defensive half.,1,bbc,"[bbc] There is not much between that and Australia’s win probability of 30.4%, which is close to the 31.0%",1
+760500_49688604,760500,ARG-CPV R32,90'+6',90.06,Argentina,1,Nico González,0,8,Foul by Jamiro Monteiro (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Vozinha (Cabo Verde) wins a free kick in the defensive half.,1,bbc,"[bbc] There is not much between that and Australia’s win probability of 30.4%, which is close to the 31.0%",1
+760500_49688637,760500,ARG-CPV R32,90'+8',90.08,Cape Verde,0,Willy Semedo,0,8,Foul by Jamiro Monteiro (Cabo Verde). || Lionel Messi (Argentina) wins a free kick in the attacking half. || Vozinha (Cabo Verde) wins a free kick in the defensive half.,1,bbc,"[bbc] There is not much between that and Australia’s win probability of 30.4%, which is close to the 31.0%",1
 760500_49689253,760500,ARG-CPV R32,107',107.0,Cape Verde,0,Jamiro Monteiro,0,2,Foul by Jamiro Monteiro (Cabo Verde). || Alexis Mac Allister (Argentina) wins a free kick in the attacking half.,0,,,0
 760500_49689336,760500,ARG-CPV R32,110',110.0,Cape Verde,0,Willy Semedo,0,2,Foul by Willy Semedo (Cabo Verde). || Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.,0,,,0
 760500_49689475,760500,ARG-CPV R32,115',115.0,Argentina,1,Gonzalo Montiel,1,3,Hélio Varela (Cabo Verde) wins a free kick on the left wing. || Foul by Gonzalo Montiel (Argentina). || Gonzalo Montiel (Argentina) is shown the yellow card for a bad foul.,0,,,0
@@ -170,8 +198,18 @@ foul_id,event_id,match,minute_raw,minute_num,foul_team,is_argentina,foul_player,
 760515_49797543,760515,ENG-ARG SF,81',81.0,Argentina,1,Nico González,0,2,Harry Kane (England) wins a free kick in the defensive half. || Foul by Nico González (Argentina).,6,bbc,"[bbc] , substituted for D. Burn at 82 minutes || [bbc] , substituted for N. O'Reilly at 82 minutes || [bbc] , substituted for Lautaro Martínez at 81 minutes",1
 760515_49797746,760515,ENG-ARG SF,90'+9',90.09,England,0,Jude Bellingham,0,4,Foul by Jude Bellingham (England). || Lionel Messi (Argentina) wins a free kick in the defensive half. || Foul by Dan Burn (England).,2,bbc,"[bbc] , Yellow Card at 90 minutes plus 4 || [bbc] , Yellow Card at 90 minutes plus 4",1
 760515_49797778,760515,ENG-ARG SF,90'+12',90.12,England,0,Dan Burn,0,4,Foul by Jude Bellingham (England). || Lionel Messi (Argentina) wins a free kick in the defensive half. || Foul by Dan Burn (England).,2,bbc,"[bbc] , Yellow Card at 90 minutes plus 4 || [bbc] , Yellow Card at 90 minutes plus 4",1
-760517_49878814,760517,ESP-ARG Final,2',2.0,Spain,0,Pedro Porro,0,2,Nico González (Argentina) wins a free kick in the defensive half. || Foul by Pedro Porro (Spain).,20,bbc,[bbc] published at 01:00 BST 20 July || [bbc] published at 00:58 BST 20 July || [bbc] published at 00:56 BST 20 July,1
-760517_49878856,760517,ESP-ARG Final,4',4.0,Argentina,1,Gonzalo Montiel,0,2,Álex Baena (Spain) wins a free kick in the defensive half. || Foul by Gonzalo Montiel (Argentina).,0,,,0
+760517_49878814,760517,ESP-ARG Final,2',2.0,Spain,0,Pedro Porro,0,2,Nico González (Argentina) wins a free kick in the defensive half. || Foul by Pedro Porro (Spain).,23,bbc|guardian,[bbc] published at 01:00 BST 20 July || [bbc] published at 00:58 BST 20 July || [bbc] published at 00:56 BST 20 July,1
+760517_49878856,760517,ESP-ARG Final,4',4.0,Argentina,1,Gonzalo Montiel,0,2,Álex Baena (Spain) wins a free kick in the defensive half. || Foul by Gonzalo Montiel (Argentina).,2,guardian,"[guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s || [guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s",1
 760517_49878952,760517,ESP-ARG Final,8',8.0,Spain,0,Lamine Yamal,0,2,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half. || Foul by Lamine Yamal (Spain).,1,bbc,"[bbc] Argentina keeper Martinez had been their hero, and he prevented Spain scoring a winner in the final ",1
 760517_49879055,760517,ESP-ARG Final,14',14.0,Argentina,1,Alexis Mac Allister,0,2,Foul by Alexis Mac Allister (Argentina). || Dani Olmo (Spain) wins a free kick in the defensive half.,0,,,0
 760517_49879065,760517,ESP-ARG Final,16',16.0,Spain,0,Álex Baena,0,2,Lionel Messi (Argentina) wins a free kick in the attacking half. || Foul by Álex Baena (Spain).,0,,,0
@@ -187,32 +225,111 @@ foul_id,event_id,match,minute_raw,minute_num,foul_team,is_argentina,foul_player,
 760517_49879526,760517,ESP-ARG Final,45'+3',45.03,Spain,0,Mikel Oyarzabal,0,2,Lionel Messi (Argentina) wins a free kick in the defensive half. || Foul by Mikel Oyarzabal (Spain).,5,bbc,"[bbc] To only concede 1 goal in 8 games at a World Cup is unreal. Bravo Spain. England conceded 2 after 45 || [bbc] , substituted for N. Otamendi at 44 minutes || [bbc] , substituted for L. Paredes at 46 minutes",1
 760517_49879630,760517,ESP-ARG Final,50',50.0,Spain,0,Álex Baena,0,4,Rodrigo De Paul (Argentina) wins a free kick in the defensive half. || Foul by Álex Baena (Spain). || Gonzalo Montiel (Argentina) wins a free kick on the right wing.,0,,,0
 760517_49879640,760517,ESP-ARG Final,51',51.0,Spain,0,Álex Baena,0,6,Rodrigo De Paul (Argentina) wins a free kick in the defensive half. || Foul by Álex Baena (Spain). || Gonzalo Montiel (Argentina) wins a free kick on the right wing.,0,,,0
-760517_49879650,760517,ESP-ARG Final,52',52.0,Argentina,1,Leandro Paredes,1,4,Gonzalo Montiel (Argentina) wins a free kick on the right wing. || Foul by Álex Baena (Spain). || Foul by Leandro Paredes (Argentina).,0,,,0
+760517_49879650,760517,ESP-ARG Final,52',52.0,Argentina,1,Leandro Paredes,1,4,Gonzalo Montiel (Argentina) wins a free kick on the right wing. || Foul by Álex Baena (Spain). || Foul by Leandro Paredes (Argentina).,1,guardian,"[guardian] Paredes sent off after the final whistle
+12.07am
+CEST
+00:07
+Paredes sent off after the final whistle",1
 760517_49879672,760517,ESP-ARG Final,54',54.0,Spain,0,Pedro Porro,0,4,Julián Alvarez (Argentina) wins a free kick in the defensive half. || Foul by Pedro Porro (Spain). || Gonzalo Montiel (Argentina) wins a free kick in the defensive half.,0,,,0
 760517_49879678,760517,ESP-ARG Final,54',54.0,Spain,0,Álex Baena,0,4,Julián Alvarez (Argentina) wins a free kick in the defensive half. || Foul by Pedro Porro (Spain). || Gonzalo Montiel (Argentina) wins a free kick in the defensive half.,0,,,0
 760517_49879710,760517,ESP-ARG Final,56',56.0,Argentina,1,Julián Alvarez,0,2,Foul by Julián Alvarez (Argentina). || Aymeric Laporte (Spain) wins a free kick in the defensive half.,2,bbc,"[bbc] , substituted for N. Molina at 58 minutes || [bbc] , substituted for N. Molina at 58 minutes",1
 760517_49879711,760517,ESP-ARG Final,56',56.0,Argentina,1,,0,2,Foul by Julián Alvarez (Argentina). || Aymeric Laporte (Spain) wins a free kick in the defensive half.,2,bbc,"[bbc] , substituted for N. Molina at 58 minutes || [bbc] , substituted for N. Molina at 58 minutes",1
-760517_49879759,760517,ESP-ARG Final,60',60.0,Argentina,1,Leandro Paredes,0,2,Foul by Leandro Paredes (Argentina). || Pedro Porro (Spain) wins a free kick in the attacking half.,6,bbc,"[bbc] , substituted for Pedri at 62 minutes || [bbc] , substituted for Ferran Torres at 62 minutes || [bbc] , substituted for N. Molina at 58 minutes",1
+760517_49879759,760517,ESP-ARG Final,60',60.0,Argentina,1,Leandro Paredes,0,2,Foul by Leandro Paredes (Argentina). || Pedro Porro (Spain) wins a free kick in the attacking half.,7,bbc|guardian,"[bbc] , substituted for Pedri at 62 minutes || [bbc] , substituted for Ferran Torres at 62 minutes || [bbc] , substituted for N. Molina at 58 minutes",1
 760517_49879773,760517,ESP-ARG Final,62',62.0,Argentina,1,Nicolás Otamendi,0,2,Foul by Nicolás Otamendi (Argentina). || Ferran Torres (Spain) wins a free kick on the right wing.,5,bbc,"[bbc] He was in action again with another crucial stop from Williams' header. Williams then had a goal rul || [bbc] , substituted for Pedri at 62 minutes || [bbc] , substituted for Ferran Torres at 62 minutes",1
-760517_49879939,760517,ESP-ARG Final,76',76.0,Argentina,1,Leandro Paredes,0,2,Foul by Leandro Paredes (Argentina). || Mikel Merino (Spain) wins a free kick in the attacking half.,4,bbc,"[bbc] , substituted for Nico Williams at 75 minutes || [bbc] , substituted for Mikel Merino at 75 minutes || [bbc] , substituted for Nico Williams at 75 minutes",1
+760517_49879939,760517,ESP-ARG Final,76',76.0,Argentina,1,Leandro Paredes,0,2,Foul by Leandro Paredes (Argentina). || Mikel Merino (Spain) wins a free kick in the attacking half.,5,bbc|guardian,"[bbc] , substituted for Nico Williams at 75 minutes || [bbc] , substituted for Mikel Merino at 75 minutes || [bbc] , substituted for Nico Williams at 75 minutes",1
 760517_49880030,760517,ESP-ARG Final,81',81.0,Argentina,1,Giuliano Simeone,1,3,Foul by Giuliano Simeone (Argentina). || Marc Cucurella (Spain) wins a free kick in the defensive half. || (Spain) wins a free kick in the attacking half.,0,,,0
-760517_49880083,760517,ESP-ARG Final,84',84.0,Argentina,1,Enzo Fernández,1,2,Foul by Enzo Fernández (Argentina). || Mikel Merino (Spain) wins a free kick in the defensive half.,0,,,0
-760517_49880179,760517,ESP-ARG Final,90'+1',90.01,Spain,0,Ferran Torres,0,9,Nicolás Otamendi (Argentina) wins a free kick in the defensive half. || Foul by Ferran Torres (Spain). || Lionel Messi (Argentina) wins a free kick in the attacking half.,5,bbc,"[bbc] Two Yellow Cards 90 minutes plus 3 || [bbc] , Yellow Card at 90 minutes plus 2 || [bbc] , Two Yellow Cards at 90 minutes plus 3",1
+760517_49880083,760517,ESP-ARG Final,84',84.0,Argentina,1,Enzo Fernández,1,2,Foul by Enzo Fernández (Argentina). || Mikel Merino (Spain) wins a free kick in the defensive half.,1,guardian,"[guardian] Spain win the World Cup after Ferran Torres dethrones 10-man Argentina in extra time
+12.08am
+CEST
+00",1
+760517_49880179,760517,ESP-ARG Final,90'+1',90.01,Spain,0,Ferran Torres,0,9,Nicolás Otamendi (Argentina) wins a free kick in the defensive half. || Foul by Ferran Torres (Spain). || Lionel Messi (Argentina) wins a free kick in the attacking half.,6,bbc|guardian,"[bbc] Two Yellow Cards 90 minutes plus 3 || [bbc] , Yellow Card at 90 minutes plus 2 || [bbc] , Two Yellow Cards at 90 minutes plus 3",1
 760517_49880188,760517,ESP-ARG Final,90'+1',90.01,Spain,0,Aymeric Laporte,0,9,Nicolás Otamendi (Argentina) wins a free kick in the defensive half. || Foul by Ferran Torres (Spain). || Lionel Messi (Argentina) wins a free kick in the attacking half.,5,bbc,"[bbc] Two Yellow Cards 90 minutes plus 3 || [bbc] , Yellow Card at 90 minutes plus 2 || [bbc] , Two Yellow Cards at 90 minutes plus 3",1
-760517_49880212,760517,ESP-ARG Final,90'+3',90.03,Argentina,1,Enzo Fernández,1,9,Nicolás Otamendi (Argentina) wins a free kick in the defensive half. || Foul by Ferran Torres (Spain). || Lionel Messi (Argentina) wins a free kick in the attacking half.,5,bbc,"[bbc] Two Yellow Cards 90 minutes plus 3 || [bbc] , Yellow Card at 90 minutes plus 2 || [bbc] , Two Yellow Cards at 90 minutes plus 3",1
-760517_49880237,760517,ESP-ARG Final,90'+6',90.06,Argentina,1,Leandro Paredes,1,9,Nicolás Otamendi (Argentina) wins a free kick in the defensive half. || Foul by Ferran Torres (Spain). || Lionel Messi (Argentina) wins a free kick in the attacking half.,5,bbc,"[bbc] Two Yellow Cards 90 minutes plus 3 || [bbc] , Yellow Card at 90 minutes plus 2 || [bbc] , Two Yellow Cards at 90 minutes plus 3",1
+760517_49880212,760517,ESP-ARG Final,90'+3',90.03,Argentina,1,Enzo Fernández,1,9,Nicolás Otamendi (Argentina) wins a free kick in the defensive half. || Foul by Ferran Torres (Spain). || Lionel Messi (Argentina) wins a free kick in the attacking half.,6,bbc|guardian,"[bbc] Two Yellow Cards 90 minutes plus 3 || [bbc] , Yellow Card at 90 minutes plus 2 || [bbc] , Two Yellow Cards at 90 minutes plus 3",1
+760517_49880237,760517,ESP-ARG Final,90'+6',90.06,Argentina,1,Leandro Paredes,1,9,Nicolás Otamendi (Argentina) wins a free kick in the defensive half. || Foul by Ferran Torres (Spain). || Lionel Messi (Argentina) wins a free kick in the attacking half.,6,bbc|guardian,"[bbc] Two Yellow Cards 90 minutes plus 3 || [bbc] , Yellow Card at 90 minutes plus 2 || [bbc] , Two Yellow Cards at 90 minutes plus 3",1
 760517_49880277,760517,ESP-ARG Final,92',92.0,Spain,0,Pedro Porro,0,4,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half. || Foul by Pedro Porro (Spain). || Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,5,bbc,"[bbc] Two Yellow Cards 90 minutes plus 3 || [bbc] , Yellow Card at 90 minutes plus 2 || [bbc] , Two Yellow Cards at 90 minutes plus 3",1
 760517_49880298,760517,ESP-ARG Final,93',93.0,Spain,0,Pedri,0,6,Nicolás Tagliafico (Argentina) wins a free kick in the defensive half. || Foul by Pedro Porro (Spain). || Alexis Mac Allister (Argentina) wins a free kick in the defensive half.,0,,,0
 760517_49880311,760517,ESP-ARG Final,94',94.0,Argentina,1,Giuliano Simeone,0,4,Alexis Mac Allister (Argentina) wins a free kick in the defensive half. || Foul by Pedri (Spain). || Foul by Giuliano Simeone (Argentina).,0,,,0
 760517_49880352,760517,ESP-ARG Final,96',96.0,Spain,0,Mikel Merino,0,2,Nicolás Otamendi (Argentina) wins a free kick in the defensive half. || Foul by Mikel Merino (Spain).,1,bbc,[bbc] He was in action again with another crucial stop from Williams' header. Williams then had a goal rul,1
-760517_49880377,760517,ESP-ARG Final,100',100.0,Argentina,1,Lionel Messi,0,2,Foul by Lionel Messi (Argentina). || Pau Cubarsí (Spain) wins a free kick in the defensive half.,6,bbc,"[bbc] , substituted for Eric García at 99 minutes || [bbc] , substituted for Martín Zubimendi at 99 minutes || [bbc] , substituted for M. Senesi at 102 minutes",1
+760517_49880377,760517,ESP-ARG Final,100',100.0,Argentina,1,Lionel Messi,0,2,Foul by Lionel Messi (Argentina). || Pau Cubarsí (Spain) wins a free kick in the defensive half.,7,bbc|guardian,"[bbc] , substituted for Eric García at 99 minutes || [bbc] , substituted for Martín Zubimendi at 99 minutes || [bbc] , substituted for M. Senesi at 102 minutes",1
 760517_49880504,760517,ESP-ARG Final,105'+3',105.03,Argentina,1,Giuliano Simeone,0,2,Foul by Giuliano Simeone (Argentina). || Pedro Porro (Spain) wins a free kick in the defensive half.,2,bbc,[bbc] Ferran Torres breaks the deadlock after 106 minutes with a close-range strike || [bbc] Torres was the hero for Spain when he collected substitute Nico Williams' header to beat Argentina k,1
 760517_49880506,760517,ESP-ARG Final,105'+3',105.03,Argentina,1,,0,2,Foul by Giuliano Simeone (Argentina). || Pedro Porro (Spain) wins a free kick in the defensive half.,2,bbc,[bbc] Ferran Torres breaks the deadlock after 106 minutes with a close-range strike || [bbc] Torres was the hero for Spain when he collected substitute Nico Williams' header to beat Argentina k,1
-760517_49880534,760517,ESP-ARG Final,108',108.0,Spain,0,Lamine Yamal,0,2,Nicolás Tagliafico (Argentina) wins a free kick in the attacking half. || Foul by Lamine Yamal (Spain).,3,bbc,"[bbc] Ferran Torres breaks the deadlock after 106 minutes with a close-range strike || [bbc] Torres was the hero for Spain when he collected substitute Nico Williams' header to beat Argentina k || [bbc] Argentina keeper Martinez had been their hero, and he prevented Spain scoring a winner in the final ",1
-760517_49880588,760517,ESP-ARG Final,111',111.0,Argentina,1,Alexis Mac Allister,1,5,Foul by Alexis Mac Allister (Argentina). || Marc Cucurella (Spain) wins a free kick in the defensive half. || Alexis Mac Allister (Argentina) is shown the yellow card for a bad foul.,2,bbc,"[bbc] , Yellow Card at 111 minutes extra time || [bbc] , Yellow Card at 111 minutes extra time",1
-760517_49880598,760517,ESP-ARG Final,111',111.0,Argentina,1,Nicolás Tagliafico,1,5,Foul by Alexis Mac Allister (Argentina). || Marc Cucurella (Spain) wins a free kick in the defensive half. || Alexis Mac Allister (Argentina) is shown the yellow card for a bad foul.,2,bbc,"[bbc] , Yellow Card at 111 minutes extra time || [bbc] , Yellow Card at 111 minutes extra time",1
-760517_49880643,760517,ESP-ARG Final,114',114.0,Spain,0,Nico Williams,0,2,Leandro Paredes (Argentina) wins a free kick on the right wing. || Foul by Nico Williams (Spain).,1,bbc,[bbc] He was in action again with another crucial stop from Williams' header. Williams then had a goal rul,1
-760517_49880697,760517,ESP-ARG Final,119',119.0,Spain,0,Nico Williams,0,2,Marcos Senesi (Argentina) wins a free kick on the right wing. || Foul by Nico Williams (Spain).,1,bbc,[bbc] He was in action again with another crucial stop from Williams' header. Williams then had a goal rul,1
-760517_49880735,760517,ESP-ARG Final,120'+3',120.03,Argentina,1,Nicolás Tagliafico,0,6,Foul by Nicolás Tagliafico (Argentina). || Pau Cubarsí (Spain) wins a free kick in the defensive half. || Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,0,,,0
-760517_49880744,760517,ESP-ARG Final,120'+4',120.04,Spain,0,Eric García,0,6,Foul by Nicolás Tagliafico (Argentina). || Pau Cubarsí (Spain) wins a free kick in the defensive half. || Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,0,,,0
-760517_49880758,760517,ESP-ARG Final,120'+5',120.05,Spain,0,Marc Cucurella,0,6,Foul by Nicolás Tagliafico (Argentina). || Pau Cubarsí (Spain) wins a free kick in the defensive half. || Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,0,,,0
+760517_49880534,760517,ESP-ARG Final,108',108.0,Spain,0,Lamine Yamal,0,2,Nicolás Tagliafico (Argentina) wins a free kick in the attacking half. || Foul by Lamine Yamal (Spain).,5,bbc|guardian,"[bbc] Ferran Torres breaks the deadlock after 106 minutes with a close-range strike || [bbc] Torres was the hero for Spain when he collected substitute Nico Williams' header to beat Argentina k || [bbc] Argentina keeper Martinez had been their hero, and he prevented Spain scoring a winner in the final ",1
+760517_49880588,760517,ESP-ARG Final,111',111.0,Argentina,1,Alexis Mac Allister,1,5,Foul by Alexis Mac Allister (Argentina). || Marc Cucurella (Spain) wins a free kick in the defensive half. || Alexis Mac Allister (Argentina) is shown the yellow card for a bad foul.,4,bbc|guardian,"[bbc] , Yellow Card at 111 minutes extra time || [bbc] , Yellow Card at 111 minutes extra time || [guardian] 11.49pm
+CEST
+23:49
+111 min
+Mac Allister is booked for a foul on somebody or other.
+Argentina
+look se",1
+760517_49880598,760517,ESP-ARG Final,111',111.0,Argentina,1,Nicolás Tagliafico,1,5,Foul by Alexis Mac Allister (Argentina). || Marc Cucurella (Spain) wins a free kick in the defensive half. || Alexis Mac Allister (Argentina) is shown the yellow card for a bad foul.,4,bbc|guardian,"[bbc] , Yellow Card at 111 minutes extra time || [bbc] , Yellow Card at 111 minutes extra time || [guardian] 11.49pm
+CEST
+23:49
+111 min
+Mac Allister is booked for a foul on somebody or other.
+Argentina
+look se",1
+760517_49880643,760517,ESP-ARG Final,114',114.0,Spain,0,Nico Williams,0,2,Leandro Paredes (Argentina) wins a free kick on the right wing. || Foul by Nico Williams (Spain).,5,bbc|guardian,"[bbc] He was in action again with another crucial stop from Williams' header. Williams then had a goal rul || [guardian] 11.54pm
+CEST
+23:54
+116 min
+What the hell was that? Williams beats Molina on the left, moves into the || [guardian] 11.52pm
+CEST
+23:52
+115 min
+Messi takes a short corner on the right, gets it back and curls a big, di",1
+760517_49880697,760517,ESP-ARG Final,119',119.0,Spain,0,Nico Williams,0,2,Marcos Senesi (Argentina) wins a free kick on the right wing. || Foul by Nico Williams (Spain).,7,bbc|guardian,"[bbc] He was in action again with another crucial stop from Williams' header. Williams then had a goal rul || [guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s || [guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s",1
+760517_49880735,760517,ESP-ARG Final,120'+3',120.03,Argentina,1,Nicolás Tagliafico,0,6,Foul by Nicolás Tagliafico (Argentina). || Pau Cubarsí (Spain) wins a free kick in the defensive half. || Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,5,guardian,"[guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s || [guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s || [guardian] 11.58pm
+CEST
+23:58
+120+1 min
+Five minutes of added time. Blimey.",1
+760517_49880744,760517,ESP-ARG Final,120'+4',120.04,Spain,0,Eric García,0,6,Foul by Nicolás Tagliafico (Argentina). || Pau Cubarsí (Spain) wins a free kick in the defensive half. || Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,5,guardian,"[guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s || [guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s || [guardian] 11.58pm
+CEST
+23:58
+120+1 min
+Five minutes of added time. Blimey.",1
+760517_49880758,760517,ESP-ARG Final,120'+5',120.05,Spain,0,Marc Cucurella,0,6,Foul by Nicolás Tagliafico (Argentina). || Pau Cubarsí (Spain) wins a free kick in the defensive half. || Nicolás Otamendi (Argentina) wins a free kick in the defensive half.,5,guardian,"[guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s || [guardian] 120+2 min: Great chance for Simeone!
+11.59pm
+CEST
+23:59
+120+2 min: Great chance for Simeone!
+Messi’s || [guardian] 11.58pm
+CEST
+23:58
+120+1 min
+Five minutes of added time. Blimey.",1
